@@ -11,4 +11,8 @@ output:
     toc_depth: 3
 ---
 
-[Etharis](/Amber-Etharis.html)
+# Pages { .halfSize .book}
+
+Links | DM
+:--: | :--:
+[Etharis](Amber-Etharis.html) | Amber

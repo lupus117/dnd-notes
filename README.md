@@ -2,4 +2,4 @@
 
 Some links:
 
-[Etharis](/Amber-Etharis.html)
+[Index](https://lupus117.github.io/DnD-notes/)
