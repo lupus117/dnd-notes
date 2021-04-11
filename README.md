@@ -2,4 +2,4 @@
 
 Some links:
 
-[Index](https://lupus117.github.io/DnD-notes/)
+[Index](https://lupus117.github.io/dnd-notes/)
