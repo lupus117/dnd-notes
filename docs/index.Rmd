@@ -13,7 +13,7 @@ output:
     toc_depth: 3
 ---
 
-# Pages { .halfSize .book}
+# Pages { .halfSize .book .textlarge}
 
 Links | DM
 :--: | :--:
