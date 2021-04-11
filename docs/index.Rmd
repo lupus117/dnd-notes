@@ -15,4 +15,4 @@ output:
 
 Links | DM
 :--: | :--:
-[Etharis](DnD-notes/Amber-Etharis.html) | Amber
+[Etharis](dnd-notes/Amber-Etharis.html) | Amber
