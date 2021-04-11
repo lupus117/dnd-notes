@@ -4,6 +4,8 @@ author: "Lupus"
 date: 'Last updated: `r Sys.Date()`'
 output:
   html_document:    
+    includes:
+      in_header: etharis_header.html
     css: ../notes.css
     toc: yes
   pdf_document:
