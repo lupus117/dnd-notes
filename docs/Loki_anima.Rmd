@@ -1,0 +1,123 @@
+---
+title: "The world of Anima"
+author: "Lupus"
+date: 'Last updated: `r Sys.Date()`'
+output:
+  
+  html_document: 
+    css: notes.css
+   
+  pdf_document: 
+    toc: true
+    toc_depth: 3
+---
+
+# Journal 
+
+# David B. Robinson { .tabset .tabset-fade .tabset-pills}
+
+## Overview {.old .token}
+
+![](Anima/David.png){ .token }
+
+
+
+## Bio {.old}
+
+### Basics {.gridbook .threeQuartersSize .textLarge }
+
+Name: **David B. Robinson**
+
+Age: **18**  
+Birthday: **18. feb**  
+Starsign: **Aquarius**  
+Height: **6ft**  
+Favourite colour: **Yellow**  
+Nationality: **English**  
+Hobbies: **Photography, art, videogames, movies and anime**  
+
+***
+
+Social likes: **New people, banter and helping out**  
+Social Dislikes: **Being crass, waiting on people, and not being taken seriously**  
+
+*** 
+
+Likes: **Exploring, fashion, people and pizza**  
+Dislikes: **Physics, the cold, 7**(unlucky) **and** (competitive) **sports**
+
+### Other Family-members {  .tabset .halfSize  .cardOnHover}
+
+#### Alyssa {.textNormal .gridbook}
+
+Name: **Alyssa Dulcia Robinson**  
+Role: **Third child**  
+Age: **20**  
+Occupation: **Student** (medicine)  
+David-o meter: **Great**  
+
+#### Elliott {.textNormal .gridbook}
+
+Name: **Elliott Wymark Robinson**  
+Role: **Second child**  
+Age: **23**  
+Occupation: **Physics major**  
+David-o meter: **sub-par**
+
+#### Adam {.textNormal .gridbook}
+
+Name: **Adam Godith Robinson**  
+Role: **First child**  
+Age: **24**  
+Occupation: **Buisnessman** (assistant to family business)  
+David-o meter: **good**
+
+
+#### Mandrew {.textNormal .gridbook}
+
+Name: **Mandrew Robinson**  
+Role: **Father**  
+Age: **47**  
+Occupation: **Family business co-owner**  
+David-o meter: **distant**
+
+#### Denise {.textNormal .gridbook}
+
+Name: **Denise Robinson**  
+Role: **Mother**  
+Age: **49**  
+Occupation: **Family business co-owner**  
+David-o meter: **distant but supportive**
+
+
+
+
+### Life in england {.justify}
+
+#### Childhood
+
+David was born as the fourth child. Due to his parents workaholic nature they were very well off. He was left to his own devices most of the time, playing with his sister and doing what he feels like.   
+
+#### School life
+
+When he started attending school he did decent, finding more interest in the classmates more than the lessons, though he made sure to not fall behind in anything. Art especially, that intrigued him. He Started with drawing and worked his way to other forms.
+
+Elliott did not take the best to David's carefree attitude however, always trying to nudge him to more profitable and intellectual endeavors. This view was not shared by Adam and Alyssa however. Adam thinking that David should do as he himself chooses, that's the best way to improve in what you choose after all. Alyssa actively supporting his brother and seeing potential in his artistic activities.
+
+#### Photography 
+
+Though long interested in art once he dipped his toe into photography, he was hooked. All thanks to his sister, who bought him a camera for his 16th birthday.  
+
+#### Otowa
+
+Being interested in other cultures, especially eastern, David jumped on the idea when he learned that there was a prestigious school with a top of the line photography and art department in Otowa. He spent the next two years getting ready as he finished his last school. He took classes on the languages there, and advanced his hobbies further. One day he stumbled across the name of a game **The world of anima**. It seemed like some urban legend, he didn't seem to have any luck in talking about it online, the messages were deleted almost as soon as they were made. Oh well, in person he'd be able to ask people once there.
+
+
+
+
+
+
+
+
+
+

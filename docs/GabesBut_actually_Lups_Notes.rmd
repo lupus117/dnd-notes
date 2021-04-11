@@ -1,0 +1,180 @@
+---
+title: "Loki Varren Notes"
+author: "Lupus"
+date: 'Last updated: `r Sys.Date()`'
+output:
+  
+  
+  html_document: default
+  pdf_document: 
+    toc: true
+    toc_depth: 3
+---
+
+# Players and characters
+Players | Characters | Tokens
+--:|:--:|:--
+**Loki** | **Dungeon Master**
+Gabe | Hugo | ![](Arriven/Hugo.png){width=10%}
+Slowpoke | Cassandra | ![](Arriven/Cass.png){width=10%}
+Barth | Donald Quijote | ![](Arriven/Don.png){width=10%}
+Okami | Stray | ![](Arriven/Stray.png){width=10%}
+Lupus | River | ![](Arriven/River_token.png){width=10%}
+
+# Notes {.tabset .tabset-fade .tabset-pills  .old}
+
+## Last time we...
+Notes from last session |
+--|--
+*Text Text Text*
+
+## In the past...
+Notes from xx/xx/xx |
+--|--
+*Text Text Text*
+
+# The world {.tabset .tabset-fade .tabset-pills  .old}
+**Date:** Shu 1763
+
+## Varren  
+![](Arriven/Town_of_Varren.jpg)  
+
+### The Town {.tabset .tabset-fade .tabset-pills  .old}
+
+#### Overview 
+
+**People of Interest**
+
+* Felix: **Unknown**
+* Mayor Everett: **Unknown**
+* ~~Baker Martha Stevens~~: **Deceased**
+* Mr. Stevens: **Unknown**
+* Father Vincent: **Unknown**
+* *Traveling merchant (Jin, trav): **Alive**
+
+**Resources** 
+
+* Farms
+* Trees
+
+**Buildings**
+
+* Tavern
+* Orphanage
+* Bakery
+* church
+
+
+#### Trav
+The traveling merchant merchant. | 
+--|-- 
+Storyteller, well liked. friend of Felix. (river calls him Trav) Is from way up north, his uniform being a basket on his head. Real name is **Jin**, he is a good person and knows how to survive in the wild. | ![](Arriven/Trav2.png){.token}
+
+
+#### Felix
+Founder of the Varren orphanage, Father to the children | 
+--|--
+An old man with a kind heart. Felix wears a ring on one of his hands, though he doesn't talk about his past, we know he was a wanderer. He does all he can to make sure his kids can live a normal life. Calls **Trav** Old friend | ![](Arriven/Felix.png)
+
+#### Father Vincent
+Holyman of Longinus | 
+--|--
+Devout follower of Longinus, educated man in charge of the Varren church. Taught Cas, Lucas and River. He held the line with Felix in letting the others escape. Turns out could cast spells because of his devoutness. | ![](Arriven/Vincent.png)
+
+#### Stevens family
+Mr stevens, a hunter and lumberjack, rarely seen.
+After Martha Stevens, their mother, died. Most of the children put the blame on the children from the orphenage. Not willing to travel together, they split ways.
+
+Jessy | Lucas | Michael
+:--:|:--:|:--:
+![](Arriven/Jessica.png) | ![](Arriven/Lucas.png) | ![](Arriven/Michael.png)
+ Cunning, unforgiving. untrusting and jealous.(16) | Bookworm, wants to be a hunter, studied in the church.(17) | Big boy, the eldest, farmer, lumberjack, mama's boy.(19)
+
+#### Andrus
+The travelling knight. |
+--|--
+A mysterious adventurer who traveled to Varren from the west, he said he woke in a hospital where people were experimenting on people.
+He's from Magdala, a city witch has not existed for a long long time, and he came in to town with his crew, four more iron clad individuals: Striker, Sleeker, Tracker and Forward. 
+All of them turned crazy, and started attacking the people of Varren. Some shadow-like material took the place of their normal bodies, and cracks in the ground would open around their feet.
+
+## Cromley
+Town most near Varren, filled with old people
+
+## Besta 
+Mr Besta, knew **Felix**, Trav says to go to him and show the item Felix gave the party.
+
+# World Lore  
+
+## Longinus, the god of justice
+holy symbol | 
+-|-
+Longsword pointing down, with scales. | ![](Arriven/longinus_holy_symbol.png)
+
+older brother of the god of vengeance and conquest
+
+## The twisted forest
+made by a jealous witch, because a king was more liked than her.
+Spreads continually, unhampered by people.
+
+## Ever darkening sky
+
+civilizations, bandits, wanderers, military factions. 
+
+### Dusk knights
+remnants of the military(black guard). They roam around the regions, using magical equipment, constantly drawing attention of terrors. To people they are a beakon of hope in time of need. When not in need they are shunned.
+
+
+### Hunters
+travel alone without magic, slaying terrors. Acting like inquisitors, keeping an eye out for corruptions of magic monsters and otherworldly forces.
+
+# Hugo  {.tabset .tabset-fade .tabset-pills  .old}
+
+## Bio 
+
+![](Arriven/Hugo.png){width=80%}
+
+A tall, large half orc with long braided white hair and a dark complexion.
+He stands over two meters tall, with a body tempered by time and a rough past. He carries the pelt of a grey wolf on his shoulders, and a staff with different carvings, each with its own meaning.
+He is a very kind-hearted individual, always ready to help others and to talk before throwing hands. 
+People know him for his menacing look, but also because of his overprotective instinct towards the people close to him. There's no distinction between chopping some wood with an axe or jumping from a ledge hundreds of feet up in the air, for Hugo any even slightly dangerous endeavor must be taken by him and him only.
+With his tough skin and resilient body, he believes he can take on the world for the people he cares about. He thinks of himself as 'strong', while any one else he sees around him is weaker, and in need of his protection. 
+And that's why, no matter what, everything that involves a risk is part of his juristiction, it's *his* duty to carry on.
+
+## Backstory
+
+### Childhood
+
+Hugo was brong from Morkhan, a retired half-orc adventurer, and Margaret, his human mother.
+
+Morkhan was a drunkard, drowning his past traumas in booze and releasing his pent up frustration by hitting mostly Hugo, but his wife too.
+Every day, he'd come home late at night smelling like a distillery, and he would start shouting nonsense, ordering his family around. And if someone were to say something against him, he'd start beating them. 
+Sometimes he was too drunk to even clench his fists, some other times he was angry from loosing money at the inn after a miserable match at cards, and would beat Hugo without any reason.
+
+His mother Margaret was a delicate woman, and Hugo knew that. He was happy to be the target of the father's violence, if it meant that his mother would be safe.
+She was the most kind person Hugo ever met, and she taught his son to be as kind as her. Despite the negative environment, his mother's teachings were the only respite from the father.
+
+Hugo spent most of his time outside home, wandering in the woods and befriending small critters, which he found out to have  an unique bond with.
+The town life wasn't for him. He never learned how to socialize with people, and thus never felt the need to meet other kids. 
+Instead, he preferred the quietness of the forest, and the company of animals.
+ 
+### The End of a Bad Dream
+ 
+Hugo kept on living like this for 10 long years, until one fateful day.
+It all started when a group of traveling merchants arrived in town. They slept at the tavern for a few days, and Hugo notices one or two of them passing by his house.
+One night, while the family was asleep, Hugo was heading back from an errand his father sent him to, and in the distance, right where his hose was, he saw something.
+A flash of light, then a bright red sphere, and a large explosion. After that, fire began spreading to nearby houses, and the panic ensued. The town was flooded by an army of bandits that came throught a hole in the walls, and bega runshacking everything.
+Hugo rushed to his house, to find it set on fire. He ran inside, but it was too late. His mother, dead under a pile of burning rubbles. His father? Oh, Morkhan was alive, stuck under a heavy plank. The moment he saw Hugo, he started shouting once more, to help him, to get him out of there.
+And Hugo did something he still regrets to this day.
+He walked backwards through the door, ran away and never turned back. Outside his house, he found **Cassandra**, laying unconscious on the ground. He picked her up, and kept running.
+
+
+### The Orphanage
+
+Only a few survived the attack, Hugo and Cassandra being part of this small group. They were dropped at the orphanage of Varren, where they met Felix the caretaker, and the other children staying with him: the Half Elf River, the Elf Stray and Don.
+At first Hugo was suspicious of everyone, trying to keep Cassandra away from any possible danger.
+But as the years passed, he began to know them more and more, and in the end, trust them enough to consider them his new "family".
+
+## Relationships {.tabset .tabset-fade .tabset-pills  .old}
+
+
+# misc notes to carry into top

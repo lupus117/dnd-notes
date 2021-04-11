@@ -1,0 +1,408 @@
+---
+title: "The world of Etharis"
+author: "Lupus"
+date: 'Last updated: `r Sys.Date()`'
+output:
+  html_document:    
+    includes:
+      in_header: etharis_header.html
+    css: ../notes.css
+    toc: yes
+  pdf_document:
+    toc: yes
+    toc_depth: 3
+---
+# ♪ The Dreamland Troupe ♪ 
+
+Alin | Masq | Unit | Hallbjorn  | Abraxas
+:-:|:-:|:-:|:-:|:-:
+![](../Etharis/Alin.png){.circle .zoom25} | ![](../Etharis/Masq.png){.circle .zoom} | ![](../Etharis/Unit.png){.circle .zoom25} |![](../Etharis/Hallbjorn.jpg){.circle .zoom} |![](../Etharis/Abraxas.jpg){.circle .zoom} 
+Lupus | Barth | Carmen | Crypton | Slowpoke
+# Etharis {.tabset .tabset-fade .tabset-pills .old}
+
+## The Dreamland Travellers 
+
+![](../Etharis/Dreamland_travellers.png){.halfSize width=50% }
+
+*“To entertain with talent and looks is great, but to entertain with ones soul; that is magnificent.”* 
+
+**Headquarters:** None
+
+Songs unsang, dances long forgotten and stories of man and monster none have ever laid their eyes upon; sure signs that the Dreamland Travellers are in town. This rag-tag band of individuals travel the lands of Etharis to spread their arts for the delights of others; and earn a pretty penny in the process. 
+
+As all strangers are, they are treated with excessive amounts of distrust by most; moreso by those of the higher classes. To those who can't afford regular entertainment, however, they are a welcomed sight and make for a colourful evening of entertainment at the low price of a few coppers. 
+
+The troupe is comprised of people from all nationalities and (former) walks of life; outcasts, runaways, the odd ostracized or down-on-their luck noble; all find a home under the wings of freedom. Those who find themselves a part of the troupe are inaugurated as family in a binding ritual that marks each of them as protected by the others: for the blood of the coven runs thicker than the water of the womb.  It is in this ritual that a new member sheds their last name in favour of becoming a Dreamlander. 
+
+At the head of the Dreamland family sits matriarch Tessilia, an older woman who hails from Charneault. In her younger years, she and her friends joined a travelling caravan of merchants and used what skills as entertainers they had to get by. As time passed, more souls joined them until they had enough carriages to form their own caravan.  
+
+## Ostoya {.tabset .tabset-fade .tabset-pills}
+
+### The Stillborn forest
+
+At times of famine, one more mouth to feed can spell the end for an entire family. Giving birth to an illegitimate child, or gods forbid, the child of an outsider, could bring shame and accusation of familial betrayal or witchcraft to the parents of Ostoya. Sadly, there are many reasons for a child to be abandoned, each more heartbreaking than the last.
+
+The stillborn forest received its name as a result of this very practice. Be it burying the corpse of an unwanted child or the improper burial of a stillborn infant, the stillborn forest is one that seems to be rife with decay, death and sadness.
+
+#### Layout
+The layout of the stillborn forest appears to shift constantly, making straying off the beaten path a dangerous affair. The wildlife is abundant and full of diversity, consisting mostly of wild game such as deer, rabbit and pheasant, but animals such as wolves, bears and crows are an ever present factor of this ecosystem. 
+
+Many of the trees bear occult markings, both carved and painted, as well as being adorned by woven figures of twine and straw. Most disturbing of all, perhaps, is the presence of single humanoid ears hanging from branches. They come in all sizes and colours and seem to be made up equally of left and right ears.  
+
+#### The Lady
+The forest is also rumoured to be the home to an ancient being - far older than humans, older than the stone academies and the mages, older even than dwarves and elves. The folk who live in the forest have never seen her, but they know she protects them. It would seem that this is the case, as Weeping Pox has not reached the lands of Lunsk and Fallowheart. 
+
+If one listens to tales and stories, you will learn how to plea for help from the lady; such help always comes at a price, but the lady has the reputation to always keep her word. It is rumoured that the Lady helps those who are faint of heart out with unwanted offspring as well. This is how one begs help from the Lady; 
+
+"Find a child, young and innocent, and search out the Lady's shrine—that is where the Trail of Treats begins. Set the child off on the trail and it shall follow its sweet track and find the Good Lady. The child will never want for anything ever again, for the Lady is kind and generous. Standing before her shrine, pronounce your request and the Good Lady will hear, for she sees and hears all that takes place in her demesne. If you made the offering as it must be done, your supplication will be heard." 
+
+![](../Etharis/Stillborn_forest.PNG)
+
+### The Black Myre
+
+In the eastern portion of Ostoya, near the Dire Shore, a forest of aspens, willows, and oaks give way to fetid wetlands full of slow-moving, brackish water. 
+
+The Black Mire has not been thoroughly explored. Most cartographers are forced to turn back due to the treacherous terrain, bad weather, illness, or swamp monsters that accost them as they travel. Many an adventurer has met their end in the swamp’s murky embrace.
+
+Coincidentally, it is the home of the illusive Blackmire Lizardfolk. Due to their nomadic lifestyle in such a hard-to-traverse terrain, their physiology and society is largely undocumented. 
+
+Stories persist that covens of hags dwell within the far reaches of the swamp, and that they are willing to make bargains with those who come searching for them. 
+
+One must beware when dealing with hags, however - often the payment they demand is something one is not willing to part with.
+
+![](../Etharis/Black_myre.PNG)
+
+
+
+# Alin {.old .tabset .tabset-fade .tabset-pills}
+
+## Bio
+![](../Etharis/Alin.png){.token .cropAlin}
+
+
+
+### Data {.threeQuartersSize .book .textnormal .tabset .tabset-fade .tabset-pills}
+
+#### Bio
+
+Info | Description
+:-- | :---:
+Age | 18
+Alignment | CG
+Pronouns | he/she/**they**
+Heritage | [Half Vistani](../https://www.worldanvil.com/w/etharis-mikkow/a/half-vistani-article)(mother), half human(father)
+Favorite Color | Red
+Languages spoken | Common, old Ostoyan, Patterna
+Tools | Herbalisma kit, Cook's utensils,  Land Vehicles and Drums.
+Birthplace | Ostoya
+
+#### Stats
+
+Info | Description
+:-- | :---
+Strength | 8
+Dexterity | 12
+Constitution | 10
+Intelligence | 6
+Wisdom | 20
+Charisma | 14
+Dark powers| 10
+ | 
+Class | Druid
+Level | 1
+Background | Folk Hero
+Divination | If a job is worth doing, it is worth dying for: <br/>Increase your Wisdom or Constitution by 1. Reduce your Strength or Charisma by 1. 
+
+
+
+
+
+
+
+
+## Memories {.justify}
+
+### Birth and heritage {.tabset  .tabset-pills .centered-text .halfSize .book .textlarge}
+
+#### Mom
+![](../Etharis/Isabela_Tselikov.jpg){.circle }
+
+Name: Isabela Tselikov
+
+
+#### Dad
+
+![](../Etharis/Ronan_bryne.jpg){.circle}
+
+Name: Ronan	Byrne
+
+Shepard druid and Alin's father and teacher.
+
+#### Shae 
+
+![](../Etharis/Katarina.jpg){.circle}
+
+
+Name: Katarina Tselikov
+
+Honoured elder
+
+
+
+### Early childhood
+
+Born to a union between a Vistana dancer and druid. Alin was not accepted into the midst of the vistani, though father almost a honorary vistani, somone with muddled blood would be allowed to stay if they don't prove to be a problem. 
+
+### Raised different
+
+The children I played with when i was younger stopped, inviting me, or even including me in their games and circles. As such i played with the animals, either with Ronan who taught me about them, or on my own, learning how they play. I spent most days with the animals. Those I did not, I spent with my parents, telling stories, playing games or merrymakeing with the rest of the band.
+
+### Stories neath the stars
+
+During his life, Alin has had many nights filled with stories and wonder underneath the stars, some from his father, some from vistani when the whole tribe gathered.
+
+#### The powers that be (ronan)
+
+"There are aspects of powers beyond us all around. From the flame that eats our wood and heats our  winter nights, to the land that stays firm under feet yet gives way to roots and caverns. They all have something to say, if you but look close enough and learn to listen."
+
+
+
+
+### Tatoos
+
+Alin's tatoos are more than meets the eye, the red twisting twirling and eye catching shapes are stories scrawled on their host in druidic.  Most would not even recognize them as script of any sort, the patterns more aesthetic and loosely structured than one would expect of writing. They tell stories of old, they tell fairy tales of spirits and they tell lessons of the land. Though written down, druidic is not a simple language, it is written in tongue which needs to be interpreted, parables and prose woven in one on Alin's skin. They may read the same passage a thousand times and never repeat it in meaning, yet learning from it each time. Such is the gift they were given by their father and guide, though he never revealed where he learned this pattern, or even how much of it he understood.
+
+
+### Arson is ill advised (worst memory)
+
+When Alin was learning to understand the flames, tracing a particular story on the back of their hand, they found out how alive flame really is, responding to their guidance. Mezmerized by the ebb and flow, they felt the hunger of the flame, to grow and eat, to be more of itself. It the feeling felt like Alin's own and in a way it was, the boundry of the world and the edges of the seperation getting hazy. Alin was for a while swaying in tandom, a part of the flames, and without noticing they spread their arms and the flame was sated as the flame climbed up the tent. The trance was only stopped with vistani stepping in and grabbing Alin. The following was a tough time, as Alin was brought in-front of the elders of the band to stand trial for the seemingly deliberate arson. 
+
+The elders of the tribe consulted and asked Alin why she burnt down their family tent and started several more. Alin, ever truthful told them, the hunger of the fire was overwhelming. Even as the judged said this they knew the flame was not to blame, it was Alin who lost control, of themself and the flame. The elders conulted once more and it seemed ever clearerer that this youth was not to stay, not a vistana and not done anything special to earn a stay. Alin listened to this with a sullen expression. Resolving to accept any punishment without complaint. 
+
+But soon a voice spoke out from amidst the others, the [Shae](#vistani-lore) Katarina Tselikov, one of the most respected vistana in the tribe. She told the others that this was Ronan's child, and a gentle one, this was the first time any such thing had happened. She was close to Ronan, him having saved her and several others many a time, this was only Alin's first offence. And she managed to convince the others that if this was the only one, then Alin could stay, for now.
+
+### The stench of death (folk hero event) {}
+
+While we were camped in [*The Stillborn Forest*](#etharis), doing our standard rounds of merriment. I became aware that something was not right, something smelt noxious. The sickly sweet smell of rot and decay creeping in from somewhere. Being covered by the sizzling food on the fire, we had not been camped here long enough for our wares to rot, so this stench was coming from elsewhere. 
+
+Closing my eyes, i focused on the smell, and the eyeless sight, A smell of rot familiar to the forest, but focused. The foulness inching down my spine, with the scent of undeath nearby, a powerful, gut churning wrongness. If it is this strong, then there's no time to waste.
+
+**"Undead! Pack your things and move!"** I yelled, spotting shifting movement in the woods, large hulking and lumbering. Tossing my bag on my back i pulled out three pebbles and prayed they strike true. The mass emerging from the forest edge, i let loose one of the stones. *Hit* I had its attention. The others, fleeing hastily, retreated to the [*vardos*](#vistani-lore). The stench got thicker as the thing emerged, thick vines like the thick roots of a white oak, drenched in green rot and housing several carcasses, with bulbs of flowers dotting the top like a mockery of nature.
+Looking around to find a path clear of people, I saw the road ahead blocked, where people were gathered, trying to remove a tree that fell in the night. I could not let this thing get there, where the only way out for us would be death.
+
+A massive vine snapped out at a nearby cattle, nearly breaking it in half as it wrapped around the animal and drawing it into itself, the vines dragging it along the ground towards me. It is slow. I can use this. I let loose another stone, speeding opposite of where the others fled to draw it away. Another toss and i had its undivided attention. 
+
+My feet pulling me to the edge of camp, my wrist was grasped. My dad, with a serious expression. He told me to get to the others and out of here. "The road is blocked, they cannot clear it. You're the only one who can." I said pulling my hand free and another 3 pebbles out of my bag. "I can keep out of its reach and draw it away, it is slow." i stated, turning my head back to the creature now less than a stone-toss away once more. Ronan grimaced as he looked past the creature at the mass of people. "You better get back in once piece, I know you will." He said leaning in to give the side of my forehead a kiss. "Meet us when you get clear of this thing." He said resolutely, trying to hide his fear, as his form shifted to that of an Ox, not the fastest beast but certainly strong enough to remove the blockage. 
+
+As my father cleared from the area i ran backwards towards the woods, hitting one of the bulbous flower-pods on the creature, it was still following me, good. Turning to run to the back, I almost tripped on something shiny. I recognized this sheen of blade, hilt red with flourishes. Someone had dropped Mesmerelda, No-one was here to pass it to, and i certainly wasn't going to let it get left behind in the dirt, forgotten, so i grabbed it as i continued my assault.
+
+It followed me into the woods, and for the next dozen of minutes i made certain to keep clear of its powerful vines, finally finding an opening to flee when i passed a patch of trees so close together it could not pass. 
+
+I looked for the road, I looked for my family, but ended up on a different path. I never did find them again, but I'm certain I will one day.
+
+
+
+
+
+### Vistani blade Mesmerelda{.linebook .halfSizeRight .cardOnHover .textsmaller .contentOnHover .justify}
+
+"Long favoured by street performers, this vistani blade was forged to dazzle audiences. A strip of bright red cloth has been wrapped around its hilt, winds through the back of its blade, and ends in little golden coins that dangle from it. These coins jingle and sway as the blade is swung, producing a sound similar to a coin purse being rattled.
+
+Mesmerelda was originally carried by a troupe of traveling vistana but in the years since it has been passed from sword dancer to magician, and beyond, in its travels, during which time it has been an integral part of many daring exhibitions of finesse and skill. Despite its storied history, the blade has never forgotten its roots among traveling folk."
+
+
+#### Mesmerelda {.halfSize}
+![](../Etharis/mesmerelda.png){ width=50% .zoom}
+
+### A Dreamy encounter
+
+## Personality 
+
+### Characteristics  {.book .halfSize .centered-text }
+
+#### Personal rules
+
+"I would never hurt an innocent."
+
+"I will try to free the chains that bind"
+
+"If someone is distraught, I will try to console them and find what's wrong."
+
+"We are all children of the land"
+
+***
+
+
+    
+#### Personality trait
+
+If someone is in trouble, I'm always ready to lend help.
+
+#### Ideal
+
+Respect. People deserve to be treated with dignity and respect. (Good)
+
+#### Bond
+
+I have a family, but I have no idea where they are. One day, I hope to see them again.
+
+My troupe is precious to me.
+
+#### Flaw
+
+I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.
+
+I will not stand by if i can stop an injustice.
+
+
+
+### Answers to the questions
+
+#### Physical description
+
+Alin is of average height, black curly hair with ashen whisps.
+They usually wear clothes similar to those of most Vistana, but what clearly seperates him from them is the red tribalistic tatoos that cover their body from toe to Forearm. To almost everyone these tatoos appear decorative and floral. But to those versed in druidic these are stories, prairs and blessings.
+
+
+
+####  Social class
+Being born into a band of vistani, Alin has never experienced either lucrative luxuries, nor horrible poverty. They have taken to viewing overindulgence as a sin and ignoring others suffering as a horrible thing to do.
+
+
+#### Parents and family 
+
+Alin regards their father and mother as close family and confidants. 
+
+
+#### What sort of activities did you partake in, growing up?
+
+Alin spent most of the free time in the day, helping Ronan forage and found a passion for cooking.
+They didn't get to play much with the other kids, but was still able to participate in group music and dance. 
+
+In the evenings, The three told stories to each-other, either made up or experienced. Isabela always knew what stories to tell when Alin was feeling under the weather, either from being bullied, or seeing the sorry state of the people they passed. 
+ 
+
+#### Do you have distant family in other regions?
+
+The band and Alin's parents are still out there somewhere... hopefully.
+
+#### Non-Familial relationships 
+
+The elders of the tribe rarely regard Alin, a good kid, but not one of them. 
+Alin's peers have cooled from their past of exluding Alin from everithing, but they dont ask either.
+Alin treats the animals that he gets close to as well as any people.
+
+#### Did you have any pets growing up?
+
+Alin Spent a lot of time with the horses and other animals that lived in the Band, crying whenever one of them died. They liked playing with Ronan's familiar on the rare occasion that it was summoned.
+
+ 
+
+#### What is your favourite memory?
+
+Sitting on my fathers lap, playing the drums and singing while my mother was dancing on stage to our music, 
+It felt like it lasted forever, though it lasted only the evening. Laughs were had, songs were shared and it felt like all the problems of the world drifted into nothingness.       
+
+#### What is your worst memory? Who was involved in it? 
+
+When Alin messed up once, almost getting the others to throw them out of the band comnplately, luckily they had mercy and Alin was allowed to stay.
+
+
+#### Your personality - Who is your character? What makes them tick? What are their core beliefs and how has the world shaped them into the person they are today?
+
+Alin is an extremely empathetic individual, they are spurred forwards each day with the drive to see the world and all in it. They almost cannot bare to see suffering, especially unfairly. If only Alin could help them or at least offer comforts of food or change of mind.
+
+Hate is something leaned and hurts those on both ends.
+
+#### Fears   
+
+* Having to watch without being able to help when a loved one suffers
+* Undead, they are uncaring unfeeling and more horrible than the worst of beasts.
+* Being buried alive, or at all
+
+#### Birthday
+
+17th of Summertide
+
+#### Where did you pick up the skills for the class you're starting as?
+
+My father, Ronan, taught me all I know of druids, herbs and animals. Though Alin always had a knack with animals, spending more time with them than other kids.
+
+
+#### What is your view on religion and magic?
+
+Religion: 
+
+* Finding the strengh to carry on for a better day is important, but not to demonize those you disagree with.
+
+Magic:
+
+* Magic is to be used without selfish intentions, to bring balance, heal and protect.
+
+
+# Bestiary {.old .tabset .tabset-fade .tabset-pills }
+
+## Encountered {.threeQuartersSize .gridbook}
+
+Type | Beasts | Undead | Abberations | Fiends | Fey | Humanoids 
+:-- | :--: | :--:| :--:| :--:| :--:
+Number fought | 0 | 1 | 0 | 0 | 0 | 0
+Number slain | 0 | 0 | 0 | 0 | 0 | 0
+
+## Beasts { }
+
+
+## Undead
+
+
+
+### Corpse flower
+
+![](../Etharis/Corpse Flower.png){.threeQuartersSize width=75%}
+
+Slow and lumbering, the stench of death fills the air. Large and unsightly, they release undead from their bodies and hunt for living flesh. The best course of action, to run.
+
+## Monstrosities
+
+
+# Bits of lore
+
+## Druids 
+
+### Sacred Plants and Wood
+
+A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
+
+Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
+
+Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
+
+## Vistani lore
+
+* Patterna - Vistani language
+* Giomorgo - A half Vistani  
+* Giorgio - Someone who is not Vistani. A general term for outsiders.  
+* Giogoto - An outsider who has done something so profound, they're basically   honorary Vistani. They're accepted as one of the Vistani, though they weren't born one.  
+* Shae - a generic term for an honored elder.  
+* Raunie - A Vistana with an exceptional gift for seeing the Threads of Fate.  
+* Remanio - Vistana who has left their tribe  
+* Lunatio - or moon madness, irritable in the day. Frollicking at night
+* vardo - a horse-drawn wagon
+
+## Witch Sight 
+While all creatures are connected to the weave, only those with strong magical abilities are capable of manipulating and reading it. All people born with the talent to work magic have some degree of witchsight that can be developed and expanded with training so the spellcaster can actually see the ebb and flow of magic, witness the scintillating colours of the Weave's energy in its raw form, and be better able to harness it for the casting of spells.
+Having the ability to sense magic enables magisters and their ilk to better control the energies they wield. Aside from its utility, witchsight also reveals an abundance of odd manifestations, eerie phenomena, and sometimes glimpses of the future and the past. 
+Common applications can be, but are not limited to;
+
+Detecting the present of otherworldly beings or other magic casters
+Detecting (unusual) magical phenomena such as areas where the flow of magic has been disrupted or otherwise changed.
+Finding the exact location of a being, place or item that is channeling magic. (Imagine a weaker detect magic)
+Finding a person whose signature you are familiar with within the range of your Witch Sight. 
+Your Witch Sight extends up to 10 times your Wisdom Modifier in feet (Minimum of 5 feet). Unless you possess the Witch Hunter talent, your Witch Sight is limited to a feeling, rather than seeing something physical. There are several DCs / tiers of gaining knowledge from a reading, increased or decreased by factors such as;
+
+Attempting to use your Witch Sight through a wall or other obstruction
+The presence of other strong magic casters
+Lingering residues of magic casting
+Attempting to zero in on a particular strand of magic or person in a busy place
+Unless you enter a region that has a particularly strong magical presence or a thin membrane between the material world and the weave, you will not experience much from your Passive Witch sight. 
+

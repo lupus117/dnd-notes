@@ -1,0 +1,80 @@
+---
+title: "Kumo High"
+author: "Lupus"
+date: 'Last updated: `r Sys.Date()`'
+output:
+  
+  html_document: 
+    css: notes.css
+    toc: true
+  pdf_document: 
+    toc: true
+    toc_depth: 3
+---
+
+
+
+# 
+
+#notes
+
+Nozomi school,
+loocal markets doctors, friendly neighborhood
+
+
+abe (appartments) medium
+
+hara (high society) high
+
+shipai (living are) medium-high
+
+
+
+
+The World of Anima
+
+mayor clubs
+
+
+
+shilin marketplace
+
+endo old castle park
+
+ageha butterfly park
+
+harada bookstore place
+
+tsuri bridge fish
+
+oiwai- disneyland
+
+tsomo- fashion store
+
+shima- techno stores
+
+sone- observatory park
+
+101 tower- finance
+
+## guide 
+
+1: Write up a character backstory
+
+1*: Include ambitions, goals, what is going on in their lives thats stopping them from reaching this goal, close friends, 
+and why are they transferring
+
+2: After that consult me for review
+2* If I am having difficulty in revisions then I will use the tarot cards
+2**: Pick a Major Arcana and then I will interpret around that arcana to create a 3d character
+
+3: Your dnd character class will be related to your characters backstory and personality
+
+4: Pick a character image for the highschooler, think gakuen
+5: Pick a secondary character image for a dnd character that resembles your first one
+6: Pick a character image for your close friend
+
+7: Final review
+7*: If you wish to make changes go back to step 2
+
+8: Finalization, importing everything into foundry
