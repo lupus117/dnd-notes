@@ -367,6 +367,52 @@ Slow and lumbering, the stench of death fills the air. Large and unsightly, they
 
 # Bits of lore
 
+## Countries {.tabset .tabset-pills .tabset-fade}
+
+###  the Valikan Clans
+
+**Languages:** Imperial Norm, all dialects of Primordial, Giant, Orcish (Rare)
+ 
+#### Thrull 
+
+#### Kandar
+
+### the Bürach Empire
+
+**Languages:** Imperial Norm, Lower-Bürach, High-Bürach, Raulish, Valikan
+
+#### Altenheim
+
+#### Nordenland
+
+#### Rauland
+
+#### Unterland
+
+### the Ostoyan Empire
+
+**Languages:** Imperial Norm, Ostoy
+
+#### Soma
+
+#### Raevo
+
+### The Charneault Kingdom 
+
+**Languages:** Imperial Norm, Charneault, All Elvish Dialects, Sylvan
+
+#### Tol-Leyemil, the Last Elven City.
+
+### Castinellan Provinces
+
+**Languages:** Imperial Norm, Castinellan, Draconic
+
+#### Toletum
+
+#### Faro
+
+#### Therpena
+
 ## Druids 
 
 ### Sacred Plants and Wood
