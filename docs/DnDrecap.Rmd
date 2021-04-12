@@ -1,19 +1,9 @@
-<style>
-.character {
-    color: black;
-    background: #E8E8E8;
-    text-align:center;
-    border-radius: 10px;
-}
-.compact {
-margin-top:1px;
-}
-</style>
-
 ---
 title: "My D&D Experience"
 author: "Lupus"
-output: html_notebook
+output: 
+  html_notebook:
+    css: ../notes.css
 fig_width: 3
 ---
 
@@ -54,26 +44,26 @@ Dungeons and Dragons is a tabletop roleplaying game.
   
 
   
-# My previous characters {.tabset .tabset-fade .tabset-pills }
+# My previous characters {.tabset .tabset-fade .tabset-pills .old}
 Through my years of dnd experience i have made many many characters, some of which I love dearly like a friend.  
 Here are some examples:  
 `Disclaimer, I am not the creator of any of these artworks`
 
-## Aculeus Floreo {.tabset .tabset-fade .tabset-pills .character}
+## Aculeus Floreo {.tabset .tabset-fade .tabset-pills }
 Devout follower of the Wildmother, a student of Druids from the circle of Dreams and someone with hidden powers drawn forth upon entering the misty lands of Barovia.
 
 ### Follower of the Wildmother 
-![](D:\dndstuff\Char-pics\Aculeus\6e05df0a979db753571cb234dafd25dc.jpg)
+![](../Barovia/Aculeus_og.jpg)
 
 ### After awakening 
-![](D:\dndstuff\Char-pics\Aculeus\86c8e7a5246ecbcb74c7d27431e4b062.jpg)
+![](../Barovia/Aculeus_awakened.jpg)
 
 ### Blessed by the fane
-![](D:\dndstuff\Char-pics\Aculeus\86c8e7a5246ecbcb74c7d27431e4b062.png)
+![](../Barovia/Aculeus_blessing.png)
 
 ## Lohe {.tabset .tabset-fade .tabset-pills .character}
 A draconic sorcerer and painter  
-![](D:\dndstuff\Char-pics\Stalker_Lohe.png)
+![](../misc/Lohe.jpg)
 
 ### Cats dragons and a quest
 in his childhood
@@ -91,15 +81,15 @@ Necromancer wizard with a lust for knowledge and indulgences.
 
 ### Young Nox
 Shortly after being thrown out of the **Sygaxian college** of magic for reading forbidden tomes. Nox Started to learn on his own and find what he could to combat the ancient evils of this world.  
-![](D:\dndstuff\Char-pics\Nox_Young.jpg)
+![](../Hugal/Nox_Young.jpg)
 
 ### Aged
 After joining **The Elements of surprise**, they ventured into a past dwarven keep called **Khundrukar** to reclaim it from the orcs and undead. Victorious, but not battle scars, Nox was magically aged 30 years through an encounter with a ghost.   
-![](D:\dndstuff\Char-pics\Nox_Aged.jpg)
+![](../Hugal/Nox_Aged.jpg)
 
 ### Ready for ruling
 After meeting the Saint of knowledge **Syxax** Nox went forward with new found information and determination, to become a great wizard and finish his very own mage tower in the keep of **Khundrukar**.  
-![](D:\dndstuff\Char-pics\Nox_old_groomed.jpg)
+![](../Hugal/Nox_old_groomed.jpg)
 
   
 

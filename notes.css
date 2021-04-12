@@ -147,13 +147,20 @@ h6,
 td,
 p,
 th,
-a,
 li {
     /*
     color: #fbcb7b;
     color: #f77604;
 */
     color: rgb(255, 205, 148);
+}
+
+a {
+    color: #ff6141;
+}
+
+a:hover {
+    color: #cf2300;
 }
 
 h2 {
