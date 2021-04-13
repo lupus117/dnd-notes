@@ -92,7 +92,7 @@ Alignment | CG
 Pronouns | he/she/**they**
 Heritage | [Half Vistani](https://www.worldanvil.com/w/etharis-mikkow/a/half-vistani-article)(mother), half human(father)
 Favorite Color | Red
-Languages spoken | Common, old Ostoyan, Patterna
+Languages spoken | Common, old Ostoyan, Patterna, Druidic
 Tools | Herbalisma kit, Cook's utensils,  Land Vehicles and Drums.
 Birthplace | Ostoya
 
@@ -122,12 +122,20 @@ Divination | If a job is worth doing, it is worth dying for: <br/>Increase your 
 
 ## Memories {.justify}
 
-### Birth and heritage {.tabset  .tabset-pills .centered-text .halfSize .book .textlarge}
+### Birth and heritage {.tabset  .tabset-pills .centered-text .halfSize .book .textlarge }
 
 #### Mom
 ![](../Etharis/Isabela_Tselikov.jpg){.circle }
 
 Name: Isabela Tselikov
+
+She taught me the importance of people, and through her i came to understand serving to bring joy to others brings peace to oneself.
+
+***
+
+My mother has always been a servant, not of anyone in particular, but of a joyous life. She brings happiness wherever she goes. Compassionate, kind, and caring. Her main job in the Tselikov band is as a dancer. A spectacle of technique and flair, she flies accross the stage in a perfected flow of flurishes of [blade](#vistani-blade-mesmerelda), twists and twirls, like a river or whirlpool. Unmached in the way she sways and swings across the stage. Enticing you to lean in, as if this whole dance were for you. 
+
+
 
 
 #### Dad
@@ -136,7 +144,7 @@ Name: Isabela Tselikov
 
 Name: Ronan	Byrne
 
-Shepard druid and Alin's father and teacher.
+My father, a druid who worked completely selflessly for life itself. He taught me to strike balance and listen attentively both to people and to the world. He showed me how connected the world is, and how it is just as much a part of me as I am of it.
 
 #### Shae 
 
@@ -145,7 +153,7 @@ Shepard druid and Alin's father and teacher.
 
 Name: Katarina Tselikov
 
-Honoured elder
+Honoured elder, though distant from me. She showed me [mercy](#arson-is-ill-advised-worst-memory) when times looked dark. She is truly worthy of being [Shae](#vistani-lore)
 
 
 
@@ -155,7 +163,7 @@ Born to a union between a Vistana dancer and druid. Alin was not accepted into t
 
 ### Raised different
 
-The children I played with when i was younger stopped, inviting me, or even including me in their games and circles. As such i played with the animals, either with Ronan who taught me about them, or on my own, learning how they play. I spent most days with the animals. Those I did not, I spent with my parents, telling stories, playing games or merrymakeing with the rest of the band.
+The children I played with when i was younger stopped, inviting me, or even including me in their games and circles. As such i played with the animals, either with Ronan who taught me about them, or on my own, learning how they play. I spent most days with the animals. The other time, I spent with my parents, telling stories, playing games or merrymaking. Sometimes dancing with my mother or hunting and gathering with my father.
 
 ### Stories neath the stars
 
@@ -222,21 +230,41 @@ Mesmerelda was originally carried by a troupe of traveling vistana but in the ye
 
 #### Personal rules
 
-"I would never hurt an innocent."
+"I would never hurt an another for my own gain."
 
-"I will try to free the chains that bind"
+"I will try to feed the starving however i can."
 
-"If someone is distraught, I will try to console them and find what's wrong."
+"I will aim to help people in being true to themselves"
 
-"We are all children of the land"
+"I will point out self deceptions wherever I may see them"
 
 ***
 
+#### Goals
 
-    
+##### Major
+
+Listen to the old teachers of the world
+
+Bring people joy
+
+Learn to perform better
+
+##### Minor
+
+See all the strangeness of the world
+
+Return Mesmerelda to the clan
+
+
+***
+
 #### Personality trait
 
 If someone is in trouble, I'm always ready to lend help.
+
+The pain we share is equal one is not worth more than another.
+
 
 #### Ideal
 
@@ -253,6 +281,8 @@ My troupe is precious to me.
 I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.
 
 I will not stand by if i can stop an injustice.
+
+I easily forget things like  long names and complicated words.
 
 
 
