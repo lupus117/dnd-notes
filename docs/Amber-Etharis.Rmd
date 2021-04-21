@@ -20,7 +20,9 @@ Alin | Masq | Unit | Hallbjorn  | Abraxas
 Lupus | Barth | Carmen | Crypton | Slowpoke
 # Etharis {.tabset .tabset-fade .tabset-pills .old}
 
-## The Dreamland Travellers 
+## The Dreamland Travelers {.tabset .tabset-fade .tabset-pills}
+
+### Info 
 
 ![](../Etharis/Dreamland_travellers.png){.halfSize width=50% }
 
@@ -28,13 +30,51 @@ Lupus | Barth | Carmen | Crypton | Slowpoke
 
 **Headquarters:** None
 
-Songs unsang, dances long forgotten and stories of man and monster none have ever laid their eyes upon; sure signs that the Dreamland Travellers are in town. This rag-tag band of individuals travel the lands of Etharis to spread their arts for the delights of others; and earn a pretty penny in the process. 
+Songs unsung, dances long forgotten and stories of man and monster none have ever laid their eyes upon; sure signs that the Dreamland Travelers are in town. This rag-tag band of individuals travel the lands of Etharis to spread their arts for the delights of others; and earn a pretty penny in the process. 
 
-As all strangers are, they are treated with excessive amounts of distrust by most; moreso by those of the higher classes. To those who can't afford regular entertainment, however, they are a welcomed sight and make for a colourful evening of entertainment at the low price of a few coppers. 
+As all strangers are, they are treated with excessive amounts of distrust by most; more so by those of the higher classes. To those who can't afford regular entertainment, however, they are a welcomed sight and make for a colorful evening of entertainment at the low price of a few coppers. 
 
-The troupe is comprised of people from all nationalities and (former) walks of life; outcasts, runaways, the odd ostracized or down-on-their luck noble; all find a home under the wings of freedom. Those who find themselves a part of the troupe are inaugurated as family in a binding ritual that marks each of them as protected by the others: for the blood of the coven runs thicker than the water of the womb.  It is in this ritual that a new member sheds their last name in favour of becoming a Dreamlander. 
+The troupe is comprised of people from all nationalities and (former) walks of life; outcasts, runaways, the odd ostracized or down-on-their luck noble; all find a home under the wings of freedom. Those who find themselves a part of the troupe are inaugurated as family in a binding ritual that marks each of them as protected by the others: for the blood of the coven runs thicker than the water of the womb.  It is in this ritual that a new member sheds their last name in favor of becoming a Dreamlander. 
 
 At the head of the Dreamland family sits matriarch Tessilia, an older woman who hails from Charneault. In her younger years, she and her friends joined a travelling caravan of merchants and used what skills as entertainers they had to get by. As time passed, more souls joined them until they had enough carriages to form their own caravan.  
+
+### People 
+
+#### Friendly faces
+
+##### Mantazi
+
+Wise Dark elf, filled with dualities.
+
+##### Oona
+
+Sweet granny who loves to cook
+
+##### Skra
+
+cute bird who is social
+
+##### Ting
+
+cute bird who is speedy
+
+##### Tarvik
+
+Strongman who is intimidating but kindhearted 
+
+##### Tessila
+
+Owner of the Dreamland travellers 
+
+##### Tripp
+
+Reliable but antisocial scout
+
+##### Valerian Alhambra
+
+Magician who is mysterious
+
+##### Troupe
 
 ## Ostoya {.tabset .tabset-fade .tabset-pills}
 
@@ -87,13 +127,13 @@ One must beware when dealing with hags, however - often the payment they demand 
 
 Info | Description
 :-- | :---:
-Age | 18
+Age | 19
 Alignment | CG
 Pronouns | he/she/**they**
 Heritage | [Half Vistani](https://www.worldanvil.com/w/etharis-mikkow/a/half-vistani-article)(mother), half human(father)
 Favorite Color | Red
 Languages spoken | Common, old Ostoyan, Patterna, Druidic
-Tools | Herbalisma kit, Cook's utensils,  Land Vehicles and Drums.
+Tools | Herbalists kit, Cook's utensils,  Land Vehicles and Drums.
 Birthplace | Ostoya
 
 #### Stats
@@ -133,7 +173,7 @@ She taught me the importance of people, and through her i came to understand ser
 
 ***
 
-My mother has always been a servant, not of anyone in particular, but of a joyous life. She brings happiness wherever she goes. Compassionate, kind, and caring. Her main job in the Tselikov band is as a dancer. A spectacle of technique and flair, she flies accross the stage in a perfected flow of flurishes of [blade](#vistani-blade-mesmerelda), twists and twirls, like a river or whirlpool. Unmached in the way she sways and swings across the stage. Enticing you to lean in, as if this whole dance were for you. 
+My mother has always been a servant, not of anyone in particular, but of a joyous life. She brings happiness wherever she goes. Compassionate, kind, and caring. Her main job in the Tselikov band is as a dancer. A spectacle of technique and flair, she flies across the stage in a perfected flow of flourishes of [blade](#vistani-blade-mesmerelda), twists and twirls, like a river or whirlpool. Unmatched in the way she sways and swings across the stage. Enticing you to lean in, as if this whole dance were for you. 
 
 
 
@@ -153,7 +193,7 @@ My father, a druid who worked completely selflessly for life itself. He taught m
 
 Name: Katarina Tselikov
 
-Honoured elder, though distant from me. She showed me [mercy](#arson-is-ill-advised-worst-memory) when times looked dark. She is truly worthy of being [Shae](#vistani-lore)
+Honored elder, though distant from me. She showed me [mercy](#arson-is-ill-advised-worst-memory) when times looked dark. She is truly worthy of being [Shae](#vistani-lore)
 
 ### Prelude
 
@@ -161,7 +201,7 @@ Honoured elder, though distant from me. She showed me [mercy](#arson-is-ill-advi
 
 ### Early childhood
 
-Born to a union between a Vistana dancer and druid. Alin was not accepted into the midst of the vistani, though father almost a honorary vistani, somone with muddled blood would be allowed to stay if they don't prove to be a problem. 
+Born to a union between a Vistana dancer and druid. Alin was not accepted into the midst of the vistani, though father almost a honorary vistani, someone with muddled blood would be allowed to stay if they don't prove to be a problem. 
 
 ### Raised different
 
@@ -171,9 +211,25 @@ The children I played with when i was younger stopped, inviting me, or even incl
 
 During his life, Alin has had many nights filled with stories and wonder underneath the stars, some from his father, some from vistani when the whole tribe gathered.
 
-#### The powers that be (ronan)
+#### The powers that be (Ronan)
 
 "There are aspects of powers beyond us all around. From the flame that eats our wood and heats our  winter nights, to the land that stays firm under feet yet gives way to roots and caverns. They all have something to say, if you but look close enough and learn to listen."
+
+#### Preaching trees (Ronan)
+
+“For me, trees have always been the most penetrating preachers. I revere them when they live in tribes and families, in forests and groves. And even more I revere them when they stand alone. They are like lonely persons. Not like hermits who have stolen away out of some weakness, but like great, solitary men, like composers. In their highest boughs the world rustles, their roots rest in infinity; but they do not lose themselves there, they struggle with all the force of their lives for one thing only: to fulfill themselves according to their own laws, to build up their own form, to represent themselves. Nothing is holier, nothing is more exemplary than a beautiful, strong tree. When a tree is cut down and reveals its naked death-wound to the sun, one can read its whole history in the luminous, inscribed disk of its trunk: in the rings of its years, its scars, all the struggle, all the suffering, all the sickness, all the happiness and prosperity stand truly written, the narrow years and the luxurious years, the attacks withstood, the storms endured. And every young farmboy knows that the hardest and noblest wood has the narrowest rings, that high on the mountains and in continuing danger the most indestructible, the strongest, the ideal trees grow.
+
+Trees are sanctuaries. Whoever knows how to speak to them, whoever knows how to listen to them, can learn the truth. They do not preach learning and precepts, they preach, undeterred by particulars, the ancient law of life.
+
+A tree says: A kernel is hidden in me, a spark, a thought, I am life from eternal life. The attempt and the risk that the eternal mother Eana took with me is unique, unique the form and veins of my skin, unique the smallest play of leaves in my branches and the smallest scar on my bark. I was made to form and reveal the eternal in my smallest special detail.
+
+A tree says: My strength is trust. I know nothing about my fathers, I know nothing about the thousand children that every year spring out of me. I live out the secret of my seed to the very end, and I care for nothing else. I trust that Eana is in me. I trust that my labor is holy. Out of this trust I live.
+
+When we are stricken and cannot bear our lives any longer, then a tree has something to say to us: Be still! Be still! Look at me! Life is not easy, life is not difficult. Those are childish thoughts. Let Eana speak within you, and your thoughts will grow silent. You are anxious because your path leads away from mother and home. But every step and every day lead you back again to the mother. Home is neither here nor there. Home is within you, or home is nowhere at all.
+
+A longing to wander tears my heart when I hear trees rustling in the wind at evening. If one listens to them silently for a long time, this longing reveals its kernel, its meaning. It is not so much a matter of escaping from one's suffering, though it may seem to be so. It is a longing for home, for a memory of the mother, for new metaphors for life. It leads home. Every path leads homeward, every step is birth, every step is death, every grave is mother.
+
+So the tree rustles in the evening, when we stand uneasy before our own childish thoughts: Trees have long thoughts, long-breathing and restful, just as they have longer lives than ours. They are wiser than we are, as long as we do not listen to them. But when we have learned how to listen to trees, then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has learned how to listen to trees no longer wants to be a tree. He wants to be nothing except what he is. That is home. That is happiness.”
 
 ### Famine (alin’s first spell and focus)
 
@@ -185,26 +241,26 @@ Ronan and I set off to find food as we had since food became sparse. The lands, 
 
 This would all change however on one excursion however. As we were out gathering plants, something caught my eye. A glint of green in a dying place. Pushing past the dead things, entranced by life so radiant it was painful to look at after so long. A powerful tree, standing firm and strong in the ground, with birds nesting and leaves bunched up in neat clumps. I came to recognize this as mistletoe. stepping forth i placed my hand against it's trunk, gliding it against the rough bark. As I admired the tree my hand moved along the wood, to a branch and then a clump of leaves. As my fingers brushed through the sprigs of mistletoe I marveled in half prayer to the tree, of its strength and virility, of its sacred place among these woods, of the birds that found themselves sustained by it and the significance of such a thing. 
 
-I felt it, the bountiful life that flowed within, a warm solidarity that wished to share itself, not unlike the warmth of being loved unconditionally. I knew it felt our strife as surely as I had felt it right now. I pressed my forhead against the rough bark to thank it, and as i did so, i felt a shifting in my hand, now gently clasping one of the sprigs. As i drew it away I found out why the tree had led me to it. A gift of ten small berries and a sprig of mistletoe to which they are attached. 
+I felt it, the bountiful life that flowed within, a warm solidarity that wished to share itself, not unlike the warmth of being loved unconditionally. I knew it felt our strife as surely as I had felt it right now. I pressed my forehead against the rough bark to thank it, and as i did so, i felt a shifting in my hand, now gently clasping one of the sprigs. As i drew it away I found out why the tree had led me to it. A gift of ten small berries and a sprig of mistletoe to which they are attached. 
 
 Once I returned to my father, I showed him what I found and told him of what I saw. He merely wrapped his arms around me in an embrace more enthusiastic than looked fitting a man of his age. "Alin, my child. This is remarkable, you have been chosen, seen worthy by the mistletoe tree. This is certainly only the beginning of your connection to the land. And what's more, you may have just saved us from starving. "
 
-We returned post haste, and surprisingly enough, with a few pointers from Ronan, I was able to recreate what happened before, producing ten more berries. Smiling proudly, dad and I added the berries to the pot. It turns out, such berries are nourishing beyound beilief, and with added ingredients gathered for structure and flavour, we were able to strive off the worst of the famine.
+We returned post haste, and surprisingly enough, with a few pointers from Ronan, I was able to recreate what happened before, producing ten more berries. Smiling proudly, dad and I added the berries to the pot. It turns out, such berries are nourishing beyond belief, and with added ingredients gathered for structure and flavor, we were able to strive off the worst of the famine.
 
 In the end, the time spent yearning for food, followed by being able to cook delicious meals, got me hooked on cooking. Since that winter, I have continued cooking, though the famine is long past. I find making good food can often brighten any day, and certainly those who are hungry. 
 
 ### Tatoos
 
-Alin's tatoos are more than meets the eye, the red twisting twirling and eye catching shapes are stories scrawled on their host in druidic.  Most would not even recognize them as script of any sort, the patterns more aesthetic and loosely structured than one would expect of writing. They tell stories of old, they tell fairy tales of spirits and they tell lessons of the land. Though written down, druidic is not a simple language, it is written in tongue which needs to be interpreted, parables and prose woven in one on Alin's skin. They may read the same passage a thousand times and never repeat it in meaning, yet learning from it each time. Such is the gift they were given by their father and guide, though he never revealed where he learned this pattern, or even how much of it he understood.
+Alin's tattoos are more than meets the eye, the red twisting twirling and eye catching shapes are stories scrawled on their host in druidic.  Most would not even recognize them as script of any sort, the patterns more aesthetic and loosely structured than one would expect of writing. They tell stories of old, they tell fairy tales of spirits and they tell lessons of the land. Though written down, druidic is not a simple language, it is written in tongue which needs to be interpreted, parables and prose woven in one on Alin's skin. They may read the same passage a thousand times and never repeat it in meaning, yet learning from it each time. Such is the gift they were given by their father and guide, though he never revealed where he learned this pattern, or even how much of it he understood.
 
 
 ### Arson is ill advised (worst memory)
 
-When Alin was learning to understand the flames, tracing a particular story on the back of their hand, they found out how alive flame really is, responding to their guidance. Mezmerized by the ebb and flow, they felt the hunger of the flame, to grow and eat, to be more of itself. It the feeling felt like Alin's own and in a way it was, the boundry of the world and the edges of the seperation getting hazy. Alin was for a while swaying in tandom, a part of the flames, and without noticing they spread their arms and the flame was sated as the flame climbed up the tent. The trance was only stopped with vistani stepping in and grabbing Alin. The following was a tough time, as Alin was brought in-front of the elders of the band to stand trial for the seemingly deliberate arson. 
+When Alin was learning to understand the flames, tracing a particular story on the back of their hand, they found out how alive flame really is, responding to their guidance. Mesmerized by the ebb and flow, they felt the hunger of the flame, to grow and eat, to be more of itself. It the feeling felt like Alin's own and in a way it was, the boundary of the world and the edges of the separation getting hazy. Alin was for a while swaying in tandem, a part of the flames, and without noticing they spread their arms and the flame was sated as the flame climbed up the tent. The trance was only stopped with vistani stepping in and grabbing Alin. The following was a tough time, as Alin was brought in-front of the elders of the band to stand trial for the seemingly deliberate arson. 
 
-The elders of the tribe consulted and asked Alin why she burnt down their family tent and started several more. Alin, ever truthful told them, the hunger of the fire was overwhelming. Even as the judged said this they knew the flame was not to blame, it was Alin who lost control, of themself and the flame. The elders conulted once more and it seemed ever clearerer that this youth was not to stay, not a vistana and not done anything special to earn a stay. Alin listened to this with a sullen expression. Resolving to accept any punishment without complaint. 
+The elders of the tribe consulted and asked Alin why she burnt down their family tent and started several more. Alin, ever truthful told them, the hunger of the fire was overwhelming. Even as the judged said this they knew the flame was not to blame, it was Alin who lost control, of themself and the flame. The elders conulted once more and it seemed ever clearer that this youth was not to stay, not a vistana and not done anything special to earn a stay. Alin listened to this with a sullen expression. Resolving to accept any punishment without complaint. 
 
-But soon a voice spoke out from amidst the others, the [Shae](#vistani-lore) Katarina Tselikov, one of the most respected vistana in the tribe. She told the others that this was Ronan's child, and a gentle one, this was the first time any such thing had happened. She was close to Ronan, him having saved her and several others many a time, this was only Alin's first offence. And she managed to convince the others that if this was the only one, then Alin could stay, for now.
+But soon a voice spoke out from midst the others, the [Shae](#vistani-lore) Katarina Tselikov, one of the most respected vistana in the tribe. She told the others that this was Ronan's child, and a gentle one, this was the first time any such thing had happened. She was close to Ronan, him having saved her and several others many a time, this was only Alin's first offense. And she managed to convince the others that if this was the only one, then Alin could stay, for now.
 
 ### The stench of death (folk hero event) {}
 
@@ -231,7 +287,7 @@ I looked for the road, I looked for my family, but ended up on a different path.
 
 ### Vistani blade Mesmerelda{.linebook .halfSizeRight .cardOnHover .textsmaller .contentOnHover .justify}
 
-"Long favoured by street performers, this vistani blade was forged to dazzle audiences. A strip of bright red cloth has been wrapped around its hilt, winds through the back of its blade, and ends in little golden coins that dangle from it. These coins jingle and sway as the blade is swung, producing a sound similar to a coin purse being rattled.
+"Long favored by street performers, this vistani blade was forged to dazzle audiences. A strip of bright red cloth has been wrapped around its hilt, winds through the back of its blade, and ends in little golden coins that dangle from it. These coins jingle and sway as the blade is swung, producing a sound similar to a coin purse being rattled.
 
 Mesmerelda was originally carried by a troupe of traveling vistana but in the years since it has been passed from sword dancer to magician, and beyond, in its travels, during which time it has been an integral part of many daring exhibitions of finesse and skill. Despite its storied history, the blade has never forgotten its roots among traveling folk."
 
@@ -310,8 +366,8 @@ I easily forget things like  long names and complicated words.
 
 #### Physical description
 
-Alin is of average height, black curly hair with ashen whisps.
-They usually wear clothes similar to those of most Vistana, but what clearly seperates him from them is the red tribalistic tatoos that cover their body from toe to Forearm. To almost everyone these tatoos appear decorative and floral. But to those versed in druidic these are stories, prairs and blessings.
+Alin is of average height, black curly hair with ashen wisps.
+They usually wear clothes similar to those of most Vistana, but what clearly separates him from them is the red tribalistic tattoos that cover their body from toe to Forearm. To almost everyone these tattoos appear decorative and floral. But to those versed in druidic these are stories, prairs and blessings.
 
 
 
@@ -339,7 +395,7 @@ The band and Alin's parents are still out there somewhere... hopefully.
 #### Non-Familial relationships 
 
 The elders of the tribe rarely regard Alin, a good kid, but not one of them. 
-Alin's peers have cooled from their past of exluding Alin from everithing, but they dont ask either.
+Alin's peers have cooled from their past of exuding Alin from everything, but they don't ask either.
 Alin treats the animals that he gets close to as well as any people.
 
 #### Did you have any pets growing up?
@@ -355,12 +411,12 @@ It felt like it lasted forever, though it lasted only the evening. Laughs were h
 
 #### What is your worst memory? Who was involved in it? 
 
-When Alin messed up once, almost getting the others to throw them out of the band comnplately, luckily they had mercy and Alin was allowed to stay.
+When Alin messed up once, almost getting the others to throw them out of the band completely, luckily they had mercy and Alin was allowed to stay.
 
 
 #### Your personality - Who is your character? What makes them tick? What are their core beliefs and how has the world shaped them into the person they are today?
 
-Alin is an extremely empathetic individual, they are spurred forwards each day with the drive to see the world and all in it. They are driven to help those who are suffering, especcialy those whose suffering is inflicted unfairly. If only Alin could help them or at least offer comforts of food or change of mind.
+Alin is an extremely empathetic individual, they are spurred forwards each day with the drive to see the world and all in it. They are driven to help those who are suffering, especially those whose suffering is inflicted unfairly. If only Alin could help them or at least offer comforts of food or change of mind.
 
 
 #### Fears   
@@ -382,18 +438,27 @@ My father, Ronan, taught me all I know of druids, herbs and animals. Though Alin
 
 Religion: 
 
-* Finding the strengh to carry on for a better day is important, but not to demonize those you disagree with.
+* Finding the strength to carry on for a better day is important, but not to demonize those you disagree with.
 
 Magic:
 
 * Magic is to be used without selfish intentions, to bring balance, heal and protect.
+
+## Relationships
+
+### The 
+
+### The Dreamland Troupe
+
+
 
 
 # Bestiary {.old .tabset .tabset-fade .tabset-pills }
 
 ## Encountered {.threeQuartersSize .gridbook}
 
-Type | Beasts | Undead | Abberations | Fiends | Fey | Humanoids 
+
+Type | Beasts | Undead | Aberrations | Fiends | Fey | Humanoids 
 :-- | :--: | :--:| :--:| :--:| :--:
 Number fought | 0 | 1 | 0 | 0 | 0 | 0
 Number slain | 0 | 0 | 0 | 0 | 0 | 0
@@ -462,13 +527,35 @@ Slow and lumbering, the stench of death fills the air. Large and unsightly, they
 
 #### Therpena
 
+## Deieties
+
+### Entropic {.tabset .tabset-pills .tabset-fade}
+
+#### Death
+
+#### Frostelle
+
+#### Night
+
+#### Storm
+
+### Harmonic {.tabset .tabset-pills .tabset-fade}
+
+#### Blacksmith
+
+#### Flora
+
+#### Maker
+
+#### World
+
 ## Druids 
 
 ### Sacred Plants and Wood
 
 A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.
 
-Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
+Similarly, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaves, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.
 
 Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
 
@@ -481,11 +568,11 @@ Druids from regions that lack the plants described here have chosen other plants
 * Shae - a generic term for an honored elder.  
 * Raunie - A Vistana with an exceptional gift for seeing the Threads of Fate.  
 * Remanio - Vistana who has left their tribe  
-* Lunatio - or moon madness, irritable in the day. Frollicking at night
+* Lunatio - or moon madness, irritable in the day. Frolicking at night
 * vardo - a horse-drawn wagon
 
 ## Witch Sight 
-While all creatures are connected to the weave, only those with strong magical abilities are capable of manipulating and reading it. All people born with the talent to work magic have some degree of witchsight that can be developed and expanded with training so the spellcaster can actually see the ebb and flow of magic, witness the scintillating colours of the Weave's energy in its raw form, and be better able to harness it for the casting of spells.
+While all creatures are connected to the weave, only those with strong magical abilities are capable of manipulating and reading it. All people born with the talent to work magic have some degree of witchsight that can be developed and expanded with training so the spellcaster can actually see the ebb and flow of magic, witness the scintillating colors of the Weave's energy in its raw form, and be better able to harness it for the casting of spells.
 Having the ability to sense magic enables magisters and their ilk to better control the energies they wield. Aside from its utility, witchsight also reveals an abundance of odd manifestations, eerie phenomena, and sometimes glimpses of the future and the past. 
 Common applications can be, but are not limited to;
 
