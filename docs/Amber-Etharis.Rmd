@@ -123,7 +123,7 @@ This is how one begs help from the Lady;
 
 ![](../Etharis/Stillborn_forest.PNG)
 
-#### Lansk
+#### lunsk
 
 A small town, though one of the largest in the forest, walls fortified on the western side, the forest surrounding is thick with monsters and undeath.
 They export lumber, namely **Sapwood**, found bordering lake Ostruva Mare.
@@ -152,7 +152,7 @@ The barmaid is a wood elven woman,
 
 * Investigate woman's husband, who has been sneaking out at night. (probably cheating or doing necromancy)
 
-![](../Etharis/lansk.png)
+![](../Etharis/lunsk.png)
 
 ### The Black Myre
 
@@ -792,7 +792,7 @@ Attempting to use your Witch Sight through a wall or other obstruction The prese
 
 Mask: Priscilla Montegue
 
-Lansk,
+lunsk,
 
 small town, gated on the west.
 Fortified town, the forest is thick with monsters and undead.
