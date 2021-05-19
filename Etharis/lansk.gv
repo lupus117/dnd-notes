@@ -1,0 +1,37 @@
+digraph Lansk {
+layout=fdp
+label = "Lansk"
+bgcolor="#f4a657"
+
+mayor [label = "Evyriel the mayor"]
+
+	subgraph cluster0 { 
+
+	node [style = filled, color="#500605", fontcolor="#ffcd94"];
+	bgcolor="#9d331f"
+	label = "The Black Circle";
+	
+	sanriel [shape="polygon",sides=8; label = "Sanriel"] 
+	barmaid
+	gardener [label="Theruoa, gardener"];	
+
+	}
+
+	subgraph cluster1 { 
+	node [shape="polygon", sides=6,style = filled, color="#500605", fontcolor="#ffcd94"];
+	bgcolor="#9d331f"
+	label="Quests"
+
+	"Missing kid"
+	hubby [label="husband late out"]
+	scratch [label="scratching under floorboards"]
+	}
+
+{rank = "same"; sanriel mayor;}
+
+mayor -> militia [label="controls"];
+militia -> sanriel [label="opresses", color="red"];
+sanriel -> mayor [color="red",arrowhead=none, label="oppose", style="dotted"];
+
+}
+

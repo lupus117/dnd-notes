@@ -8,6 +8,8 @@ Tangerine
 #E6DF44
 Daffodil
 
+text #FFCD94
+
 
 ----
 
@@ -152,7 +154,7 @@ li {
     color: #fbcb7b;
     color: #f77604;
 */
-    color: rgb(255, 205, 148);
+    color: #ffcd94;
 }
 
 a {
