@@ -1,0 +1,15 @@
+digraph graphs {
+layout=fdp
+label = "graph"
+bgcolor="#f4a657"
+node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
+
+	subgraph cluster0 { 
+	node [style = filled, color="#500605", fontcolor="#ffcd94"];
+
+    {rank = "same"; a b c }
+    }
+d -> {a,b,c} [style=dotted];
+
+
+}
