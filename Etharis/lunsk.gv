@@ -4,6 +4,7 @@ label = "Lunsk"
 bgcolor="#f4a657"
 node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
 
+
 mayor [label = "Evyriel the mayor"]
 
 	subgraph cluster0 {
@@ -11,11 +12,13 @@ mayor [label = "Evyriel the mayor"]
 	bgcolor="#9d331f"
 	label = "The Black Circle";
 	
-	sanriel [shape="polygon",sides=8; label = "Sanriel"] 
 	barmaid
 	gardener [label="Theruoa, gardener"];	
+	sanriel [shape="polygon",sides=8; label = "Sanriel"] 
+	leatherworkers 
 
-
+	{rank="same" leatherworkers gardener barmaid}
+	sanriel ->  {leatherworkers, gardener, barmaid}
 	}
 
 	subgraph cluster1 { 
@@ -32,8 +35,7 @@ mayor [label = "Evyriel the mayor"]
 
 
 mayor -> militia [label="controls"];
-	militia -> sanriel [label="opresses", color="red"];
-sanriel -> mayor [color="red", arrowhead=none, label="oppose", style="dotted"];
-
+militia -> {sanriel} [label="supresses", color="red"];
+mayor -> cluster0 [color="red", label="distrusts", style="dotted"];
 }
 

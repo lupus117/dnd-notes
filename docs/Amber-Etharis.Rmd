@@ -147,6 +147,7 @@ The barmaid is a wood elven woman,
 ##### Quests
 
 * Investigate scratching under floorboards (probably rats?)
+  - found cave under floor.
 
 * Look into a kid missing (maybe given to the lady?)
 
@@ -656,24 +657,31 @@ Magic:
 
 ## Encountered {.threeQuartersSize .gridbook}
 
-| Type          | Beasts | Undead | Aberrations | Fiends | Fey |
-|:--------------|:------:|:------:|:-----------:|:------:|:---:|
-| Number fought |   0    |   1    |      0      |   0    |  0  |
-| Number slain  |   0    |   0    |      0      |   0    |  0  |
+| Type          | Beasts | Undead | Monstrosities | Fiends | Fey | Abberations |
+|:--------------|:------:|:------:|:-----------:|:------:|:---:|:-----------:|
+| Number fought |   0    |   1    |      1      |   0    |  0  |0 |
+| Number slain  |   0    |   0    |      1      |   0    |  0  |0 |
 
 ## Beasts
+
+
 
 ## Undead
 
 ### Corpse flower
 
-![](../Etharis/Corpse%20Flower.png){.threeQuartersSize width="75%"}
+![](../Etharis/monsters/Corpse%20Flower.png){.threeQuartersSize width="75%"}
 
 Slow and lumbering, the stench of death fills the air.
 Large and unsightly, they release undead from their bodies and hunt for living flesh.
 The best course of action, to run.
 
 ## Monstrosities
+
+### Giant boar
+![](../Etharis/monsters/giant_boar_m_token.png){.threeQuartersSize width="75%"}
+
+Charges, avoid being in an open area.
 
 # Bits of lore
 
@@ -835,10 +843,24 @@ Quests:
 
 -   Missing kid.
 
-A gigantig boar came in rushing after two guards, can it be persuaded to leave?
+A gigant boar came in rushing after two guards, can it be persuaded to leave?
 
 ## 2 
 
 Mask: Priscilla Montegue
 
+Killed giant boar which turned out to be a monstrosity from the forest.
 
+Evyriel is suspicious of druids since they don't have trouble in the forest
+
+Evyriel angrily monologues to Sandriel about people in danger.
+
+The tree pales in comparison to the new tree, i'm sure it'll be done in no time. 
+
+Meek, the alchemist
+
+* void coal (mastercraft venom clanse tea) 40gp
+
+* artisans charcoal 1gp a bag
+
+the floorboard scratching comes from a cave.
