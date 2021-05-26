@@ -1,0 +1,25 @@
+{
+  "name": "dnd-notes",
+  "version": "1.0.0",
+  "description": "A pace to store and develop my notes for d&d",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"success\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lupus117/DnD-notes.git"
+  },
+  "author": "lupus117",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lupus117/DnD-notes/issues"
+  },
+  "homepage": "https://github.com/lupus117/DnD-notes#readme",
+  "dependencies": {
+    "tone": "^14.7.77"
+  }
+}
