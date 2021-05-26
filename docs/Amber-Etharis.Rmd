@@ -128,13 +128,12 @@ This is how one begs help from the Lady;
 A small town, though one of the largest in the forest, walls fortified on the western side, the forest surrounding is thick with monsters and undeath.
 They export lumber, namely **Sapwood**, found bordering lake Ostruva Mare.
 
-The towns woodcutters are called the **Black Circle**, a lumberjack druidic circle.
 The citizens distrust outsiders.
 
 
 ##### Town square
 
-A beautifully kept guarden lies in the town square, diligently kept by an old woman named **Theruoa**. 
+A beautifully kept garden lies in the town square, diligently kept by an old woman named **Theruoa**. 
 
 The plants that grow here are varied, some are edible, some inedible, some poisonous. A deep rooted plant seems to be having trouble, sagging.
 
@@ -144,18 +143,32 @@ The tavern is a large one, seeing action more in the eve, with some gambling tak
 
 The barmaid is a wood elven woman, 
 
+##### The Black Circle
+
+The towns woodcutters are called the **Black Circle**, a lumberjack druidic circle.
+
+They are recently making a new holy tree, a pale one surrounded by large white rocks, remarkably vibrant and alive.
+
+The mayor suspects them of being hostile, currently no evidence.
+
 ##### Quests
 
-* Investigate scratching under floorboards (probably rats?)
+- Look into a kid missing (maybe given to the lady?)
+
+- Investigate woman's husband, who has been sneaking out at night. (probably cheating or doing necromancy)
+
+- Look into kid whose imaginary friend might be real
+
+- Cyclops north of town, hunt it down
+
+###### Completed
+
+- Investigate scratching under floorboards (probably rats?)
   - found cave under floor.
+  - was full of [Kruthics(insect like monstrosity)](#bestiary) who were nesting there
+  - Eliminated the nest and eggs
+  - found blacksmiths neighbor dead
 
-* Look into a kid missing (maybe given to the lady?)
-
-* Investigate woman's husband, who has been sneaking out at night. (probably cheating or doing necromancy)
-
-* Look into kid whose imaginary friend might be real
-
-* Cyclops north of town, hunt it down
 
 ![](../Etharis/lunsk.png)
 
@@ -659,8 +672,8 @@ Magic:
 
 | Type          | Beasts | Undead | Monstrosities | Fiends | Fey | Abberations |
 |:--------------|:------:|:------:|:-----------:|:------:|:---:|:-----------:|
-| Number fought |   0    |   1    |      1      |   0    |  0  |0 |
-| Number slain  |   0    |   0    |      1      |   0    |  0  |0 |
+| Type fought |   0    |   1    |      2      |   0    |  0  |0 |
+| Number slain  |   0    |   0    |      7       |   0    |  0  |0 |
 
 ## Beasts
 
@@ -682,6 +695,18 @@ The best course of action, to run.
 ![](../Etharis/monsters/giant_boar_m_token.png){.threeQuartersSize width="75%"}
 
 Charges, avoid being in an open area.
+
+### Kruthik
+
+![](../Etharis/monsters/Kruthik.png){.threeQuartersSize width="75%"}
+
+Fought 1 adult and 6 children
+
+Kruthiks are a strange type of giant insect with sharp teeth and claws.Their carapice is thick and provides heavy protection. They are effective in groups and can dig through the solid rock.
+
+They nest in large yellowy-greenish vine like structures in caverns, their eggs look like rocks upon the root-like things.
+
+In combat, do not engage more than one at a time, try to kill small ones first, steer clear of cavern openings they could ambush you from.
 
 # Bits of lore
 
@@ -864,3 +889,35 @@ Meek, the alchemist
 * artisans charcoal 1gp a bag
 
 the floorboard scratching comes from a cave.
+
+## 3
+
+
+Mask: Priscilla Montegue; Masq(after being downed)
+
+Abraxas was scared but performed bravely.
+
+
+
+
+cave:
+
+Jewlery: 30gp;
+
+Carved out by some creature with sharp claws
+
+long vine-y tree rooty tendrils, through the ceiling, with somewhat bulbous parts, eggs of Kruthiks.
+
+Kruthiks, large insectoid creatures have made a nest and started tunneling behind the blacksmiths house.    
+
+Big mama loot:
+
+6 spikes (0.5 slot daggers)
+Carapice armor (can be crafted into a medium[up to breastplate] or heavy [up to splint] that weigh half as much])
+
+Druidic circle new holy tree:
+pale colored sapling, surrounded by big white stones, 
+
+Blonde lady at the middle, with people surrounded by the black circle.
+
+Druidic concept, ancestors of the land. Veneration of being born of the land and what it has given them.

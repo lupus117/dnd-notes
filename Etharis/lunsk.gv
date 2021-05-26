@@ -28,7 +28,7 @@ mayor [label = "Evyriel the mayor"]
 
 	"Missing kid"
 	hubby [label="husband late out"]
-	scratch [label="scratching under floorboards"]
+	scratch [color="lightgray",label="insects under floorboards"]
 	cyclops
 	"Cursed child"
 	}
