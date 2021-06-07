@@ -169,7 +169,9 @@ The mayor suspects them of being hostile, currently no evidence.
   - Eliminated the nest and eggs
   - found blacksmiths neighbor dead
 
-
+```{bash include = FALSE}
+dot -Tpng ../Etharis/lunsk.gv -o ../Etharis/lunsk.png
+```
 ![](../Etharis/lunsk.png)
 
 ### The Black Myre

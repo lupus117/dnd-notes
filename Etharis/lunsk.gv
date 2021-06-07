@@ -6,6 +6,7 @@ node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
 
 
 mayor [label = "Evyriel the mayor"]
+blacksmith
 
 	subgraph cluster0 {
 	node [style = filled, color="#500605", fontcolor="#ffcd94"];
@@ -19,6 +20,7 @@ mayor [label = "Evyriel the mayor"]
 
 	{rank="same" leatherworkers gardener barmaid}
 	sanriel ->  {leatherworkers, gardener, barmaid}
+
 	}
 
 	subgraph cluster1 { 
@@ -28,14 +30,19 @@ mayor [label = "Evyriel the mayor"]
 
 	"Missing kid"
 	hubby [label="husband late out"]
-	scratch [color="lightgray",label="insects under floorboards"]
+	scratch [label="insects under floorboards"] 
 	cyclops
 	"Cursed child"
+	animals [label="investigate animal attacks"]
 	}
 
 
 mayor -> militia [label="controls"];
 militia -> {sanriel} [label="supresses", color="red"];
 mayor -> cluster0 [color="red", label="distrusts", style="dotted"];
+cluster0 -> sapling [color="green"]
+blacksmith -> scratch
+animals -> {cluster0, mayor} [label="?", style="dotted"]
+scratch -> cluster0 [label="?", style="dotted"]
 }
 
