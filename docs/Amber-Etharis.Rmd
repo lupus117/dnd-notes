@@ -664,9 +664,17 @@ Magic:
 
 ## Relationships
 
-### The
 
-### The Dreamland Troupe
+```{bash include = FALSE}
+dot -Tpng ../Etharis/alin_relationships.gv -o ../Etharis/alin_relationships.png
+```
+![](../Etharis/alin_relationships.png)
+
+
+
+### Dreamland travellers
+
+#### The Dreamland Troupe
 
 # Bestiary {.old .tabset .tabset-fade .tabset-pills}
 

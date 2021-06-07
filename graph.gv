@@ -6,7 +6,7 @@ node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
 
 	subgraph cluster0 { 
 	node [style = filled, color="#500605", fontcolor="#ffcd94"];
-
+	bgcolor="#9d331f"
     {rank = "same"; a b c }
     }
 d -> {a,b,c} [style=dotted];

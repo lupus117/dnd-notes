@@ -1,0 +1,37 @@
+digraph ♥ {
+layout=fdp
+label = "Alin's relationships"
+bgcolor="#f4a657"
+node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
+
+    alin [label="Alin"]
+subgraph cluster0 {
+    tessila [label="Tessila", shape="polygon",sides=8, color="#500605"]
+    mazati [label="Mazati"]
+    oona [label="Oona"]
+    ting [label="Ting"]
+    skra [label="Skra"]
+    tarvik [label="Tarvik"]
+    tripp [label="Tripp"]
+    valerian [label="Valerian"]
+    label="Dreamland Travellers"
+
+    subgraph cluster1 { 
+	    node [style = filled, color="#500605", fontcolor="#ffcd94"];
+	    bgcolor="#9d331f"
+        label="The Troupe"
+
+        abraxas [label="Abraxas"]
+        masq [label="Masq"]
+        hallbjorn [label="Hallbjorn"]
+        unit [label="Unit and Puppi"]
+        }
+
+}
+alin -> {unit,tessila} [color="green"] 
+alin -> {cluster1,oona} [color="green",style="dotted"]
+
+
+    
+
+}
