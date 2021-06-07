@@ -5,7 +5,7 @@ date: 'Last updated: `r Sys.Date()`'
 output:
   
   html_document: 
-    css: notes.css
+    css: ../notes.css
     toc: true
   pdf_document: 
     toc: true
@@ -16,7 +16,7 @@ output:
 
 Loki | Gabe | Slowpoke | Barth | Okami | Lupus
 :--:|:--:|:--:|:--:|:--:|:--:
-![](Arriven/Loki_token.png){.token} | ![](Arriven/hugo_token.png)| ![](Arriven/Cassandra.png) | ![](Arriven/Donald.png) | ![](Arriven/stray.png) | ![](Arriven/River_token.png)
+![](../Arriven/Loki_token.png){.token} | ![](../Arriven/hugo_token.png)| ![](../Arriven/Cassandra.png) | ![](../Arriven/Donald.png) | ![](../Arriven/stray.png) | ![](../Arriven/River_token.png)
  **Dungeon Master** | Hugo | Cassandra | Donald Quijote | Stray | River
 
 # The world {.tabset .tabset-fade .tabset-pills  .old}
@@ -30,19 +30,19 @@ Loki | Gabe | Slowpoke | Barth | Okami | Lupus
 
 
 **Date:** Shu 1763
-![](Arriven/Arriven_map_piece.png)
+![](../Arriven/Arriven_map_piece.png)
 
 ### Varren  
 
 ***
 
-![](Arriven/Town_of_Varren.jpg)  
+![](../Arriven/Town_of_Varren.jpg)  
 
 #### People {.tabset .tabset-fade .tabset-pills }
 
 ##### Overview 
 * Felix (DAD)
-* Mayor Everett ![](Arriven/Everett_Euncile.png){width=5%}   
+* Mayor Everett ![](../Arriven/Everett_Euncile.png){width=5%}   
 * ~~Baker Martha Stevens~~ deceased
 * Mr Stevens. Hunter and lumberjack
 * Father Vincent
@@ -64,8 +64,8 @@ Loki | Gabe | Slowpoke | Barth | Okami | Lupus
 ##### Trav
 The traveling merchant merchant. | 
 --|-- 
-Storyteller, well liked. friend of Felix. (river calls him Trav) Is from way up north, his uniform being a basket on his head. Real name is Jin, he is a good person and knows how to survive in the wild. | ![](Arriven/Trav2.png){.token}
-After the encounter with the **Frog king** Trav's woven basket was removed, revealing his face and elven nature. | ![](Arriven/jin_linye_no_hat.png)
+Storyteller, well liked. friend of Felix. (river calls him Trav) Is from way up north, his uniform being a basket on his head. Real name is Jin, he is a good person and knows how to survive in the wild. | ![](../Arriven/Trav2.png){.token}
+After the encounter with the **Frog king** Trav's woven basket was removed, revealing his face and elven nature. | ![](../Arriven/jin_linye_no_hat.png)
 
 
 ##### Felix
@@ -75,7 +75,7 @@ Used to be part of the **Hunters**
 ###### Bio
 Felix | 
 --|--
-Founder of the Varren orphanage, Father to the children. An old man with a kind heart. Felix has a ring on his neck, though he doesn't talk about his past, we know he was a wanderer. He does all he can to make sure his kids can live a normal life. Calls **Trav** Old friend. | ![](Arriven/Felix.png)
+Founder of the Varren orphanage, Father to the children. An old man with a kind heart. Felix has a ring on his neck, though he doesn't talk about his past, we know he was a wanderer. He does all he can to make sure his kids can live a normal life. Calls **Trav** Old friend. | ![](../Arriven/Felix.png)
 
 ###### Past
 
@@ -88,7 +88,7 @@ They left the town near age 30, when Felix joined a group of wanderers, sometime
 ##### Father Vincent
 Holyman of Longinus | 
 --|--
-Devout follower of Longinus, educated man in charge of the Varren church. Taught Cas, Lucas and River. He held the line with Felix in letting the others escape. Turns out could cast spells because of his devoutness. | ![](Arriven/Vincent.png)
+Devout follower of Longinus, educated man in charge of the Varren church. Taught Cas, Lucas and River. He held the line with Felix in letting the others escape. Turns out could cast spells because of his devoutness. | ![](../Arriven/Vincent.png)
 
 ##### Stevens family
 Mr Stevens, a hunter and lumberjack, rarely seen.
@@ -100,7 +100,7 @@ After Martha Stevens, their mother, died. Most of the children put the blame on 
 
 Jessy | Lucas | Michael
 :--:|:--:|:--:
-![](Arriven/Jessica.png) | ![](Arriven/Lucas.png) | ![](Arriven/Michael.png)
+![](../Arriven/Jessica.png) | ![](../Arriven/Lucas.png) | ![](../Arriven/Michael.png)
  Cunning, unforgiving, untrusting and jealous. She is the least talkative of the three (16) | Bookworm, wants to be a hunter, studied in the church, extremely prideful.(17) | Big boy, the eldest, farmer, lumberjack, mama's boy.(19)
 
 
@@ -139,7 +139,7 @@ There is no-one left there now, nor anywhere north of Erven and Everence for tha
 #### Abbie
 Abbie | 
 --|--
-A young girl of the age of 12 ~~, she was alone after (and maybe before) the **Terrors** attacked, leaving her as last in the camp.~~ She lost her parents a while ago, as they made a path for her escape from their captors.  She seems really capable and smart for her age, a sweet girl and slight trickster.  | ![](Arriven/Abbie.jpg)
+A young girl of the age of 12 ~~, she was alone after (and maybe before) the **Terrors** attacked, leaving her as last in the camp.~~ She lost her parents a while ago, as they made a path for her escape from their captors.  She seems really capable and smart for her age, a sweet girl and slight trickster.  | ![](../Arriven/Abbie.jpg)
 
 ### Erven
 
@@ -186,13 +186,13 @@ Last hidden bastion of humanity in New Dawn. Guards have been disappearing and t
 
 Raymond Aurin | 
 :--:|:--:
-Tough guy and realist, The leader of the guards.  | ![](Arriven/Raymond_Aurin.png)
+Tough guy and realist, The leader of the guards.  | ![](../Arriven/Raymond_Aurin.png)
 
 #### Lucian Sult
 
 The thief king |
 :--:|:--:
-Part drow, 100% criminal mastermind and orchestrator. Clever and connected with people in the city. | ![](Arriven/Lucian_Sult.png)
+Part drow, 100% criminal mastermind and orchestrator. Clever and connected with people in the city. | ![](../Arriven/Lucian_Sult.png)
 
 
 
@@ -280,7 +280,7 @@ Longinus is the god that governs justice and kindness. He is the staple paladin 
 
 holy symbol | 
 -|-
-His symbol is that of a long sword struck into the ground whose hilt is that of a weighing scale. | ![](Arriven/Longinus_new_symbol.png)
+His symbol is that of a long sword struck into the ground whose hilt is that of a weighing scale. | ![](../Arriven/Longinus_new_symbol.png)
 
 **Appearance**  
 Being from the Pantheon of fire, his skin is a deep red, emanating a scent of brimstone, there are two long horns growing from his scalp. On the horns there dangle two scales, one on each. His face bearing an expression of both manevolence and beneficence.
@@ -410,7 +410,7 @@ The hunters are split into 3 main rolls/archetypes
 
  Description | Appearance   
 :---: | :----:
- The Token is a badge, with six words written in an old, nigh lost language. The tenants of the Hunters. | ![](Arriven/Emblem.png){width=50%}|-
+ The Token is a badge, with six words written in an old, nigh lost language. The tenants of the Hunters. | ![](../Arriven/Emblem.png){width=50%}|-
 
 Old word | Meaning
 --:|--
@@ -497,7 +497,7 @@ There is one teacher known in the northern cities.
 
 **Attribute** | Wolf | Winter wolf
 :-|:---:|:---:|
-**Appearance** | ![](Arriven/wolf_token.png) | ![](Arriven/winter_wolf.png)
+**Appearance** | ![](../Arriven/wolf_token.png) | ![](../Arriven/winter_wolf.png)
 **Size** | Medium | Big 
 **Abilities** | Pact tactics | Pact tactics, Cold breath
 
@@ -508,7 +508,7 @@ There is one teacher known in the northern cities.
 
 **Name** | Shambler | Shadow | Aromatic
 :-|:---:|:---:|:---:
-**Appearance** | ![](Arriven/Terror_Shambler.png) | ![](Arriven/Terror_Shadow.png) | ![](Arriven/Terror_Aromatic.png)
+**Appearance** | ![](../Arriven/Terror_Shambler.png) | ![](../Arriven/Terror_Shadow.png) | ![](../Arriven/Terror_Aromatic.png)
 **Smell** | NA | - | **Great**
 **Sight** | **good** | - | NA
 **Hearing** | NA | - | -
@@ -522,7 +522,7 @@ The **Hauntings** Are powerful terrors, feasted on magic and have become stronge
 
 **Name** | Haunting Zorn | Haunting Chotgor
 :-|:---:|:---:
-**Appearance** | ![](Arriven/Terror_Haunting_Zorn.png) | ![](Arriven/Terror_Haunting_Chotgor.png)
+**Appearance** | ![](../Arriven/Terror_Haunting_Zorn.png) | ![](../Arriven/Terror_Haunting_Chotgor.png)
 **Smell** | NA | NA 
 **Sight** | NA | NA 
 **Hearing** | NA | NA 
@@ -537,7 +537,7 @@ After a week of being in the town, suddenly some sort of **black corruption over
 
 Andrus | Striker | Forward | Slinker | Tracker
 -|-|-|-|-
-![](Arriven/Andrus_Uncorrupt.png) |
+![](../Arriven/Andrus_Uncorrupt.png) |
  The leader of the adventurers, charismatic, the only one who did not wear headgear. | A powerful swordsman, her training of Don was ruthless | Large armored Tank, his shield thick like his armor | Hider of the shadows, carefully he trained Corras | Ambusher, she trained Stray ruthlessly.
 
 ### Frog king
@@ -547,7 +547,7 @@ The **Frog King** is filled with honor and holds to his word.
 He controlls his little frogmen servants as shinobi.
 
 #### The king and his wife
-![Frog king](Arriven/Frog_King.png)
+![Frog king](../Arriven/Frog_King.png)
 
 Title | Frog King | Queen
 :--:|:----:|:----:
@@ -559,7 +559,7 @@ The frog king has many followers, all frogs themselves.
 
 Archer | Cavalry | Samurai | Shinobi
 :--:|:--:|:--:|:--:
-![archer](Arriven/frog_ashigaru.png) | ![cavalry](Arriven/frog_cavalry.png) | ![Samurai](Arriven/frog_samurai.png) | ![Shinobi](Arriven/frog_shinobi.png)
+![archer](../Arriven/frog_ashigaru.png) | ![cavalry](../Arriven/frog_cavalry.png) | ![Samurai](../Arriven/frog_samurai.png) | ![Shinobi](../Arriven/frog_shinobi.png)
 
 ### Undead 
 
@@ -578,7 +578,7 @@ Does not distinguish between people.
 
 Keeps returning again and again to attack it's marked targets.
 
-![](Arriven/frostcoast_revenant.png)
+![](../Arriven/frostcoast_revenant.png)
 
 ### Hivemind
 
@@ -586,7 +586,7 @@ The hivemind is an interesting case, as it can overtake other creatures (and mos
 
 **Name** | Eyeballs | Controller | Tentacles
 :-|:---:|:---:|:---:
-**Appearance** | ![](Arriven/Archbishop.png) | ![](Arriven/Bishop.png) | ![](Arriven/Acolyte.png)
+**Appearance** | ![](../Arriven/Archbishop.png) | ![](../Arriven/Bishop.png) | ![](../Arriven/Acolyte.png)
 **Abilities** | - | - | Magical cleric like abilities
 **Weaknesses**| - | - | -
 **Notes** | Do not speak common | - | Swift and powerful, can create tentacles at far.
@@ -597,7 +597,7 @@ The hivemind is an interesting case, as it can overtake other creatures (and mos
 
 Attribute | Liam | Fergus | Mave | Cassandra Milan
 :-- | :--: | :--: | :--: | :--:
-**Appearance** | ![](Arriven/Liam_Cullen.png){.token} | ![](Arriven/Fergus.png){.token} | ![](Arriven/Mave.png){.token}  | ![](Arriven/Cassandra_Milan.png){.token}
+**Appearance** | ![](../Arriven/Liam_Cullen.png){.token} | ![](../Arriven/Fergus.png){.token} | ![](../Arriven/Mave.png){.token}  | ![](../Arriven/Cassandra_Milan.png){.token}
 **Traied** | Cassandra | Stray | Donald | Hugo
 **Roll** | WOLF  | WOLF  | DAEMON | CROW
 **Comments** | | Likes to have fun | |
@@ -606,7 +606,7 @@ Attribute | Liam | Fergus | Mave | Cassandra Milan
 
 ## Bio 
 
-![](Arriven/River_emotes.jpg)
+![](../Arriven/River_emotes.jpg)
 
 Curious, headstrong and kind, those are the words one might use to describe River. Of average height for a half elf, his muscles are toned from carrying supplies and helping till the fields. His appearance being unusual, the red tinged blond hair and the sharper ears are all from his elvish ancestry, or so he's gathered.
 
