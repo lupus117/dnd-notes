@@ -5,6 +5,8 @@ date: 'Last updated: `r Sys.Date()`'
 output:
   
   html_document: 
+    includes:
+      in_header: default_header.html
     css: ../notes.css
     toc: true
   pdf_document: 

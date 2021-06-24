@@ -161,6 +161,10 @@ The mayor suspects them of being hostile, currently no evidence.
 
 - Cyclops north of town, hunt it down
 
+- wanted poster
+
+![](../Etharis/Lunsk_wanted.PNG){.halfSize width=50%}
+
 ###### Completed
 
 - Investigate scratching under floorboards (probably rats?)
@@ -682,8 +686,8 @@ dot -Tpng ../Etharis/alin_relationships.gv -o ../Etharis/alin_relationships.png
 
 | Type          | Beasts | Undead | Monstrosities | Fiends | Fey | Abberations |
 |:--------------|:------:|:------:|:-----------:|:------:|:---:|:-----------:|
-| Type fought |   0    |   1    |      2      |   0    |  0  |0 |
-| Number slain  |   0    |   0    |      7       |   0    |  0  |0 |
+| Type fought   |   0    |   1    |      2      |   0    |  0  |0 |
+| Number slain  |   0    |   0    |      7      |   0    |  0  |0 |
 
 ## Beasts
 
@@ -789,6 +793,7 @@ In combat, do not engage more than one at a time, try to kill small ones first, 
 #### World
 
 ## Druids
+
 
 ### Sacred Plants and Wood
 
@@ -928,6 +933,30 @@ Carapice armor (can be crafted into a medium[up to breastplate] or heavy [up to 
 Druidic circle new holy tree:
 pale colored sapling, surrounded by big white stones, 
 
-Blonde lady at the middle, with people surrounded by the black circle.
+Blonde lady at the middle, with people surrounded by the black circle (the wanted poster).
 
 Druidic concept, ancestors of the land. Veneration of being born of the land and what it has given them.
+
+## 4 
+
+Masq: Priscilla 
+
+Corin hodgepot - Smith
+
+Weirwood tree. 
+
+Sucks up magic from the environment, storing it at its roots. 
+Over time its green leaves turn red and it sometimes grows a face.
+the ground is extremely well maintained 
+
+Sanriel:
+  the guard encroached on the boars territory, causing it to get enraged.
+  
+Evyriel:
+  Things have recently gotten a lot worse, the forsest is unsafe.
+  
+Wanted poster:
+  woman with blond hair hiding around with the druids.
+  
+something gold from the sky, a piece of paper, like fish scales, a ticket hits Alin's face
+![](../Etharis/ticket_the_revelia.PNG)

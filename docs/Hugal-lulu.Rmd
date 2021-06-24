@@ -1,0 +1,79 @@
+---
+title: "Hugal"
+author: "Lupus"
+date: 'Last Updated: `r Sys.Date()`'
+output:
+  html_document: 
+    css: ../notes.css
+  pdf_document: 
+    toc: true
+    toc_depth: 3
+---
+
+
+# Players and characters 
+
+Lupus | Amber | Farris |  BlackSpirit | **WhiteBones** | BattleDerp
+:--:|:--:|:--:|:--:|:--:|:--:
+![](../Hugal/Nox.png) | ![](../Hugal/Alistina.png) | ![](../Hugal/Ulgrimm.png) | ![](../Hugal/Trent.png) | ![](../Hugal/Winnigar.png) | ![](../Hugal/Rak-Tak.png)
+
+# World {.old .tabset .tabset-fade .tabset-pills}
+
+
+# Characters {.tabset .tabset-fade .tabset-pills .old }
+## Lulu the Hollyohant {.tabset .tabset-pills}
+
+![](../Hugal/lulu_token.png){width=75% .threeQuartersSize}
+
+### Personality
+
+#### Traits {.threeQuartersSize .book .cardOnHover .centered-text}
+
+Nothing can shake my optimistic attitude.
+
+Curious
+
+Dreamy
+
+Impulsive
+
+***
+
+Peace and Prosperity 
+Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good)
+
+***
+
+I would do what I could to help Sylvira be ok
+
+***
+
+I would trust Sylvira enough to follow her off a cliff
+
+Actions speak louder than words
+
+#### Test 
+### Backstory
+
+After being rescued from devils by the Kaelian mage Sylvira Savikas. Sylvira took it upon herself to recovery Lulu's memories while searching for a means to unlock a puzzlebox that came into her possession. A venture that has taken them from Kaelia to Port Solyma and if they weren't interrupted they would have gone to Euriel afterward. How Lulu might communicate this information to the rest of the party:
+
+“I don’t remember…” “I don’t remember…” “I’m sorry, I don’t remember, Sylvira says something broke my head and it makes everything really confusing…” sad toot
+“I came here, to Port Solyma with my friend Sylvira Savikas. She rescued me from a really mean ice devil.”
+“Sylvira is really nice lady with pretty red skin and nice horns and a cute tail that she doesn’t like to show off. Oh! And she’s also a very good mage with a talking head for a spellbook.” Lulu nods wisely with a happy toot at the memory.
+“Sylvira was helping me recover my memories and looking for a way to open a puzzlebox she has, so we came to Mercia from her tower in Kaelia and…” Lulu stops talking and looks down sadly
+“Umm, ye… We followed them down into the catacombs and then and then they attacked us. They hurt Sylvira and she told me to run an-and I ran and ran and I got lost in the tunnels until I found another way out and there was a shrine and it was so green and then they saw me when I came out the ground and chase me and then I found you.” The little elephant-like creatures pace around in circles and collapse around themselves like a ball of golden fur
+
+Lulu only has a few fragmentary memories of the time before her amnesia:
+
+- Flying over a vast, dark ocean. The water reflecting a sky filled with diamond-like stars. In the black depths below, a huge whale seemingly made from golden motes of light swims through the darkness.
+- Looking out a window made from gems set into silver and gold, across a verdant landscape where metallic dragons flit through the sky.
+- The smiling face of a blindfolded golden-haired woman with ivory wings. A friend she doesn't remember.
+- Flying over a boundless expanse of black, cracked basalt. A single-file line of strange, polyhedral-shaped creatures marches below, stretching from horizon to horizon.
+- A busy marketplace carved from a cliff-face. She was speaking to a winged lion with the kind-yet-stern face of a man.
+- Marching with an army of knights through a desolate wasteland against an army of monsters.
+- Sometimes this feels like a magician’s trick: She remembers riding through a crimson portal, seeing a blasted plain stretched out in front of her, and then… Everyone is gone and she’s all alone.
+- A silver beach beneath a pair of blue moons. Sometimes she remembers her warrior angel being with her there.
+- The taste of blood and fur in her mouth.
+
+
+
