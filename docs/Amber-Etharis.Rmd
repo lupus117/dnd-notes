@@ -151,6 +151,14 @@ They are recently making a new holy tree, a pale one surrounded by large white r
 
 The mayor suspects them of being hostile, currently no evidence.
 
+###### Weirwood tree. 
+
+Sucks up magic from the environment, storing it at its roots. 
+Over time its green leaves turn red and it sometimes grows a face.
+the ground is extremely well maintained 
+
+Sucks up necrotic energies, supposedly to reduce amount of undead in the area.
+
 ##### Quests
 
 - Look into a kid missing (maybe given to the lady?)
@@ -163,7 +171,7 @@ The mayor suspects them of being hostile, currently no evidence.
 
 - wanted poster
 
-![](../Etharis/Lunsk_wanted.PNG){.halfSize width=50%}
+![](../Etharis/Lunsk_wanted.PNG){.halfSizeLeft width=50%}
 
 ###### Completed
 
@@ -237,9 +245,9 @@ One must beware when dealing with hags, however - often the payment they demand 
 +-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
 |                             |                                                                                                                                        |
 +-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
-| Class                       | Druid                                                                                                                                  |
+| Class                       | Druid (shepard)                                                                                                                             |
 +-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
-| Level                       | 1                                                                                                                                      |
+| Level                       | 2                                                                                                                                      |
 +-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
 | Background                  | Folk Hero                                                                                                                              |
 +-----------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
@@ -960,3 +968,10 @@ Wanted poster:
   
 something gold from the sky, a piece of paper, like fish scales, a ticket hits Alin's face
 ![](../Etharis/ticket_the_revelia.PNG)
+
+LEVEL UP!
+
+## 5
+
+Starts with performance
+

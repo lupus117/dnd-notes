@@ -42,7 +42,7 @@ militia -> {sanriel} [label="supresses", color="red"];
 mayor -> cluster0 [color="red", label="distrusts", style="dotted"];
 cluster0 -> sapling [color="green"]
 blacksmith -> scratch
-animals -> {cluster0, mayor} [label="?", style="dotted"]
+animals -> {sapling} [label="no undead, more beasts?", style="dotted"]
 scratch -> cluster0 [label="?", style="dotted"]
 }
 
