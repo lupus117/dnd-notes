@@ -5,8 +5,8 @@ bgcolor="#f4a657"
 node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
 
 
-mayor [label = "Evyriel the mayor"]
-blacksmith
+evyriel [label = "Evyriel the guard captain (mayor?)"]
+blacksmith [label="Corin Hodgepot - Smith"]
 
 	subgraph cluster0 {
 	node [style = filled, color="#500605", fontcolor="#ffcd94"];
@@ -37,9 +37,9 @@ blacksmith
 	}
 
 
-mayor -> militia [label="controls"];
+evyriel -> militia [label="controls"];
 militia -> {sanriel} [label="supresses", color="red"];
-mayor -> cluster0 [color="red", label="distrusts", style="dotted"];
+evyriel -> cluster0 [color="red", label="distrusts", style="dotted"];
 cluster0 -> sapling [color="green"]
 blacksmith -> scratch
 animals -> {sapling} [label="no undead, more beasts?", style="dotted"]

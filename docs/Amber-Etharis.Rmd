@@ -151,6 +151,8 @@ They are recently making a new holy tree, a pale one surrounded by large white r
 
 The mayor suspects them of being hostile, currently no evidence.
 
+They worship **the lady** giving wooden trinkets in her honor
+
 ###### Weirwood tree. 
 
 Sucks up magic from the environment, storing it at its roots. 
@@ -682,6 +684,67 @@ dot -Tpng ../Etharis/alin_relationships.gv -o ../Etharis/alin_relationships.png
 ```
 ![](../Etharis/alin_relationships.png)
 
+## Prairs and spells
+
+### Spirit totems
+
+- Bear:  
+  - Ox: Beast of Burden, lend us your strength  
+  - Bear: Beast of Bear, lend us your hide 
+ 
+- Hawk:  
+  - O' Hunter, O' Hawk, lend us your swiftness  
+  - Raven of cunning, Lend us your wit.  
+
+- Unicorn:  
+  - Lord of the forests, give us aid  
+  - Noblest of steed, your help we heed  
+ 
+### Spells
+
+Magic stone
+
+- May you return to Eana, bring along their strength.
+
+- May you strike with the might of a boulder 
+
+- Heart of mine, strike out with blame. Take from me and earth in same.
+ 
+
+Healing
+
+- May you remember as you once were
+
+- Your body is broken, but with your spirit I will mend it
+
+- Bind the tears of flesh and bone: Leave the sick to health alone.
+ 
+
+Entangle:
+
+- Flora heed my call to you, grow from sapling, entwine here though.
+ 
+
+Faerie fire
+
+- O' spirits that are made on pyres, grow and show this place a fire.
+ 
+
+Fog cloud
+
+- Oh Crone and smith, doth heed my plea, mix in mist and let it be.
+ 
+
+Goodberry
+
+- Mother earth, a call of babe, grow and nurture, life do save.
+ 
+
+Hold person
+
+- You and I are one, you see. I hold my heart and you won't flee.
+
+
 
 
 ### Dreamland travellers
@@ -693,9 +756,9 @@ dot -Tpng ../Etharis/alin_relationships.gv -o ../Etharis/alin_relationships.png
 ## Encountered {.threeQuartersSize .gridbook}
 
 | Type          | Beasts | Undead | Monstrosities | Fiends | Fey | Abberations |
-|:--------------|:------:|:------:|:-----------:|:------:|:---:|:-----------:|
-| Type fought   |   0    |   1    |      2      |   0    |  0  |0 |
-| Number slain  |   0    |   0    |      7      |   0    |  0  |0 |
+|:--------------|:------:|:------:|:-----------:|:------:|:---:|:-----------: |
+| Type fought   |   0    |   1    |      2      |   0    |  0  |    0         |
+| Number slain  |   0    |   0    |      7      |   0    |  0  |    0         |
 
 ## Beasts
 
@@ -949,7 +1012,7 @@ Druidic concept, ancestors of the land. Veneration of being born of the land and
 
 Masq: Priscilla 
 
-Corin hodgepot - Smith
+
 
 Weirwood tree. 
 
@@ -973,5 +1036,35 @@ LEVEL UP!
 
 ## 5
 
+Masq: Ella
+
 Starts with performance
 
+Many people came:
+
+- Evyriel
+
+- Meek and wife
+
+- Theruoa
+
+- Lesli
+
+- Hodgepot
+
+- Elf milf, Delilah ![](../Etharis/Delilah and creep.PNG){width=2cm}
+  
+  - Came alone from Nov Ostoya alone
+  
+  - Dissassociates a lot
+  
+  - Spellcaster of moderate power
+  
+- Human, creeping on the elf?
+
+
+Pyke the demigryph, size of a masstiff. 
+
+Competition of mallet rock, Hallbjorn won
+
+Abraxas wooing elf woman, or other way around.
