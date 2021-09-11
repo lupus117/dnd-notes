@@ -17,5 +17,6 @@ output:
 
 Links | DM
 :--: | :--:
+[Hugal(lulu)](Hugal-lulu.html) | WhiteBones
 [Etharis](Amber-Etharis.html) | Amber
 [Old Curse of strahd](My-Curse-of-Strahd-notes.html) | Oscar

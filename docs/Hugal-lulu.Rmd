@@ -15,7 +15,7 @@ output:
 
 Lupus | Amber | Farris |  BlackSpirit | **WhiteBones** | BattleDerp
 :--:|:--:|:--:|:--:|:--:|:--:
-![](../Hugal/Nox.png) | ![](../Hugal/Alistina.png) | ![](../Hugal/Ulgrimm.png) | ![](../Hugal/Trent.png) | ![](../Hugal/Winnigar.png) | ![](../Hugal/Rak-Tak.png)
+![](../Hugal/lulu_token.png){.circle width=10em height=10em} | ![](../Hugal/Alistina.png){.circle width=10em height=10em} | ![](../Hugal/Ulgrimm.png){.circle width=10em height=10em} | ![](../Hugal/Trent.png){.circle width=10em height=10em} | ![](../Hugal/Winnigar.png){.circle width=10em height=10em} | ![](../Hugal/Rak-Tak.png){.circle width=10em height=10em}
 
 # World {.old .tabset .tabset-fade .tabset-pills}
 
@@ -44,15 +44,15 @@ Greater Good. My gifts are meant to be shared with all, not used for my own bene
 
 ***
 
-I would do what I could to help Sylvira be ok
+I would do what I could to help People be ok
 
 ***
 
-I would trust Sylvira enough to follow her off a cliff
+I would trust my friends enough to follow them off a cliff
 
 Actions speak louder than words
 
-#### Test 
+ 
 ### Backstory
 
 After being rescued from devils by the Kaelian mage Sylvira Savikas. Sylvira took it upon herself to recovery Lulu's memories while searching for a means to unlock a puzzlebox that came into her possession. A venture that has taken them from Kaelia to Port Solyma and if they weren't interrupted they would have gone to Euriel afterward. How Lulu might communicate this information to the rest of the party:
@@ -76,4 +76,88 @@ Lulu only has a few fragmentary memories of the time before her amnesia:
 - The taste of blood and fur in her mouth.
 
 
+# Notes {.tabset .tabset-fade .tabset-pills }
 
+## flashbacks
+
+### a
+
+Ariel riding atop Lulu, her war elephant, were on a green grass, infront of us is a similar fleshy growth "hell portal'. 
+Zariel calls out to someone to into the portal, Lulu felt she couldn't look away from it almost in a trance. 
+Zariel shouts mentioning a name Lulu could not recall, "...he has taken one of our own! charge into the portal and him him back!" 
+we all charge into the portal... memory ends.
+
+### b
+
+A Demonic knight of Palor called her name for a boon
+
+### C
+
+Zariel's testifying... she's screaming... someone's on trial... "your betrayal, Ashmendale, will cost!... i will speak my truth!"
+
+## Gideons testement {.book}
+
+> The overwhelming theme of the book regards the evils of demons:
+
+The Woman: Tell me, O Master, of what is the greatest evil.  
+Gideon: It is that of the Abyss. It is the teemless horde of chaos which seeks to rip down civilization.  
+The Woman: And why should civilization be not destroyed?  
+Gideon: Civilization is that which gives life meaning. It is the font of morality and thought. Of art and of science.
+
+> Great praises are heaped upon those divinities which stand stalwart against this demonic threat:
+
+It is the gods’ place to stand between Man and Chaos. It is their aegis which is their ultimate purpose, for behind their shield we create greatness and dedicate it to their honor.
+
+> One night, however, Gideon awakens from a strange and formless dream and sees a disturbing vision in his bedchamber:
+
+There I beheld her. Her beauty was so great it seemed to burn my eyes. And yet through my blindness I could see her with greater clarity than any other sight that I have ever beheld.  
+Two great wings of white she had. And a sword of celestial steel so sharp that I could hear the hum of its edge. A weapon made to cleave the division between soul and mind.  
+But then I saw this essence of perfection cast away her sword. Her wings turned black. Her eyes turned to pits of fire. And a great and terrible purpose furrowed her brow.
+
+> The next day he speaks with the Woman in White, who tells him that she, too, has had a vision of this angelic being, and that its name is Zariel.
+
+Gideon: But why should she have turned from the light?  
+The Woman: She turned from the light because it blinded her.  
+Gideon: Does not the light let us see?  
+The Woman: That is the lie of the light. We think only of what it illuminates, but not of what it conceals from us.
+
+> Gideon realizes that the Great Blindness – the Great Lie — is that the gods protect man from chaos:
+
+… but it is not so! Pelor? Selune? Bahamut? Kord? His children? None of them battle the Abyss. They claim the glory of that war, but shed no blood in it!  
+This is why Zariel turned from Heaven. She saw the truth of her holy purpose; the Great Need to stand against Chaos. And she saw that her “holy” power was powerless because her gods had willed it so. Thus she allied herself with Hell! For it is Hell who fights chaos! It is Hell which sacrifices itself in the Blood War! Hell which fights eternal so that we poor mortals may eke out a few years of freedom upon the mortal plane!
+
+> Zariel is, thus, the inordinate exemplar of both sacrifice and surface. Gideon has nothing but praise for her, for the choice she made, and for the great work which she does in the service not only of the mortal races, but for the balance of the entire multiverse.
+
+Without her, all would become Chaos. And all those who do not stand with her are servants and abettors of Chaos, though they know it not.
+
+## Session notes
+
+```{bash include = FALSE}
+dot -Tpng ../Hugal/Avernus.gv -o ../Hugal/Avernus.png
+```
+![](../Hugal/Avernus.png)
+
+### 1st back
+
+City- Euriel
+
+Gideon- plans to make army of undead to free euriel. Forgot who Pelor was.
+
+devil- the philosopher, winged on the house. 
+ah, they institutionized a religious subversion, instead of venerating gods, venerating a religious idol.
+
+Mage tower, overrun by hell knights
+
+Curriors tower/guild
+filled with dead people
+
+basement lvl 1
+
+Doors, light, organic matter and rubble
+singular head with a helmet on the floor
+
+something moving in the back
+
+vent -> boiler room -> spherical pods on the wall from a strange and horrid fiend. One which ripped countless people into shreds onto the walls.
+
+Noelle, Alistair's sister, crippled from the lower body but managed to survive.

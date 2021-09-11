@@ -1,0 +1,34 @@
+digraph graphs {
+layout=fdp
+label = "Decent into avernus thoughts"
+bgcolor="#f4a657"
+node [style = filled, color="#9d331f", fontcolor="#ffcd94"];
+
+
+
+	subgraph cluster0 { 
+	node [style = filled, color="#500605", fontcolor="#ffcd94"];
+	bgcolor="#9d331f"
+	label="Euriel"
+
+	companion [label="Order of the Companion"]
+	undead
+	Pelor
+	c_sun [label="The Companion"]
+
+
+    {rank = "same";  }
+    }
+
+	subgraph cluster1 { 
+	node [style = filled, color="#500605", fontcolor="#ffcd94", shape="record", fontsize="15"];
+	label="Zariel"
+	bgcolor="#9d331f"
+
+	angelic [label="{ANGELIC | Fought demons with lulu as her steed}"]
+	betrayal [label="{Ashmendale betrayed someone | Zariel testified against}"]
+	fall [label="{FALL | (according to Gideons testament) | found out that the real force that fights demons| is hell, then decent and joined them.}"]
+    {rank = "same"; angelic -> fall -> fallen }
+    }
+
+}
