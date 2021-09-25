@@ -1,0 +1,23 @@
+---
+title: "Talborn"
+author: "Lupus"
+date: 'Last Updated: `r Sys.Date()`'
+output:
+  html_document: 
+    css: ../notes.css
+  pdf_document: 
+    toc: true
+    toc_depth: 3
+---
+
+# The World {.old .tabset .tabset-pills .tabset-fade}
+
+## Map 
+
+***
+
+![](../Talborn/Talborn_map.jpg){.round}
+
+# The History
+
+# The People

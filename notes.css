@@ -198,10 +198,6 @@ h6 {
     margin-left: 50px;
 }
 
-.token {
-    border-radius: 100%;
-}
-
 .biggerOnHover {
     transition: margin 0.5s;
 }
@@ -293,11 +289,25 @@ h6 {
     object-fit: cover;
     width: 23em;
     height: 23em;
-    transition: all 0.5s;
+    transition: all 0.5s ease;
 }
 
-.circle:hover {
+.circle:hover,
+.round:hover {
     object-fit: contain;
     border-radius: 0%;
     object-position: 50% 50%;
+}
+
+.token {
+    border-radius: 100%;
+}
+
+.round {
+    border-radius: 100%;
+    object-position: 50% 0%;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    transition: all 0.5s ease;
 }

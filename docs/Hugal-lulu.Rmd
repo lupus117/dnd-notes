@@ -15,7 +15,7 @@ output:
 
 Lupus | Amber | Farris |  BlackSpirit | **WhiteBones** | BattleDerp
 :--:|:--:|:--:|:--:|:--:|:--:
-![](../Hugal/lulu_token.png){.circle width=10em height=10em} | ![](../Hugal/Alistina.png){.circle width=10em height=10em} | ![](../Hugal/Ulgrimm.png){.circle width=10em height=10em} | ![](../Hugal/Trent.png){.circle width=10em height=10em} | ![](../Hugal/Winnigar.png){.circle width=10em height=10em} | ![](../Hugal/Rak-Tak.png){.circle width=10em height=10em}
+![](../Hugal/lulu_token.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Alistina.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Ulgrimm.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Trent.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Winnigar.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Rak-Tak.png){.zoom .circle width=10em height=10em}
 
 # World {.old .tabset .tabset-fade .tabset-pills}
 
@@ -130,7 +130,7 @@ This is why Zariel turned from Heaven. She saw the truth of her holy purpose; th
 
 Without her, all would become Chaos. And all those who do not stand with her are servants and abettors of Chaos, though they know it not.
 
-## Session notes
+## Session notes {.tabset .tabset-fade .tabset-pills}
 
 ```{bash include = FALSE}
 dot -Tpng ../Hugal/Avernus.gv -o ../Hugal/Avernus.png
@@ -161,3 +161,95 @@ something moving in the back
 vent -> boiler room -> spherical pods on the wall from a strange and horrid fiend. One which ripped countless people into shreds onto the walls.
 
 Noelle, Alistair's sister, crippled from the lower body but managed to survive.
+
+
+### 2nd back
+
+We go towards High Hall.
+
+Noelle disgruntled rides on the white sun
+
+Her majesty's peacekeepers, carrying barrels of water and food.
+
+Dracanoid individual, white in color. NE -> SW
+
+
+in helm
+
+angel with red eyes
+
+tall devil in black and gold, two long dark horns, he reaches over to her, "where is her sword?"
+
+
+we are all uniformed in a knights garb,
+woman with dark hair, bearded man, the angel riding a mammoth (lulu)    
+
+Haruman, Lord Knight of the Far Hills greets Lord Olanthius
+lady yale of Idyllglen
+
+avernus (battle in distance)
+Zariel kneeling in the dust, Yale as well
+
+Zariel is pushing her sword to Yale's hand. "I refuse, do not ask me of this" Zariel: "I must, please do look beyond this forsaken day, dream a little bigger." With a trumpet, lulu comes Charging forth, "I've driven them off fora little bit" "Lulu my dear friend protect yale and don't let her sword fall. We may never meet again, but i hope we do. This is the last thing I will ever ask of you. Protect yale"
+
+Vision clears, "riding on full horseback towards battle." ahead of  us on a golden mammoth, Zariel. (mostly human knights against knolls)
+
+12 ft gnoll leaps through a portal with lady yale in her hand.
+
+
+"Where is the sword"
+
+"I dont know... I... I.. Used to know but i don't any more... I don't... I don't..."
+
+An immense circular light overtakes the portal, a soothing light shilluetteing a figure. It's deep voice booming "To Lulu ye Zariels blade, it's key to her heart and what she desires. Even from my sight is the sword hidden, the only one who knows knows not. She must seek the kenku, in her memory they speak. Seek the kenku!"
+
+Mr Bennersby  was making a deal with an imp
+casted suggestion to make the imp tell the halfling of his evil plans for his soul and his families.
+Mr Bennersby joined our safe house.
+
+#### Creed Resolute. 
+
+The founding document for the Order of the Companion of which each knight carries an abridged version. The full Creed is actually a lengthy document proscribing and prescribing various courses of action that are “right and proper” for a knight. This includes some guidance that’s ethical and moral (chivalric code), as well as other guidance that’s more practical such as codes of dress and the list of arms and armour which any follower of the Creed must maintain. Also contained within is the oath the knights swear to uphold the Creed:
+I solemnly pledge my soul and blood and blade to serve as a knight of Euriel and share the Oath of the High Observer in honouring the Gift of the Companion. I shall guard the realm of Mercia and all those lands which lie under Euriel’s Shield, upholding the laws of Mercia and the commands of the High Observer. I shall live my life in strict accord to the Creed Resolute, placing it and this oath above all other doctrines. I shall be bound to all others who swear this oath, declaring them now and forevermore, whether in life or beyond the veil of death, to be my brothers in arms. To ensure the perfect harmony of our brotherhood, I shall permit no difference in faith to come between us, but rather hold the Companion, which I shall never attribute to one god or another, as our common star.
+
+### 3
+
+We set off to look for kenkus.
+
+Magnar used to have a kenku friend.
+
+We decended with a rope down a cliff, engraved:
+night of the red coup 1291 af
+
+We see a man running from 3 goatlike devils, 
+after saving him, we make his aqaintance.
+
+> Orin Ragron, a blacksmith of Euriel. 
+
+
+5 hell knights on  bahamut blessed (trapped) bridge
+2 with wings
+1 large 
+2 normal
+
+Master of cruelties (his liege Arthur) knows Alistair. A high knight.
+
+After many difficulties we killed them and had a rest.
+Lulu opened the Infernal puzzlebox.
+
+
+Travelled accross the brifge to the Pastry shop, where a wizard and his children hid.
+
+> Bulmor, the human proprietor and school of pastries wizard. His two older daughters Tevra and Maribe are with him
+
+#### Infernal contract {.book .threeQuartersSize}
+
+On this, the 29th day of Silval, in the one thousandth, three hundredth, and forty-first year of the Sygaxian Callender, I, Naja Bellandi, by my authority as the High Watcher of Palor and the highest surviving mortal authority in the city of Euriel , do swear this Oath to pledge my soul and the entire city of Euriel unto the Archduchess Zariel, to be so passed into her custody at the end of fifty years, the latter to be transported to Avernus and the former to be taken into her service.
+
+In exchange for which, Zariel, the Archduchess of Avernus and faithful representative of Asmodeus, the Archfiend, Lord of the Ninth and Nessus, Supreme Master of the Nine Hells, bestows the Gift of the Companion, a Solar Insidiator which shall be placed in the sky above Euriel for at least the term of this agreement and whose light will scourge the undead from the city. She further swears to render whatever aid may be necessary to end High Rider Klav Ikaia’s reign if the Gift of the Companion prove insufficient to this task.
+
+In consideration and honor of these mutual covenants, we sign in blood upon the day and year first written above.
+
+Zariel, Archduchess of Avernus.
+
+High Watcher Naja Bellandi of Euriel.
