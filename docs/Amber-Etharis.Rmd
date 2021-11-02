@@ -63,11 +63,11 @@ Sweet granny who loves to cook
 
 ##### Skra
 
-cute bird who is social
+Cute bird who is social
 
 ##### Ting
 
-cute bird who is speedy
+Cute bird who is speedy
 
 ##### Tarvik
 
@@ -153,15 +153,18 @@ The mayor suspects them of being hostile, currently no evidence.
 
 They worship **the lady** giving wooden trinkets in her honor
 
+The Druids wish to rid the land of undead with the use of a weirwood tree. They are not afraid of getting their hands dirty with killing off those who oppose them.
+
 ###### Weirwood tree. 
 
 Sucks up magic from the environment, storing it at its roots. 
 Over time its green leaves turn red and it sometimes grows a face.
-the ground is extremely well maintained 
+The ground is extremely well maintained 
 
-Sucks up necrotic energies, supposedly to reduce amount of undead in the area.
+Sucks up necrotic energies, supposedly to reduce amount of undead in the area. This however would throw an unbalance into the beast/undead symmetry. 
 
 ##### Quests
+
 
 - Look into a kid missing (maybe given to the lady?)
 
@@ -171,10 +174,6 @@ Sucks up necrotic energies, supposedly to reduce amount of undead in the area.
 
 - Cyclops north of town, hunt it down
 
-- wanted poster
-
-![](../Etharis/Lunsk_wanted.PNG){.halfSizeLeft width=50%}
-
 ###### Completed
 
 - Investigate scratching under floorboards (probably rats?)
@@ -182,6 +181,13 @@ Sucks up necrotic energies, supposedly to reduce amount of undead in the area.
   - was full of [Kruthics(insect like monstrosity)](#bestiary) who were nesting there
   - Eliminated the nest and eggs
   - found blacksmiths neighbor dead
+
+
+- wanted poster
+  - The woman has been found, she was being hidden by the druids.
+
+![](../Etharis/Lunsk_wanted.PNG){.halfSizeLeft width=50%}
+
 
 ```{bash include = FALSE}
 dot -Tpng ../Etharis/lunsk.gv -o ../Etharis/lunsk.png
@@ -419,7 +425,7 @@ A glint of green in a dying place.
 Pushing past the dead things, entranced by life so radiant it was painful to look at after so long.
 A powerful tree, standing firm and strong in the ground, with birds nesting and leaves bunched up in neat clumps.
 I came to recognize this as mistletoe.
-stepping forth i placed my hand against it's trunk, gliding it against the rough bark.
+Stepping forth i placed my hand against it's trunk, gliding it against the rough bark.
 As I admired the tree my hand moved along the wood, to a branch and then a clump of leaves.
 As my fingers brushed through the sprigs of mistletoe I marveled in half prayer to the tree, of its strength and virility, of its sacred place among these woods, of the birds that found themselves sustained by it and the significance of such a thing.
 
@@ -917,7 +923,7 @@ Mask: Priscilla Montegue
 
 lunsk,
 
-small town, gated on the west.
+Small town, gated on the west.
 Fortified town, the forest is thick with monsters and undead.
 The citizens distrust outsiders.
 They export lumber, namely Sapwood, found bordering lake Ostruva Mare.
@@ -1122,3 +1128,7 @@ Hallbjorn wishes to rest in bed but wakes as Oona looms above. "Oho did you thin
 A vote is going on about weather to disband the torta "There's something bad going on here, people keep disappearing, not all reports reach my desk. I think we have more than just the outside to fear." The people seem nervous, Masq listens in. Constantine breaks into a house and steals booze. Alin eats plants and waits by the gate.
 
 Masq buys some cake. Decides to follow a woodcarver old man that stormed off. Alin (now humie) followed the tracks to his house. He's grumpy and has a wagon that costs 30gp.
+
+## 16
+
+
