@@ -764,18 +764,18 @@ Hold person
 
 # Bestiary {.old .tabset .tabset-fade .tabset-pills}
 
-## Encountered {.threeQuartersSize .gridbook}
+## Contents {.threeQuartersSize .gridbook}
 
-| Type          | Beasts | Undead | Monstrosities | Fiends | Fey | Abberations |
-|:--------------|:------:|:------:|:-----------:|:------:|:---:|:-----------: |
-| Type fought   |   0    |   1    |      2      |   0    |  0  |    0         |
-| Number slain  |   0    |   0    |      7      |   0    |  0  |    0         |
+| Beasts | Undead | Monstrosities | Fiends | Fey | Abberations |
+|:------:|:------:|:-----------:|:------:|:---:|:-----------: |
+Natural creatures, animals.   |   Creatures born of undeath    |      Creatures born from the undead, with a lust for life.      |   Devils, demons and the infernal    |  Tricksy creatures of the feywilds  |    creatires from beyond this world         |
+
 
 ## Beasts
 
 
 
-## Undead
+## Undead {.tabset .tabset-fade .tabset-pills}
 
 ### Corpse flower
 
@@ -785,7 +785,14 @@ Slow and lumbering, the stench of death fills the air.
 Large and unsightly, they release undead from their bodies and hunt for living flesh.
 The best course of action, to run.
 
-## Monstrosities
+### Vampires
+
+![](../Etharis/vampire_w_wolves.png){.threeQuartersSize width="75%" .round}
+
+They suck blood, they dread the sun. What more is there to say about these dreamy bastards.
+
+## Monstrosities  {.tabset .tabset-fade .tabset-pills}
+
 
 ### Giant boar
 ![](../Etharis/monsters/giant_boar_m_token.png){.threeQuartersSize width="75%"}
@@ -798,11 +805,22 @@ Charges, avoid being in an open area.
 
 Fought 1 adult and 6 children
 
-Kruthiks are a strange type of giant insect with sharp teeth and claws.Their carapice is thick and provides heavy protection. They are effective in groups and can dig through the solid rock.
+Kruthiks are a strange type of giant insect with sharp teeth and claws.Their carapace is thick and provides heavy protection. They are effective in groups and can dig through the solid rock.
 
 They nest in large yellowy-greenish vine like structures in caverns, their eggs look like rocks upon the root-like things.
 
 In combat, do not engage more than one at a time, try to kill small ones first, steer clear of cavern openings they could ambush you from.
+
+### The Bandersnatch
+
+![](../Etharis/Bandersnatch_transparent.png){.threeQuartersSize width="75%"}
+
+> With Jaws that Bite, and Claws that Catch
+A Vicious Tail that goes Snicker-Snack,
+Beware my Dreamlanders,
+Beware the Frumious Bandersnatch
+
+The Fruminous Bandersnatch a six legged creature. That speeds in the wilds of Ostoya, they frighten their prey and dig their teeth into them.
 
 # Bits of lore
 
@@ -920,7 +938,7 @@ There are several DCs / tiers of gaining knowledge from a reading, increased or 
 
 Attempting to use your Witch Sight through a wall or other obstruction The presence of other strong magic casters Lingering residues of magic casting Attempting to zero in on a particular strand of magic or person in a busy place Unless you enter a region that has a particularly strong magical presence or a thin membrane between the material world and the weave, you will not experience much from your Passive Witch sight.
 
-# Session notes {.tabset .tabset-fade .old}
+# Session notes {.tabset .tabset-fade .old .justify}
 
 ## 1
 
@@ -1207,4 +1225,86 @@ Mazati falls off the cliff, probably alive.
 
 Hallbjorn kills the bandersnatch.
 
-###
+## 18 
+
+The party is split in two, with one half moving along the crevasse. Alin, Ting, Skra, Abraxas and Delilah. 
+Tripp, Hallbjorn, Unit and Masq are where the combat took place and the rest are on the other side of the cavern.
+
+Alin and the others spot a great sacoya tree, with more than a 30ft diameter.
+There is a huge opening in it's bow, almost as if the chasm starts there and sharply widens.
+sounds of wind emerge from the opening, as though the tree is hollow inside.
+
+Alin touches the tree and uses witch sight to feel the life force of the tree, there's rot and blight hidden within. Hollowed on the inside, spiritually and physically. 
+Pointing a lantern into the tree, they can see a black marble altar and thousands of burnt bones.
+ALin feels a creeping from behind, they turn the lantern to see creeping tendrils and a creature emerging. Shadows wafting like wifts of smoke from this humanoid shape, these shadows also grow limbs and fur and ears. 
+
+Claus | Description
+:----: | :------
+![](../Etharis/vampire_w_wolves.png){.circle } | In front of them is an individual. Flanked by two wolves, shadowy. Their face taking shape as they reach up with their hand, round glasses with red eyes hiding behind. A Vampire with a shadowy wolf in his shadow.  
+
+
+
+
+He approach slowly.
+Alin tries to persuade it to let them pass, with allies so close on both sides.
+The man approaches menacingly, like enjoying with their food. Trying to creep them into staying still.
+
+Reaching out with witch sight, they can feel this creature pushing against them. Not as magically inclined as we are, however, they have a deep connection to the weave. Though hollow.
+
+
+
+"I want to ask you what's going on."
+Abraxas is a ball of nerves and is a total sub.
+
+the vampire asks of the great chasm within this earth.
+He also mentions druids (disdainfully) and the lack of respect for unnatural they have.
+Alin speaks of their theories about the chasm being caused by this deeply spiritual and earthly great tree being corrupted. 
+Seemingly respectful the vampire mentions.
+"Undeath will conserve Ostoya in the times to come. Some people, radicals i call them. Would go to extremes to root it out and destroy the very soil within this land. They would sooner see this land overrun by the Burag and sorcerers attack. Rather than see bodies animated."
+
+Abraxas: "I'm certain you have compassion in your heart."
+
+To Abraxas, seeing how nervous and skittish he is: "No, but I wonder if i drained your body of blood and it pumped through my chest if i would feel the compassion" then smiling "I'm only fucking with you"
+
+Alin offers to investigate the tree chasm together. The man agrees.
+
+The rest combine ropes to lower Tripp down into the chasm to rescue Mazati.
+
+The rope goes slack and then they start pulling with Unit and Tarvik doing most of the work. 
+Masq sees a limp Mazati being pulled up.
+
+Mazati is alive, he does have severe hemorrhaging and a broken ankle. He is tied to a stretcher and they go left in a cart to go around the chasm.
+
+Back near the tree, Abraxas tells the man his name.
+
+> My name is Claus
+
+I was on my way back home. I do not know for how long the chasm has been here.
+
+The skulls in the altar are carved and painted in colorful occult markings. Little woven figures of twine, puppets of straw and one singular, slightly burned humanoid ear, hanging from a piece of string hanging above the altar.
+An alter to the Lady of the forest, it would seem.
+
+looking the bones over, the skulls have wisdom teeth, largely belonged to adults.
+Even split between male and female, with a few animal bones here and there. Some ligaments still present, dried out but crispy. Many of the bones are older, lain in soil or and water for a long time, but with the burning these bones are too brittle to be reanimated. That took place very recently.  
+
+Claus picks up a skull like a bowling ball.
+There's roots, twisted and winding across the chasm walls.
+The tree must have split the earth to create this chasm.
+
+> With the others
+
+Mazati is brought to Tessilia, she places her hands on him to start healing and taking care of him.
+
+They head to where Alin and Abraxas are. They all meet and update each-other.
+
+
+Claus stands by Abraxas' carriage talking to Delilah.
+Abraxas tries to sneak off but gets seen.
+"I was leaving until you snuck up on me"
+"I was just being careful"
+"You should be careful, There's a lot of dangerous creatures out in the forest"
+**Foreshadowing**
+He gets charmed because he pisses Claus off.
+"I bid you a good night Abraxas... And good luck"
+
+As we get back to Tessila she says Mazati is stable for now but we'll have to stop at the nearest village to recover.
