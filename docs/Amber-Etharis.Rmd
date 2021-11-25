@@ -194,6 +194,16 @@ dot -Tpng ../Etharis/lunsk.gv -o ../Etharis/lunsk.png
 ```
 ![](../Etharis/lunsk.png)
 
+#### The great sequoia  tree
+
+Along the road from Lunsk there lay a gigantic sequoia  tree. A trunk wider than 15 people holding hands. It's top spreading deep into the clouds, not even the lowest of branches visible from the ground. 
+
+This great tree has been corrupted. In its base lay a split and in it's hollow trunk lay a chamber of evil. A place of ritual devoted to the lady of the forest. Here lay bones of countless men and women, some older some newer. Burnt. 
+
+The corruption of the tree driving a wedge within the earth several hundred feet long. if not a mile. 
+
+Alin has taken 3 seeds from this great tree, planting one of them near it. Certainly it shall know the life this one did one day.
+
 ### The Black Myre
 
 In the eastern portion of Ostoya, near the Dire Shore, a forest of aspens, willows, and oaks give way to fetid wetlands full of slow-moving, brackish water.
@@ -225,7 +235,7 @@ One must beware when dealing with hags, however - often the payment they demand 
 |:-----------------|:--------------------------------------------------------------------------------------------------------------:|
 | Age              |                                                       19                                                       |
 | Alignment        |                                                       CG                                                       |
-| Pronouns         |                                                he/she/**they**                                                 |
+| Pronouns         |                                                they                                                 |
 | Heritage         | [Half Vistani](https://www.worldanvil.com/w/etharis-mikkow/a/half-vistani-article)(mother), half human(father) |
 | Favorite Color   |                                                      Red                                                       |
 | Languages spoken |                                     Common, old Ostoyan, Patterna, Druidic                                     |
@@ -822,9 +832,9 @@ Beware the Frumious Bandersnatch
 
 The Fruminous Bandersnatch a six legged creature. That speeds in the wilds of Ostoya, they frighten their prey and dig their teeth into them.
 
-# Bits of lore
+# Bits of lore{.tabset .tabset-pills .tabset-fade}
 
-## Countries {.tabset .tabset-pills .tabset-fade}
+## Countries 
 
 ### the Valikan Clans
 
@@ -1230,7 +1240,7 @@ Hallbjorn kills the bandersnatch.
 The party is split in two, with one half moving along the crevasse. Alin, Ting, Skra, Abraxas and Delilah. 
 Tripp, Hallbjorn, Unit and Masq are where the combat took place and the rest are on the other side of the cavern.
 
-Alin and the others spot a great sacoya tree, with more than a 30ft diameter.
+Alin and the others spot a great sequoia  tree, with more than a 30ft diameter.
 There is a huge opening in it's bow, almost as if the chasm starts there and sharply widens.
 sounds of wind emerge from the opening, as though the tree is hollow inside.
 
@@ -1308,3 +1318,130 @@ He gets charmed because he pisses Claus off.
 "I bid you a good night Abraxas... And good luck"
 
 As we get back to Tessila she says Mazati is stable for now but we'll have to stop at the nearest village to recover.
+
+## 19
+
+We get 11 weeks of downtime.
+
+### Constantine does crime.
+
+He performs with knife tossing to get money for crime.
+
+he crimes
+he crimes 
+he crimes and makes 25gp
+
+he performs some more
+he drinks and wakes up in a hay bale, 
+It turns out he painted all the animals while black out drunk.
+
+### Unit studies Sylvan
+
+Unit takes many weeks to study Sylvan with Abraxas teaching.
+### Masq does work 
+
+Week 1: 8 performance
+
+Week 2: 24
+
+Week 3: 21-> buy a pair of thieves tools and learn how to use them
+
+### Alin tries to help people
+
+#### Helping Dreamlanders
+
+1.(8 herbalism) Gathering plants to heal Mazati (nat 2 rerolled into nat 1)
+
+ - Ineffectictive as nothing seems to aid in Mazati's recovery  
+
+2.(16 herbalism) Tessilia, herbalists kit.  
+
+ - It is evident that Tessilia is a withdrawn person. Skirting around people, avoiding interactions with them.  She is absorbed in her own things, Alin spends some more time near her. 
+ - Near the end of the week Tessilia is seated with a mortar and pestle and surrounded by plants. Piece of bark from a beech tree, she tells Alin that it's natural that the beech tree sheds its bark, if you harvest it right before shedding you can make stuff from it. (Tessilia speaks french) (Halfling's Succour)  
+
+3. (8 perception)  
+
+4. (10 handling animals with Tarvik)  
+
+
+### Halbjorn 
+
+Attemps to make his wolf more subservient, ends up killing it because it wouldn't obey.
+
+Goes pit fighting
+
+### Incident
+
+An old woman is trying to convince a bovine on the road.
+Oh darnit move you wreched creature, i didn't bring you here to get eaten by wolves.
+
+"Hmm i just don't want to"
+
+"Hmm I suppose I can think this over again."
+
+"If he weren't a magical cow i'd leave him behind."
+"I just know it"
+
+Only abraxas is surprised as creaking is heard in the underbrush and something growls and leaps out.
+
+> Combat
+
+two wolves leap at the cow, only to miss it.
+
+Alin summons a cow spirit to help in keeping the cow and old woman alive.
+They also attempt to entwine one of the wolves in the underbrush but it jumps free.
+
+Unit fears one wolf and two more jump in.
+
+Masq pierces one of them and Halbjorn knocks it out. 
+Two manage to bite into the cow and heavily bloody it.
+Alin heals it as one wolf runs away from unit
+
+The old woman has layered almost dormant magic hidden beneath layers of concealment.
+Alin hands her 3 magic stones to protect herself. Seeing that she recognizes the magic.
+
+She hands Alin a cow pot.
+
+![](../Etharis/cow-pot.png){.round .halfSize width=50%}
+
+
+### A strange encounter.
+
+Having made camp an unfamiliar person makes their entrance.
+In a quiet voice, they interrupt, they look like a scholar.
+They have a little pocked Journal.
+"Can you tell me experiences about Ostoya"
+"Whats your name?" 
+"You can call me S"
+"Are there things that you would like to have improved in Ostoya"
+
+
+"I think people should be more welcoming towards things they see as other."
+"Do you not see things as other?"
+"I suppose so?"
+
+"And what do you think of Ostoya."
+"I hold few opinions, I am merely conducting research."
+"If I may inquire, why are you doing this research?"
+"I was commissioned to do so"
+"By who?"
+"I have some ideas"
+"How long have you been asking things"
+"Couple days"
+
+
+"They exist, what more is there to think"
+"May I qote you on that?"
+"Sure if you find it helpful"
+"I think my readers will find it very interesting."
+"Who are your readers?"
+"People who are interested in traveling.I like to call them the Doomsday Gazetteers."
+
+"do you know the sea of sorrows, the nocturnal sea, the mize?"
+> history checks
+* Alin: nat20 (18)
+Alin feels a throb inside their head, they have no idea what's going on that it feels on the top of their tongue. An unnatural block. Alin tries to focus in on that feeling
+"Perhaps you simply do not know"
+"Are you familiar with one strahd Von Zarovich from barovia"
+
+> S scholar of the ravenloft gazateer, the author of the ravenloft supplements
