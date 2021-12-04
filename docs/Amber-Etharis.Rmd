@@ -221,6 +221,15 @@ One must beware when dealing with hags, however - often the payment they demand 
 
 ![](../Etharis/Black_myre.PNG)
 
+
+
+
+## Gräffendam
+
+## The Domains of Dread
+
+This world is not all there is...
+
 # Alin {.old .tabset .tabset-fade .tabset-pills}
 
 ## Bio
@@ -1410,61 +1419,48 @@ She hands Alin a cow pot.
 Having made camp an unfamiliar person makes their entrance.
 In a quiet voice, they interrupt, they look like a scholar.
 They have a little pocked Journal.
-"Can you tell me experiences about Ostoya"
-"Whats your name?" 
-"You can call me S"
-"Are there things that you would like to have improved in Ostoya"
+Stranger: "Can you tell me experiences about Ostoya"
+Masq: "Whats your name?" 
+Stranger: "You can call me S"
+S: "Are there things that you would like to have improved in Ostoya"
 
 
-"I think people should be more welcoming towards things they see as other."
-"Do you not see things as other?"
-"I suppose so?"
+Alin: "I think people should be more welcoming towards things they see as other."
+S: "Do you not see things as other?"
+Alin: "I suppose so?"
 
-"And what do you think of Ostoya."
-"I hold few opinions, I am merely conducting research."
-"If I may inquire, why are you doing this research?"
-"I was commissioned to do so"
-"By who?"
-"I have some ideas"
-"How long have you been asking things"
-"Couple days"
+Alin: "And what do you think of Ostoya."
+S: "I hold few opinions, I am merely conducting research."
+Unit: "If I may inquire, why are you doing this research?"
+S: "I was commissioned to do so"
+Masq: "By who?"
+S: "I have some ideas"
+Alin: "How long have you been asking things here in Ostoya"
+S: "Couple days"
 
+S: "What are your thought's on undead"
+Alin: "They exist, what more is there to think"
+S: "May I quote you on that?"
+Alin: Sure if you find it helpful"
+S: "I think my readers will find it very interesting."
+Masq: "Who are your readers?"
+S: "People who are interested in traveling.I like to call them the Doomsday Gazetteers."
+S: "They're mainly published in the core."
+S: "do you know the sea of sorrows, the nocturnal sea, the mize?"
 
-"They exist, what more is there to think"
-"May I qote you on that?"
-"Sure if you find it helpful"
-"I think my readers will find it very interesting."
-"Who are your readers?"
-"People who are interested in traveling.I like to call them the Doomsday Gazetteers."
-
-"do you know the sea of sorrows, the nocturnal sea, the mize?"
 > history checks
+
 * Alin: nat20 (18)
+
 Alin feels a throb inside their head, they have no idea what's going on that it feels on the top of their tongue. An unnatural block. Alin tries to focus in on that feeling
-"Perhaps you simply do not know"
-"Are you familiar with one strahd Von Zarovich from barovia"
+S: "Perhaps you simply do not know"
+S: "Are you familiar with one strahd Von Zarovich from barovia"
 
 > S scholar of the ravenloft gazateer, the author of the ravenloft supplements
 
 
 ## 20 
 
-Alin remembers, pushing through the mists, feeling dizzy and light headed, as if eternal sleep. With the eternal universe and one person's life hauntingly small, especially of a multiverce 
-
-
-Salvation comes to those who dig deeper
-
-Caravans, the way the raunie lead them through the mists, domains of dread. Places not of this world. Dark lords, mist wanderers, eternal places of mizery. skies with a single moon.
-
-Quite unsure why 
-
-Memories of a young man near you, familiar "must we help these people? the people who time and time again place their home besides a great beasts den. The en emies of these people are the lords. Dolcata- that which is to happen is written in the stars, the skies might change but the fortunes do not. I'm sorry we must leave.
-Domains of dread, vistani, worlds that are not this world. Etharis is not all there is to it. 
-Unsure of how far the spider web of worlds stretches out."
-
-With your memories of the mists restored, you gain proficiency in history. Both comforting and haunting, knowing that nothing in this world or any matters, or maybe it does.
-
-***
 
 ### Reminiccence 
 
@@ -1481,20 +1477,28 @@ A feminine voice cuts in;
 “The enemies of these people are not the trolls that steal their livestock or the dragons they pay adventurers to slay, but the lords who have forced them to suffer in this squalor, mother, we cannot stand for this!”
 “Dulceata, that which is to happen, is written in the stars. The skies might not appear the same, but their fortunes do not change. I’m sorry, but we must leave.”
 
+***
+
+Domains of dread, vistani, worlds that are not this world. Etharis is not all there is to it. 
+Unsure of how far the spider web of worlds stretches out.
+
+With your memories of the mists restored, you gain proficiency in history. Both comforting and haunting, knowing that nothing in this world or any matters, or maybe it does.
+
+
 ### A chat.
 
 They Pull out 
 
-Have you been to a place where the sun shines on all.
-Yes, if you're curious. Kartakas.
-Imagine a vast stage that serenades those ambitious and those seeking fame. Performance is a way of life there.
+"Have you been to a place where the sun shines on all."
+"Yes, if you're curious. Kartakas."
+"Imagine a vast stage that serenades those ambitious and those seeking fame. Performance is a way of life there."
 They stay with the 
 
 S stays a while longer before heading back into the misty forests.
 
 Alin asks if S would tell the Tselikov band where they are if S sees them.
 It's named Mezmarelda
-Your Kalaldo? - coming of age blade.
+S: "Your Kalaldo?- Your coming of age blade?"
 
 Masq had been traveling with the Dreamlanders since she was 14, she's 22.
 
@@ -1526,10 +1530,23 @@ Abraxas gambles his money and aqtually gains some.
 Performs
 gains 60gp total
 
-4 weeks of carrousing and helping people in need.
+4 weeks of carousing and helping people in need.
 gains two allied contacts. 
 Rigoberto, a dockworker.
 The frank, a low ranking member of the Azure/blue custodians (city guards)
 
 
 > The party arrives in Gräffendam
+
+## 22
+
+Tower collapsed by lulu,
+Ulgrimm zenon and the guardian buried.
+
+Magnar digs ulgrimm and zenon out
+Lulu buys time before the gnolls get here.
+
+Lulu get's downed by the sniper archer.
+
+The Gnolls start fighting the archer (probably over lulu)
+
