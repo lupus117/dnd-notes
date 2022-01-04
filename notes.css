@@ -341,9 +341,7 @@ img.threeQuartersSize {
     .spotify {
         transform: translate(0);
         margin-top: 0;
-    }
-    html:not([data-scroll="0"]) .spotify {
-        opacity: 0.75;
+        opacity: 0.5;
     }
 }
 
@@ -351,4 +349,5 @@ img.threeQuartersSize {
     width: 40%;
     height: 240px;
     margin-bottom: -160px;
+    opacity: 1;
 }
