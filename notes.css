@@ -327,14 +327,16 @@ img.threeQuartersSize {
     position: -webkit-sticky;
     position: sticky;
     top: 20px;
-    right: 20px;
+    left: 20px;
     width: 80px;
     height: 80px;
-    transform: translate(-150px);
+    transform: translate(-170px);
     transition: all 0.5s ease;
-    margin-bottom: -80px;
+    margin-top: -80px;
 }
 
 .spotify:hover {
     width: 40%;
+    height: 240px;
+    margin-bottom: -160px;
 }
