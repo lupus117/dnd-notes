@@ -24,7 +24,7 @@ editor_options:
 
 |                   Alin                    |                  Masq                   |                   Unit                    |                  Hallbjorn                   |                  Abraxas                   |
 |:-----------------------------------------:|:---------------------------------------:|:-----------------------------------------:|:--------------------------------------------:|:------------------------------------------:|
-| ![](../Etharis/Alin.png){.circle .zoom25} | ![](../Etharis/Masq.png){.circle .zoom} | ![](../Etharis/Unit.png){.circle .zoom25} | ![](../Etharis/Hallbjorn.jpg){.circle .zoom} | ![](../Etharis/Abraxas.jpg){.circle .zoom} |
+| <image src="../Etharis/Alin.png" class="circle zoom25"> | <image src="../Etharis/Masq.png" class="circle zoom">| <image src="../Etharis/Unit.png" class="circle zoom"> | <image src="../Etharis/Hallbjorn.jpg" class="circle zoom"> | <image src="../Etharis/Abraxas.jpg" class="circle zoom"> |
 |                   Lupus                   |                  Barth                  |                  Carmen                   |                   Crypton                    |                  Slowpoke                  |
 
 # Etharis {#etharis .tabset .tabset-fade .tabset-pills .old}
@@ -34,7 +34,7 @@ editor_options:
 ### Info
 
 
-<image src="../Etharis/Dreamland_travellers.png" class="halfSize" style="width:50%">
+<image src="../Etharis/Dreamland_travellers.png" class="halfSize" >
 
 *"To entertain with talent and looks is great, but to entertain with ones soul; that is magnificent."*
 
@@ -126,7 +126,7 @@ This is how one begs help from the Lady;
 
 "Find a child, young and innocent, and search out the Lady's shrine---that is where the Trail of Treats begins. Set the child off on the trail and it shall follow its sweet track and find the Good Lady. The child will never want for anything ever again, for the Lady is kind and generous. Standing before her shrine, pronounce your request and the Good Lady will hear, for she sees and hears all that takes place in her demesne. If you made the offering as it must be done, your supplication will be heard."
 
-![](../Etharis/Stillborn_forest.PNG)
+<image src="../Etharis/Stillborn_forest.PNG" >
 
 #### Lunsk
 
@@ -191,13 +191,14 @@ Sucks up necrotic energies, supposedly to reduce amount of undead in the area. T
 - wanted poster
   - The woman has been found, she was being hidden by the druids.
 
-![](../Etharis/Lunsk_wanted.PNG){.halfSizeLeft width=50%}
 
+<image src="../Etharis/Lunsk_wanted.PNG" class="halfSizeLeft">
 
 ```{bash include = FALSE}
 dot -Tpng ../Etharis/lunsk.gv -o ../Etharis/lunsk.png
 ```
-![](../Etharis/lunsk.png)
+
+<image src="../Etharis/lunsk.png">
 
 #### The great sequoia  tree
 
@@ -224,8 +225,8 @@ Stories persist that covens of hags dwell within the far reaches of the swamp, a
 
 One must beware when dealing with hags, however - often the payment they demand is something one is not willing to part with.
 
-![](../Etharis/Black_myre.PNG)
 
+<image src="../Etharis/Black_myre.PNG" >
 
 
 
@@ -239,7 +240,7 @@ This world is not all there is...
 
 ## Bio
 
-![](../Etharis/Alin.png){.token .cropAlin}
+<image src="../Etharis/Alin.png" class="token cropAlin">
 
 ### Data {.threeQuartersSize .book .textnormal .tabset .tabset-fade .tabset-pills}
 
@@ -323,7 +324,7 @@ This world is not all there is...
 
 #### Mom
 
-![](../Etharis/Isabela_Tselikov.jpg){.circle}
+<image src="../Etharis/Isabela_Tselikov.jpg" class="circle">
 
 Name: Isabela Tselikov
 
@@ -341,7 +342,9 @@ Enticing you to lean in, as if this whole dance were for you.
 
 #### Dad
 
-![](../Etharis/Ronan_bryne.jpg){.circle}
+
+
+<image src="../Etharis/Ronan_bryne.jpg" class="circle">
 
 Name: Ronan Byrne
 
@@ -351,7 +354,9 @@ He showed me how connected the world is, and how it is just as much a part of me
 
 #### Shae
 
-![](../Etharis/Katarina.jpg){.circle}
+
+<image src="../Etharis/Katarina.jpg" class="circle">
+
 
 Name: Katarina Tselikov
 
@@ -560,7 +565,10 @@ Despite its storied history, the blade has never forgotten its roots among trave
 
 #### Mesmerelda {.halfSize}
 
-![](../Etharis/mesmerelda.png){.zoom width="50%"}
+
+
+<image src="../Etharis/mesmerelda.png" class="zoom" style="width:50%">
+
 
 ### A Dreamy encounter
 
@@ -717,7 +725,9 @@ Magic:
 ```{bash include = FALSE}
 dot -Tpng ../Etharis/alin_relationships.gv -o ../Etharis/alin_relationships.png
 ```
-![](../Etharis/alin_relationships.png)
+
+<image src="../Etharis/alin_relationships.png">
+
 
 ## Prairs and spells
 
@@ -803,7 +813,9 @@ Natural creatures, animals.   |   Creatures born of undeath    |      Creatures 
 
 ### Corpse flower
 
-![](../Etharis/monsters/Corpse%20Flower.png){.threeQuartersSize width="75%"}
+
+<image src="../Etharis/monsters/Corpse%20Flower.png" class="threeQuartersSize" >
+
 
 Slow and lumbering, the stench of death fills the air.
 Large and unsightly, they release undead from their bodies and hunt for living flesh.
@@ -811,7 +823,7 @@ The best course of action, to run.
 
 ### Vampires
 
-![](../Etharis/vampire_w_wolves.png){.threeQuartersSize width="75%" .round}
+<image src="../Etharis/vampire_w_wolves.png" class="threeQuartersSize round" >
 
 They suck blood, they dread the sun. What more is there to say about these dreamy bastards.
 
@@ -819,13 +831,16 @@ They suck blood, they dread the sun. What more is there to say about these dream
 
 
 ### Giant boar
-![](../Etharis/monsters/giant_boar_m_token.png){.threeQuartersSize width="75%"}
+
+<image src="../Etharis/monsters/giant_boar_m_token.png" class="threeQuartersSize" >
+
 
 Charges, avoid being in an open area.
 
 ### Kruthik
 
-![](../Etharis/monsters/Kruthik.png){.threeQuartersSize width="75%"}
+
+<image src="../Etharis/monsters/Kruthik.png" class="threeQuartersSize" >
 
 Fought 1 adult and 6 children
 
@@ -837,7 +852,8 @@ In combat, do not engage more than one at a time, try to kill small ones first, 
 
 ### The Bandersnatch
 
-![](../Etharis/Bandersnatch_transparent.png){.threeQuartersSize width="75%"}
+
+<image src="../Etharis/Bandersnatch_transparent.png" class="threeQuartersSize" style"">
 
 > With Jaws that Bite, and Claws that Catch
 A Vicious Tail that goes Snicker-Snack,
@@ -1129,7 +1145,10 @@ Wanted poster:
   woman with blond hair hiding around with the druids.
   
 something gold from the sky, a piece of paper, like fish scales, a ticket hits Alin's face
-![](../Etharis/ticket_the_revelia.PNG)
+
+
+<image src="../Etharis/ticket_the_revelia.PNG" class="" style"">
+
 
 LEVEL UP!
 
@@ -1151,8 +1170,8 @@ Many people came:
 
 - Hodgepot
 
-- Elf milf, Delilah ![](../Etharis/Delilah and creep.PNG){width=2cm}
-  
+- Elf milf, Delilah <image src="../Etharis/Delilah and creep.PNG" class="" style"width:2cm">
+
   - Came alone from Nov Ostoya alone
   
   - Dissassociates a lot
@@ -1272,7 +1291,9 @@ Alin yells to all the animals to run and speed up, as there's something chancing
 
 The rustling thumps get closer. From the forest emerges.
 Claws and a tail, a huge creature easily the size of the carriages. Bounding on six legs and covered with bristles like swords. The Fruminous Bandersnatch a six legged creature.
-![The Bandersnatch](../Etharis/Bandersnatch_transparent.png){.threeQuartersSize .zoom width=66%}
+
+<image src="../Etharis/Bandersnatch_transparent.png" class="threeQuartersSize zoom" style"">
+
 
 Alin grabs the reigns again as Masq and Unit jump to a cart on the back.
 Delilah asks Abraxas what she should do. Delilah casts a spell that engulfs the creature in colors.
@@ -1310,7 +1331,8 @@ ALin feels a creeping from behind, they turn the lantern to see creeping tendril
 
 Claus | Description
 :----: | :------
-![](../Etharis/vampire_w_wolves.png){.circle } | In front of them is an individual. Flanked by two wolves, shadowy. Their face taking shape as they reach up with their hand, round glasses with red eyes hiding behind. A Vampire with a shadowy wolf in his shadow.  
+<image src="../Etharis/vampire_w_wolves.png" class="circle" style"">
+| In front of them is an individual. Flanked by two wolves, shadowy. Their face taking shape as they reach up with their hand, round glasses with red eyes hiding behind. A Vampire with a shadowy wolf in his shadow.  
 
 
 
@@ -1462,7 +1484,8 @@ Alin hands her 3 magic stones to protect herself. Seeing that she recognizes the
 
 She hands Alin a cow pot.
 
-![](../Etharis/cow-pot.png){.round .halfSize width=50%}
+<image src="../Etharis/cow-pot.png" class="round halfSize" style"">
+
 
 
 ### A strange encounter.
@@ -1649,7 +1672,9 @@ Unit and Abraxas join the fire.
 
 They soup and talk, Zatious mentions Valerianus, his familar. Granted to him to sniff out evil.
 
-![](../Etharis/Valerianus_Full.png)
+
+<image src="../Etharis/Valerianus_Full.png" class="" style"">
+
 
 Zarius' and Unit's familiars have a stare off and go off on their own, alin sends a raven to chase them.
 
@@ -1668,7 +1693,8 @@ Abraxas, Alin and Unit will take this quest.
 
 Vittorio has a beautiful griffin called Pierre
 
-![](../Etharis/Pierre_Snowcat_Tokenv3.png)
+<image src="../Etharis/Pierre_Snowcat_Tokenv3.png" class="" style"">
+
 
 Zarius still loves the dreamlanders but the stargazers are his family as well. Something about the dreamlanders seems to exhaust him. 
 
@@ -1692,7 +1718,10 @@ Our randevou point is a brightly coloured caravan, with a mule that 'is very coo
 
 On the side of the caravan is written SIDRAT, With a bold S and very squished letters.
 
-![](../Etharis/uN0Fuzn.png)
+
+
+<image src="../Etharis/uN0Fuzn.png" class="" style"">
+
 
 On waist height, the a nose points out and and then pokes back inside, then another flap opens, higher. Articulated lenses on a 'Human racoon' greet us "Your contract for this job is L'Arsène" Apron, golden earring on a tattered right ear.
 
