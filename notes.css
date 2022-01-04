@@ -77,7 +77,7 @@ body {
 }
 
 .gridbook {
-    overflow: scroll;
+    overflow-x: scroll;
     color: #e6df44;
     border: 2px dashed rgb(95, 94, 92);
     box-shadow: 0 0 0 3px #1e0000;
@@ -86,7 +86,7 @@ body {
 }
 
 .linebook {
-    overflow: scroll;
+    overflow-x: scroll;
     border: 2px dashed #1e0000;
     box-shadow: 0 0 0 3px #1e0000;
     background-size: 20px 20px;

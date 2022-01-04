@@ -3,11 +3,11 @@ title: "The world of Etharis"
 author: "Lupus"
 date: 'Last updated: `r Sys.Date()`'
 output:
+  
   html_document:    
     includes:
       in_header: etharis_header.html
     css: ../notes.css
-  
   pdf_document:
     toc: yes
     toc_depth: 3
@@ -17,8 +17,7 @@ editor_options:
 ---
 
 
-<iframe src="https://open.spotify.com/embed/playlist/5VUjz1jeLc1tQwgIp53tmG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" class="spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
+<iframe src="https://open.spotify.com/embed/playlist/5CxStOxDEIBKoIBuUzK2gT?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" class="spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 <iframe src="https://open.spotify.com/embed/playlist/4SwKQ4aurX640GJNCVSlMK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" class="spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
