@@ -333,12 +333,17 @@ img.threeQuartersSize {
     width: 80px;
     height: 80px;
     transition: all 0.5s ease;
+    transform: translate(-170px);
     margin-top: -80px;
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (max-width: 1200px) {
     .spotify {
-        transform: translate(-170px);
+        transform: translate(0);
+        margin-top: 0;
+    }
+    html:not([data-scroll="0"]) .spotify {
+        opacity: 0.75;
     }
 }
 
