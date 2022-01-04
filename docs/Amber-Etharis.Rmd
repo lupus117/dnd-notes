@@ -16,6 +16,10 @@ editor_options:
     wrap: sentence
 ---
 
+<iframe src="https://open.spotify.com/embed/playlist/4SwKQ4aurX640GJNCVSlMK?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+
 # ♪ The Dreamland Troupe ♪
 
 |                   Alin                    |                  Masq                   |                   Unit                    |                  Hallbjorn                   |                  Abraxas                   |
@@ -29,7 +33,8 @@ editor_options:
 
 ### Info
 
-![](../Etharis/Dreamland_travellers.png){.halfSize width="50%"}
+
+<image src="../Etharis/Dreamland_travellers.png" class="halfSize" style="width:50%">
 
 *"To entertain with talent and looks is great, but to entertain with ones soul; that is magnificent."*
 
