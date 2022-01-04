@@ -13,9 +13,10 @@ output:
 
 # Players and characters 
 
-Lupus | Amber | Farris |  BlackSpirit | **WhiteBones** | BattleDerp
+
+Lupus | Amber | Farris |  BlackSpirit | **WhiteBones** | Gabe
 :--:|:--:|:--:|:--:|:--:|:--:
-![](../Hugal/lulu_token.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Alistina.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Ulgrimm.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Trent.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Winnigar.png){.zoom .circle width=10em height=10em} | ![](../Hugal/Rak-Tak.png){.zoom .circle width=10em height=10em}
+<image src="../Hugal/lulu_token.png" class="zoom circle" style=" width:10em; height:10em"> | <image src="../Hugal/Alistina.png"class="zoom circle" style=" width:10em; height:10em"> | <image src="../Hugal/Ulgrimm.png" class="zoom circle" style=" width:10em; height:10em"> | <image src="../Hugal/Trent.png" class="zoom circle" style=" width:10em; height:10em"> | <image src="../Hugal/Winnigar.png" class="zoom circle" style=" width:10em; height:10em"> | <image src="../Hugal/lulu_token.png" class="zoom circle" style=" width:10em; height:10em"> 
 
 # World {.old .tabset .tabset-fade .tabset-pills}
 
@@ -23,7 +24,8 @@ Lupus | Amber | Farris |  BlackSpirit | **WhiteBones** | BattleDerp
 # Characters {.tabset .tabset-fade .tabset-pills .old }
 ## Lulu the Hollyohant {.tabset .tabset-pills}
 
-![](../Hugal/lulu_token.png){width=75% .threeQuartersSize}
+
+<image src="../Hugal/lulu_token.png" class="threeQuartersSize">
 
 ### Personality
 
@@ -79,7 +81,7 @@ Lulu only has a few fragmentary memories of the time before her amnesia:
 
 ## Naela Backbreaker Karkolduhr
 
-![](../Hugal/Naela-token.png)
+<image src="../Hugal/Naela-token.png" >
 
 ### TLDR {.threeQuartersSize .book}
 
@@ -253,7 +255,7 @@ Without her, all would become Chaos. And all those who do not stand with her are
 ```{bash include = FALSE}
 dot -Tpng ../Hugal/Avernus.gv -o ../Hugal/Avernus.png
 ```
-![](../Hugal/Avernus.png)
+<image src="../Hugal/Avernus.png">
 
 ### 1st back
 
@@ -556,6 +558,13 @@ Ullgrimm, zenon and the guardian get buried under and we start to escavate.
 
 ### 12
 
+Magnar digs ulgrimm and zenon out
+Lulu buys time before the gnolls get here.
+
+Lulu get's downed by the sniper archer.
+
+The Gnolls start fighting the archer (probably over lulu)
+
 As we leave the smoke we see various gnolls yipping and cackleing.
 
 A magical gnoll pack vs The high knight Brightwater.
@@ -575,3 +584,24 @@ The high knight hides further away.
 
 We get back to the safety of the camp,
 the leader has a couple of interesting ideas.
+
+Shierra's market, high hall, nothing holy in the maze, in times past there used to be protective seales that are now not active.
+
+The central point is located in high hall, smaller points in other places, joining them together  will shield the city
+
+shield hall, keep of twin suns, perimeter, west and east dock. Complex pieces of magic. Runecraft.
+
+We return to the minotraurs of bathomet to retrieve our prize
+
+Ulgrimm identifies it. No item he's ever touched has given off such a powerful aura.
+
+Ullgrimm sees blinding white light surrounding, then it fractures. 
+
+A drop of blood on his forehead, which slowly but surely rain with blood, which in time is dyed red with blood. 
+
+He falls again and stands on a shard of blood red, in avernus. He is now on the edge, the broken off pieces that saved themselves and one larger piece. with this shard being one of the small insignificant shatterings that remain.
+
+On our way back a white abershae flies down and tries to kill us all.
+
+### 14
+
