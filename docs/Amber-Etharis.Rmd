@@ -853,7 +853,7 @@ In combat, do not engage more than one at a time, try to kill small ones first, 
 ### The Bandersnatch
 
 
-<image src="../Etharis/Bandersnatch_transparent.png" class="threeQuartersSize" style"">
+<image src="../Etharis/Bandersnatch_transparent.png" class="threeQuartersSize" >
 
 > With Jaws that Bite, and Claws that Catch
 A Vicious Tail that goes Snicker-Snack,
@@ -1147,7 +1147,7 @@ Wanted poster:
 something gold from the sky, a piece of paper, like fish scales, a ticket hits Alin's face
 
 
-<image src="../Etharis/ticket_the_revelia.PNG" class="" style"">
+<image src="../Etharis/ticket_the_revelia.PNG"  >
 
 
 LEVEL UP!
@@ -1170,7 +1170,7 @@ Many people came:
 
 - Hodgepot
 
-- Elf milf, Delilah <image src="../Etharis/Delilah and creep.PNG" class="" style"width:2cm">
+- Elf milf, Delilah <image src="../Etharis/Delilah and creep.PNG"  style"width:2cm">
 
   - Came alone from Nov Ostoya alone
   
@@ -1292,7 +1292,7 @@ Alin yells to all the animals to run and speed up, as there's something chancing
 The rustling thumps get closer. From the forest emerges.
 Claws and a tail, a huge creature easily the size of the carriages. Bounding on six legs and covered with bristles like swords. The Fruminous Bandersnatch a six legged creature.
 
-<image src="../Etharis/Bandersnatch_transparent.png" class="threeQuartersSize zoom" style"">
+<image src="../Etharis/Bandersnatch_transparent.png" class="threeQuartersSize zoom" >
 
 
 Alin grabs the reigns again as Masq and Unit jump to a cart on the back.
@@ -1331,7 +1331,7 @@ ALin feels a creeping from behind, they turn the lantern to see creeping tendril
 
 Claus | Description
 :----: | :------
-<image src="../Etharis/vampire_w_wolves.png" class="circle" style"">
+<image src="../Etharis/vampire_w_wolves.png" class="circle" >
 | In front of them is an individual. Flanked by two wolves, shadowy. Their face taking shape as they reach up with their hand, round glasses with red eyes hiding behind. A Vampire with a shadowy wolf in his shadow.  
 
 
@@ -1484,7 +1484,7 @@ Alin hands her 3 magic stones to protect herself. Seeing that she recognizes the
 
 She hands Alin a cow pot.
 
-<image src="../Etharis/cow-pot.png" class="round halfSize" style"">
+<image src="../Etharis/cow-pot.png" class="round halfSize" >
 
 
 
@@ -1673,7 +1673,7 @@ Unit and Abraxas join the fire.
 They soup and talk, Zatious mentions Valerianus, his familar. Granted to him to sniff out evil.
 
 
-<image src="../Etharis/Valerianus_Full.png" class="" style"">
+<image src="../Etharis/Valerianus_Full.png" >
 
 
 Zarius' and Unit's familiars have a stare off and go off on their own, alin sends a raven to chase them.
@@ -1693,7 +1693,7 @@ Abraxas, Alin and Unit will take this quest.
 
 Vittorio has a beautiful griffin called Pierre
 
-<image src="../Etharis/Pierre_Snowcat_Tokenv3.png" class="" style"">
+<image src="../Etharis/Pierre_Snowcat_Tokenv3.png" >
 
 
 Zarius still loves the dreamlanders but the stargazers are his family as well. Something about the dreamlanders seems to exhaust him. 
@@ -1720,9 +1720,29 @@ On the side of the caravan is written SIDRAT, With a bold S and very squished le
 
 
 
-<image src="../Etharis/uN0Fuzn.png" class="" style"">
+<image src="../Etharis/uN0Fuzn.png"  >
 
 
 On waist height, the a nose points out and and then pokes back inside, then another flap opens, higher. Articulated lenses on a 'Human racoon' greet us "Your contract for this job is L'Arsène" Apron, golden earring on a tattered right ear.
 
 ... the inside of the wagon is bigger than the outside.
+
+## 24
+
+Larsane wants a crystal ball called the croma nova- a magical artifact entwined with Graffendäm. Created by an infamous wizard, dr Stein. It can supposedly dispell magical darkness around it. 
+
+his people are from charneiod, brought here as attractions and sold.
+
+He's trying to conceal emotions.
+His friend is named Erkin.
+
+stealing from the ritch. Karma.
+This city was built by Dr. Norman Francis Stein.
+We then take the time to think about it .
+
+
+Tokas tries to get the alchemist and apothacaries guild litsence. 
+
+## 25
+
+The party splits with some going to explore the dungeon.
