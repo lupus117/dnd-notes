@@ -321,3 +321,20 @@ img.threeQuartersSize {
     height: 100%;
     transition: all 0.5s ease;
 }
+
+.spotify {
+    border-radius: 20px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 20px;
+    right: 20px;
+    width: 80px;
+    height: 80px;
+    transform: translate(-150px);
+    transition: all 0.5s ease;
+    margin-bottom: -80px;
+}
+
+.spotify:hover {
+    width: 40%;
+}
