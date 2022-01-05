@@ -13,7 +13,7 @@ output:
 ---
 
 
-
+<iframe src="https://open.spotify.com/embed/playlist/0KquYCeRFjZaYbfx6Zi1uK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" class="spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 
 # Players and characters
@@ -21,14 +21,14 @@ The party is a close knit bunch of adventurers and friends.
 
 Barth | Slowpoke | Loki | Lupus | **Oscar**
 :--:|:--:|:--:|:--:|:--:
-![](../Barovia/Vladimer_token.png) | ![](../Barovia/Janosh_token.png) | ![](../Barovia/Jodariel_token.png) | ![](../Barovia/Aculeus_token.png) | ![](../Barovia/oscar_token.png){.token}
+<image src="../Barovia/Vladimer_token.png" > | <image src="../Barovia/Janosh_token.png" > | <image src="../Barovia/Jodariel_token.png" > | <image src="../Barovia/Aculeus_token.png" > | <image src="../Barovia/oscar_token.png" class="token" >
 Vladimir "Tepes" Basarab | Janosh Aurelion | Jodariel Akuma | Aculeus Floreo | **Dungeon master**
 
 # Places and People of Barovia  {.tabset .tabset-fade .tabset-pills  .old}
  
 ## Barovia
 Welcome to Barovia, where there’s darkness, mist and gloom.  
-![Map of barovia](../.\Barovia\map.png) 
+<image src="../Barovia/map.png" > 
 
 
 
@@ -40,7 +40,7 @@ Welcome to Barovia, where there’s darkness, mist and gloom.
 
 ### The city
 
-![Map of Vallaki](../.\Barovia\osv521xq3hi21.jpg)
+<image src="../Barovia/osv521xq3hi21.jpg" >
 
 Vallaki, where everyone seems **happy on the surface**. When caught not being happy one can be sent to the camp to be turned.
 The **baron** holds weekly festivals to 'Keep out the devil', even saying the name **Strahd** is taboo.
@@ -83,7 +83,7 @@ Rauli the blacksmith | Smithy
 
 
 ### Church of St Andral {.tabset .tabset-fade .tabset-pills .justify}
-![](.././Barovia/church_vallaki.jpg)  
+<image src="../Barovia/church_vallaki.jpg" >  
 Church of the Morning lord.
 Lead by **Father Lucien.**
 the bones of St Andral were buried here, which **Milivaj** stole and sold.  
@@ -91,7 +91,7 @@ the bones of St Andral were buried here, which **Milivaj** stole and sold.
 #### Father Lucien
  Father Lucien | 
 ---|--
-Father Lucien is the man leading the church of St Andral, devout follower of the morning lord and generous person. He funds the Orphanage next door and keeps in god's good graces. | ![Father Lucien](../.\Barovia\Lucien.png){.token}  
+Father Lucien is the man leading the church of St Andral, devout follower of the morning lord and generous person. He funds the Orphanage next door and keeps in god's good graces. | <image src="../Barovia/Lucien.png" class="token" >  
 
 #### The stolen bones of Saint Andral   
 The bones of St Andral have kept the church safe from harm, free from fiends and undead.
@@ -142,14 +142,14 @@ Scribe of the Abbey
 
 
 ### Bluewater inn {.tabset .tabset-fade .tabset-pills .justify}
-![Bluewater Inn](../.\Barovia\bluewater.jpg)  
+<image src="../Barovia/bluewater.jpg" >  
 The inn and tavern held by the **Martikov** Family. A two stort building with a tavern on the first floor and sleeping quarters on the second.A family of ravens can be seen perched on one roof, where they nest and are taken care of.
 
 
 #### Riktavio
  Riktavio | 
 ---|--
-Half-elf Carnivalmaster from a faraway land. Knows more than he tries to let on. Follows the party around sometimes. Bought toys from Blinski to spread them around to those in need. | ![Riktavio](../.\Barovia\Riktavio.png){.token}
+Half-elf Carnivalmaster from a faraway land. Knows more than he tries to let on. Follows the party around sometimes. Bought toys from Blinski to spread them around to those in need. | <image src="../Barovia/Riktavio.png" class="token" >
 
 #### The lost shipment
 A shipment of alcohol is late from the Martikov winery. This has almost never happened before, follow the road to the winery and retrieve the shipment.
@@ -171,13 +171,13 @@ The children saved form the night hags were brought here to live.
 
  Claudia Balanco | 
 ---|--
-The headmistress of the Saint Andral Orphanage. With a hard not going to back down attitude but kind as she helps the children brought to her orphanage. | ![Mistress Balanco](../.\Barovia\Claudia_Ballasco.png){.token}
+The headmistress of the Saint Andral Orphanage. With a hard not going to back down attitude but kind as she helps the children brought to her orphanage. | <image src="../Barovia/Claudia_Ballasco.png" class="token" >
 
 #### Milivaj
 
  Milivaj | 
 ---|--
-Gravedigger and young adult. Cares deeply for the children of the orphanage and will do what he must to protect them. Millivaj grew up in the Orphanage and has been working as a gravedigger for a long time now. | ![Millivaj](../.\Barovia\Millivaj.png){.token}
+Gravedigger and young adult. Cares deeply for the children of the orphanage and will do what he must to protect them. Millivaj grew up in the Orphanage and has been working as a gravedigger for a long time now. | <image src="../Barovia/Millivaj.png" class="token" >
 As the going got tough for the children and they lacked food. Milivaj took it on himself to provide, learning of the **bones of St Andral** were hidden in the **Church** under a statue. He took it and shortly thereafter received a letter, from someone with poor handwriting. He was to leave the bones in a bush on the Zarovitch road (near the **dilapidated house**). The night after was a sack with 350gp. Clearly sold to someone wealthy and knowing of the goings on. | **Bones**
 
 
@@ -185,12 +185,12 @@ As the going got tough for the children and they lacked food. Milivaj took it on
 
  Tessa | 
 ---|--
-A handmaiden working for **Mistress Balasco**, dependable worker and carer for the smaller children. Got the guards to get the 4 strange people after the events with the shadow demon, understandable though.  | ![Tessa](../.\Barovia\Tessa.png){.token}
+A handmaiden working for **Mistress Balasco**, dependable worker and carer for the smaller children. Got the guards to get the 4 strange people after the events with the shadow demon, understandable though.  | <image src="../Barovia/Tessa.png" class="token" >
 
 #### Shadow demon timeline
  timeline | image 
 ---|--
-A **child was possessed** by a shadow demon after coming into contact with a **demonic locket**. The **demon murdered his parents**, being now the sole owner of the body and keeping it from decaying while he's inhabiting it. He was taken to the **orphanage**, where he was uneventfully for a while. Until he **pushed Cedrik out of the window**, killing him. After boarding the window up **Milivaj** buried the kid, and through a set of events was marked by the demon, slowly getting weaker and succumbing to this necrotic illness. The Shadow Demon was looking for a stronger host to possess. Though unlucky for it, The demonic locket was found and inspected by **Father Lucien** and **Mistress Balasco**. One day came The party and slew the shadow demon, shattering the locket and its ties to both **Millivaj** and the world. | ![Shadow Demon](.././Barovia/Shadow_demon.png){.token}  
+A **child was possessed** by a shadow demon after coming into contact with a **demonic locket**. The **demon murdered his parents**, being now the sole owner of the body and keeping it from decaying while he's inhabiting it. He was taken to the **orphanage**, where he was uneventfully for a while. Until he **pushed Cedrik out of the window**, killing him. After boarding the window up **Milivaj** buried the kid, and through a set of events was marked by the demon, slowly getting weaker and succumbing to this necrotic illness. The Shadow Demon was looking for a stronger host to possess. Though unlucky for it, The demonic locket was found and inspected by **Father Lucien** and **Mistress Balasco**. One day came The party and slew the shadow demon, shattering the locket and its ties to both **Millivaj** and the world. | <image src="../Barovia/Shadow_demon.png" class="token" >  
 
 ### The baron's mansion {.tabset .tabset-fade .tabset-pills}
 
@@ -202,13 +202,13 @@ A two story building with drapes covering all of the windows. Fancy and befittin
 
  Vargas Vallakovich | 
 ---|--
-The Burgomaster and self-proclaimed Baron of Vallaki (New Valekia).  Seems to be suffering from some sort of **Bipolar** disorder, where he switches from extremely cheery to serious. His room is packed wall to wall and ceiling to ceiling in books | ![Vargas Vallakovich](../.\Barovia\Baron_Vargas.png){.token}
+The Burgomaster and self-proclaimed Baron of Vallaki (New Valekia).  Seems to be suffering from some sort of **Bipolar** disorder, where he switches from extremely cheery to serious. His room is packed wall to wall and ceiling to ceiling in books | <image src="../Barovia/Baron_Vargas.png" class="token" >
 He **fears Strahd** and believes keeping a jovial appearance keeps the devil away and banishes him from Vallaki. | **View on Strahd**
 
 #### Izek Stratzni
  Izek Stratzni | 
 ---|--
-**Captain** of the guard with a fiendish arm. And adopted son of **Vargas the Burgomaster**. Mean attitude and not the most liked.| ![Izek Stratzni](../.\Barovia\Izek Stratzni.png){.token}
+**Captain** of the guard with a fiendish arm. And adopted son of **Vargas the Burgomaster**. Mean attitude and not the most liked.| <image src="../Barovia/Izek Stratzni.png" class="token" >
 
 Orders dolls, ever in creasing in detail with an uncanny resemblance to **Ireena**.
 
@@ -226,7 +226,7 @@ The baron ostracizes everyone associated with the house.
 Fiona Wacther| Ernst Larnak
 :--:|:--:
 Lady Wachter is a noble woman getting on in the years. She is **disliked by the baron** but dislikes him in turn. Currently the main suspect in bone posession | **Servant** of the Wachter household and **Fiona Wachter** in particular. Ernst is a diligent servant (maybe more) and does most of the busywork of the household. Actus polite and seems to work in her mistress' best interest
-![Fiona](../Barovia/fiona_token.png){.token} | ![Ernst](../Barovia/Ernst.png){.token}
+<image src="../Barovia/fiona_token.png" class="token" > | <image src="../Barovia/Ernst.png" class="token" >
 
   
 
@@ -242,7 +242,7 @@ Aculeus bought a wind up raven
 
 Mr Blinski |
 -----|----
-Current owner and toymaker of the Blinski toy company. Is accompanied by a monkey called Piccolo. Seems good hearted and afraid of Izek | ![Blinski](../Barovia/Blinsky.png){.token}
+Current owner and toymaker of the Blinski toy company. Is accompanied by a monkey called Piccolo. Seems good hearted and afraid of Izek | <image src="../Barovia/Blinsky.png" class="token" >
 
 **Toys**   
 
@@ -251,7 +251,7 @@ Current owner and toymaker of the Blinski toy company. Is accompanied by a monke
 * Magical flute- given by **Vassili Van Holtz**
 
 Aculeus bought a wind up raven  
-![Wind up raven](../Barovia/Wind-Up_Raven.jpg){.token width=50%}
+<image src="../Barovia/Wind-Up_Raven.jpg" >{.token width=50%}
 
 
 
@@ -263,13 +263,13 @@ Aculeus bought a wind up raven
 
 ### Town
 A small rundown town along the Old Svalich road.  
-![Town of Barovia](../.\Barovia\Town_of_barovia.jpg)
+<image src="../Barovia/Town_of_barovia.jpg" >
 
 ### Ireena Kolyanovich
 
 Ireena Kolyanovich|  
 ----|--
-Red hair eyes and youthful appearance.21 years old and the **Adopted** daughter of Kolyan Indirovich. **Strahd has taken intrest** in her as have many others. **Izek** seems obsessed, ordering dolls from **Blinski** that look like her. Though they never seem to have met.| ![Ireena](../Barovia/Ireena.png){.token}
+Red hair eyes and youthful appearance.21 years old and the **Adopted** daughter of Kolyan Indirovich. **Strahd has taken intrest** in her as have many others. **Izek** seems obsessed, ordering dolls from **Blinski** that look like her. Though they never seem to have met.| <image src="../Barovia/Ireena.png" class="token" >
 Many times has **Strahd** Sought her out and bit her neck. He wishes to get Ireena as one of his many wives. Ireena dislikes him and is afraid of him. | **Strahd**
 long ago there was a girl with scarlet hair, a long lost lover of Strahd, that appears to reincarnate again and again over the years. | **Curse of Strahd**
 
@@ -278,7 +278,7 @@ long ago there was a girl with scarlet hair, a long lost lover of Strahd, that a
 
 Ismark Kolyanovich|
 ---|---
-Brown hair and eyes. Ismark is the son of the previous burgomaster **Kolyan Indirovich**. He is capable in combat but now infected with the curse of lycanthropy. Good heart but shy. Bit aloof and a playboy, he quite enjoys partying. | ![Ismark](../Barovia/Ismark.png){.token}
+Brown hair and eyes. Ismark is the son of the previous burgomaster **Kolyan Indirovich**. He is capable in combat but now infected with the curse of lycanthropy. Good heart but shy. Bit aloof and a playboy, he quite enjoys partying. | <image src="../Barovia/Ismark.png" class="token" >
 Ismark is the son of Barovia’s burgomaster Kolyan Inrovich.  He has lived most of his life in his father’s shadow, leading the villagers of Barovia to refer to him as “Ismark the Lesser”.  His young life has been spent in training in the hopes of freeing his people from their ruler, the devil Strahd.  Ismark is concerned for his adopted sister, Ireena Kolyana. For the past few weeks the undead have attacked the burgomaster’s house on an almost nightly basis. The constant stress of these assaults led to Ismark’s father’s death some three days ago, and Ismark is now seeking the aid of anyone who would stand with him against Strahd. | **background** 
 
 ### Kolyan Indriovich's Letter {.book}
@@ -295,7 +295,7 @@ Burgomaster
 
 Rose and Thorn |
 --|--
-The older kids of the durst family, may they rest in peace | ![](../Barovia/Rose_Thorn.png){.token}
+The older kids of the durst family, may they rest in peace | <image src="../Barovia/Rose_Thorn.png" class="token" >
 
 #### My most pathetic servant {.book}
 My most pathetic servant,
@@ -353,18 +353,18 @@ As the saying goes **"Everyone is welcome at vistani fires."**
 ### The lone traveller
 Fortune from **Madam Eva** | **The Mists**
 ----------|-------
-This card sheds light on one who will help you greatly in the battle against darkness. A Vistani wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out in the mists. | ![The Mists](.././Barovia/Mists.png)
+This card sheds light on one who will help you greatly in the battle against darkness. A Vistani wanders this land alone, searching for her mentor. She does not stay in one place for long. Seek her out in the mists. | <image src="../Barovia/Mists.png" >
 
 **Esmeralda D'Avenir** |
 ----------|-------
-Student of Van Richten. A vistani orphan, who went to learn with the Famous Van Richten, she now looks for her master to get his help. | ![Esmeralda](../Barovia/Esmeralda.png){.token }
+Student of Van Richten. A vistani orphan, who went to learn with the Famous Van Richten, she now looks for her master to get his help. | <image src="../Barovia/Esmeralda.png" class="token" >
 
 
 ## Strahd Von Zarovich 
 
 ***
 
-![Count Strahd von Zarovich](../.\Barovia\Strahd.png)  
+<image src="../Barovia/Strahd.png" >  
 The ancient vampire ruler of all of Barovia.
 
 ### He is the land... for now
@@ -385,12 +385,12 @@ Best of regard
 #### Rahadin
  Rahadin | 
 ---|--
-The Elf followed by the screams of his victims.  **Strahd**'s right hand man. Could be the broken elf mentioned in **The broken one** fortune  | ![Rahadin](../.\Barovia\Rahadin.png){.token}  
+The Elf followed by the screams of his victims.  **Strahd**'s right hand man. Could be the broken elf mentioned in **The broken one** fortune  | <image src="../Barovia/Rahadin.png" class="token" >  
 
 #### Anastrasya
  Anastrasya Karelova| 
 ---|--
-One of **Strahd**'s wives, leads the lycan pack though commanding **Keril**. Vampire who once charmed and chomped on **Vlad** | ![Anastrasya](../.\Barovia\Anastrasya.png){.token}  
+One of **Strahd**'s wives, leads the lycan pack though commanding **Keril**. Vampire who once charmed and chomped on **Vlad** | <image src="../Barovia/Anastrasya.png" class="token" >  
 
 
 
@@ -435,7 +435,7 @@ The Martikovs, owners of the Bluewater inn in Vallaki
 
  Muriel Martikov |  Urwin Martikov | Danika Martikov
 --|--|--
-![Muriel Martikov](../.\Barovia\Muriel.png){.token} | ![Urwin Martikov](../.\Barovia\Urwin.png){.token} | ![Danika Martikov](../.\Barovia\Danika.png){.token}
+<image src="../Barovia/Muriel.png" class="token" > | <image src="../Barovia/Urwin.png" class="token" > | <image src="../Barovia/Danika.png" class="token" >
 Daughter of Urwin Martikov. A cheerful maiden garbed in black. She has eyes and ears everywhere in Vallaki and has a curious habit of becoming a Raven. | Owner of the Bluewater inn. Takes care of the Ravens who live there. Knows the family secret of how they maintain the plants for winemaking, the fane gems. He had a *falling out with Adrian** after loosing a **gem**. | Wife of Urwin Martikov, works in the Inn.
 
 
@@ -451,7 +451,7 @@ Second floor has a painting of Davian with his kids, including A blond haired gi
 Davian Martikov |  Adrian Martikov
 --|--
 Eldest Martikov, Father of Adrian, Urwin, stepfather to **Umbra floreo** and by extention **Aculeus**. Was tortured by the beast people. | Son of **Davian**, Brother of **Urwin Martikov**. Married to Elvira Martikov. Great with a bow and arrow, dedicated family man. Slightly suspicious of Aculeus and his magic.
-![](../Barovia/Davian_token.png) | ![](../Barovia/Adrian.png)
+<image src="../Barovia/Davian_token.png" > | <image src="../Barovia/Adrian.png" >
 
 
 
@@ -488,7 +488,7 @@ Recently Diez ("diets") an ex follower of strahd has joined the following.
 
 Melora The Wildmother |
 --|--
-The Wildmother **Melora** is the maternal **diety of nature and the wilds**. The Wildmother is shown as a **beautiful woman with green skin** nearly swallowed by a wild, tangled wreath of hair, leaves, and vines that dwarf her lithe form. Her chosen avatars, the **Dryads** and the **Eladrin**, take on this form in her grace. | ![Wildmother Iconography](../Barovia/wildmother_icon.png)
+The Wildmother **Melora** is the maternal **diety of nature and the wilds**. The Wildmother is shown as a **beautiful woman with green skin** nearly swallowed by a wild, tangled wreath of hair, leaves, and vines that dwarf her lithe form. Her chosen avatars, the **Dryads** and the **Eladrin**, take on this form in her grace. | <image src="../Barovia/wildmother_icon.png" >
 
 The realm of The Wildmother Melora extends to wherever the seas shift and the land grows wild. As the keeper of the wilderness, Melora represents the wild creatures of nature, the rush of the angry rapids, and the heat-heavy stillness of the desert. **Druids and Elves worship** her, as do **hunters**, accepting her guidance to exist harmoniously within savage lands.
 
@@ -501,7 +501,7 @@ her true form revealed in a dream
 
 Forest Fane of the Wildmother|
 --|--
-Blue eyes like the midday sky with **skin as green as the fauna** that surrounds her, **Long hair** dotted by the occasional flowers like lilies on a patch of bright spring grass. This is what a fane of the Wildmother looks like. A maiden fairer than one can bare laying their eyes on. | ![Forest Fane](.././Barovia/Dryad.jpg){.token}
+Blue eyes like the midday sky with **skin as green as the fauna** that surrounds her, **Long hair** dotted by the occasional flowers like lilies on a patch of bright spring grass. This is what a fane of the Wildmother looks like. A maiden fairer than one can bare laying their eyes on. | <image src="../Barovia/Dryad.jpg" class="token" >
 
 
 
@@ -537,11 +537,11 @@ The hags are now in the swamps of berez, the ruins of Berez, **Morgantha** has t
 
 Gertruda |
 --|--
-Young girl stolen by the hags, to be turned into one. She has a scar in the shape of an upside down bowl with a dot on her forehead.  She has a good heart and is afraid of what is happening to her. She was brave in getting the little ones out of the tower. She has a mother in the town of Barovia and a dog to help us find her. | ![Gertruda](../Barovia/gertruda.png){.token}
+Young girl stolen by the hags, to be turned into one. She has a scar in the shape of an upside down bowl with a dot on her forehead.  She has a good heart and is afraid of what is happening to her. She was brave in getting the little ones out of the tower. She has a mother in the town of Barovia and a dog to help us find her. | <image src="../Barovia/gertruda.png" class="token" >
 
 Granny Morgantha |
 --|--
-Evil bitch. Meets Ludwig at the sunset gate.| ![Morgantha](../Barovia/morgantha.png){.token}
+Evil bitch. Meets Ludwig at the sunset gate.| <image src="../Barovia/morgantha.png" class="token" >
 
 ### The Wizard
 One year ago, There was a wizard that travelled Barovia. He gathered troops and lead a **rebellion** against **Strahd**. Though he failed. Finding him would prove a useful ally in the fight against the undead tyrant. Madame Eva has told us to seek him out. Sightings of a man shooting lightning from his fingers are heard north of lake Zarovich.
@@ -590,7 +590,7 @@ A holyfied lake.
 
 ## Floreo
 
-![Aculeus, blessed by the fane](../.\Barovia\Aculeus_blessing.png){.token width=100%}  
+<image src="../Barovia/Aculeus_blessing.png" class="token">
 
 ### Goals
 
@@ -712,7 +712,7 @@ Welcoming mystical travelers of the mists with a strong oral tradition and deep-
   
 
 ## History {.justify}
-![](../.\Barovia\Aculeus_og.jpg){width=33.3%}![](../.\Barovia\Aculeus_awakened.jpg){width=33.3%}![](../.\Barovia\Aculeus_blessing.png){width=33.3%}
+<image src="../Barovia/Aculeus_og.jpg" style="width:33.33%"><image src="../Barovia/Aculeus_awakened.jpg" style="width:33.33%"><image src="../Barovia/Aculeus_blessing.png" style="width:33.33%">
 
 ### Birth and childhood
 I've been told my mother **Umbra** and father **Fenrin** were an unlikely pair, one a brooding noble working as a knight and one a druid who cared for the forests nearby. 
@@ -724,7 +724,7 @@ Maybe they were right in condemning me, people seemed to get hurt around me, shr
 
 Umbra Floreo | Fenrir Floreo
 ---|---
-![](../Barovia/Umbra.png){.token} | ![](../Barovia/Fenrir1_5.jpg){.token}
+<image src="../Barovia/Umbra.png" class="token" > | <image src="../Barovia/Fenrir1_5.jpg" class="token" >
 Kindhearted druid of the **Wildmother**, died giving birth to Aculeus under a red moon | Ex knight and diplomat, father of Aculeus. A kind and charismatic man.
   
 ### Teen years and a grove of druids:
@@ -762,7 +762,7 @@ Off I set towards the tiny town of Idsmouth. The journey was a distance of two m
 ## The Transmuter
 
 ### The Transmuter {.book}
-![The transmuter](../.\Barovia\Transmuter.png)  
+<image src="../Barovia/Transmuter.png" >  
 *Aculeus, born of the land. And believe me they have their eyes on you.*  
 *The card of change. Seek a hill with monuments of stone, let guide you wings of ravens.*  
 *There you shall find what you seek.*
