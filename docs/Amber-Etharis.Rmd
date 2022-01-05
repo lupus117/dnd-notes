@@ -7,7 +7,7 @@ output:
   html_document:    
     includes:
       in_header: etharis_header.html
-    css: ../notes.css
+    css: ../notes.css   
   pdf_document:
     toc: yes
     toc_depth: 3
@@ -231,9 +231,21 @@ One must beware when dealing with hags, however - often the payment they demand 
 
 ## Gräffendam
 
+
+### Map of Gräffendam {.book .halfSize}
+
+<div class="clipZoom"><image style="border-radius:10%" src="../Etharis/Graffendam.png" class="torn "></div>
+
+Art by the dm [Amber](https://toyhou.se/Mikkova)
+
 ### The high city
+The lofty walled sity of Gräffendam sits above the dam by the water reserve. 
+
+A place for the people of high society to travel to. As it is placed by both Ostoya and the Burag it is influenced by both yet notably has both sunlight and more than a handful of half elves.
 
 ### Unterdam
+
+A dingy den below the obsidian dam of Gräffendam, once more magnificent. Now place for those unfit for high society and thus driven even deeper into poverty 
 
 
 ## The Domains of Dread
