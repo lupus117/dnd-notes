@@ -8,6 +8,7 @@ output:
     includes:
       in_header: etharis_header.html
     css: ../notes.css   
+    toc: yes
   pdf_document:
     toc: yes
     toc_depth: 3
