@@ -1881,7 +1881,7 @@ Abraxas plays a tune he made for Terrabella.
 
 She likes it, the conversation turns to the winged suits.
 
-<image src="Glide_suit.png"/>
+<image src="../Etharis/Glide_suit.png"/>
 
 One of the erkin, Gek demonstrates the winged suit. Based the disain on a squirrel friend called sasquach. He was supposed to do it but has not yet returned, could have gotten lost on the way back.
 Sasquatch went after Hollowreed on Weirwood island.
