@@ -1851,12 +1851,12 @@ Tokas pulls out a healing potion and earring.
 "So you live in the forest."
 Were you alive when Graffendam was founded. (about 1000-700y ago)
 "No."
-Tokas: "Why are you mugging us"
+Tokas: "Why are you mugging us"   
 Alin: "Don't you take tribute to the king."
 Tokas: "May I know your name? So I could pay a visit later."
 Dragon: "I'd rather you not visit."
 Dragon: "They call me Kr'ek."
-Masq: "Would you mind letting us past and show us the druid Terrabella."
+Masq: "Would you mind letting us past and show us the druid Terrabella if we repay you with more later."
 Dragon: "Very well. Follow this path until a tree split in twine, then turn right and keep going through."
 
 

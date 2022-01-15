@@ -309,6 +309,7 @@ img.threeQuartersSize {
     object-fit: contain;
     border-radius: 0%;
     object-position: 50% 50%;
+    transition: all 0.5s ease;
 }
 
 .token {
@@ -345,11 +346,10 @@ img.threeQuartersSize {
         opacity: 0.5;
         width: 100%;
     }
-}
-
-@media only screen and (min-width: 1120px) {
-    .spotify:hover {
-        width: 40%;
+    @media only screen and (min-width: 1120px) {
+        .spotify:hover {
+            width: 40%;
+        }
     }
 }
 
@@ -375,6 +375,6 @@ img.threeQuartersSize {
 }
 
 .clipZoom:hover {
-    clip-path: circle(200%);
+    clip-path: circle(200%) !important;
     transition: all 2s;
 }
