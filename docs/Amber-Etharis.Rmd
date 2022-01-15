@@ -246,6 +246,14 @@ The lofty walled sity of Gräffendam sits above the dam by the water reserve.
 
 A place for the people of high society to travel to. As it is placed by both Ostoya and the Burag it is influenced by both yet notably has both sunlight and more than a handful of half elves.
 
+### Weirwood island
+
+#### Map {.halfSize .book}
+
+<div style="clip-path: circle(40%)"><image style="transform: scale(3.7) translate(22%, 14%)" src="../Etharis/Graffendam.png" class="torn "></div>
+
+
+
 ### Unterdam
 
 A dingy den below the obsidian dam of Gräffendam, once more magnificent. Now place for those unfit for high society and thus driven even deeper into poverty 
