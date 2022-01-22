@@ -248,9 +248,11 @@ A place for the people of high society to travel to. As it is placed by both Ost
 
 ### Weirwood island
 
-#### Map {.halfSize .book}
+#### Location {.halfSize .book}
 
 <div style="clip-path: circle(40%)"><image style="transform: scale(3.7) translate(22%, 14%)" src="../Etharis/Graffendam.png" class="torn "></div>
+
+Located within the lake above Unterdam is a massive weirwood tree, spanning more than a thousand feet in height.
 
 
 
@@ -1937,3 +1939,41 @@ A pink bubble with two bulbus black eyes kind of squishy emerges. It rests on th
 
 
 <image src="../Etharis/monsters/axolotling_2.png" style="width:50%"/><image src="../Etharis/monsters/axolotling_3.png" style="width:50%"/>
+
+## 28
+
+we collect the reeds
+
+ratigan sees a glowing pink sausage in the water
+
+We approach and collect the purple sqirrel called Sasquach. 
+
+He changes color as alin feeds him tasty roots.
+
+He joins us.
+
+Masq gathers the requred reeds.
+
+Puppy grabs the studded pink wand from the water,
+
+> initiative 
+
+We are in the canopy as we see a darting shape of beating wings a Griffon that lands with a loud creak in it's nest. It's beak digging through foliage.
+
+Alin summons a bear spirit to boost the people's vitality and make certain they don't fall.
+
+Tokas gets ready to jump. Unit, trying to keep Sasquatch alive, turns Alin invisible.
+
+Masq casts phantasmal force on the griffon, creating a visage of an adventurer that's trying to destroy the nest.
+
+The Griffin spots us, then the adventurer.
+
+We start to glide away, one by one.
+
+Sasquatch shows us how it's done.
+
+We meet Terrabella again
+
+Hollow reed can be used to make weapons and breathe underwater.
+
+Tokas identifies the wand. He has a vision of a mechanical workshop filled with things he's never heard of. A gnome, bent over a looking glass, looking at the wand. It is a lipstick. This lipstick holds enough juice to be applied ten times to one's lips. When you kiss a creature after applying it they must succeed on a dc14 wis saving through or be charmed by you for an hour. If one kisses on the lips it fails automatically. 
