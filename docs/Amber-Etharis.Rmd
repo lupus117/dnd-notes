@@ -254,7 +254,17 @@ A place for the people of high society to travel to. As it is placed by both Ost
 
 Located within the lake above Unterdam is a massive weirwood tree, spanning more than a thousand feet in height.
 
+### The Purple Bookworm
 
+
+<img src="../Etharis/The_Purple_Bookworm.png">
+
+<img src="../Etharis/Ransdir.jpg" class="circle " style="margin-top: -26em; margin-left: 25%; margin-right: 35%; ">
+
+Ransdir Falconer, a middle-aged optimist of a tiefling with purplish skin tone, collects, buys, and sells books in his cozy little bookshop. One can find many types of books from Morencian love novels to encyclopedias on his tightly packed and well-organized shelves. Ransdir also serves tea to anyone who cares to stay a bit to read in one of his comfy armchairs.
+
+
+### Koloss' boots
 
 ### Unterdam
 
@@ -906,6 +916,8 @@ The Fruminous Bandersnatch a six legged creature. That speeds in the wilds of Os
 ### the Bürach Empire
 
 **Languages:** Imperial Norm, Lower-Bürach, High-Bürach, Raulish, Valikan
+
+Founded by emperor Leopold
 
 #### Altenheim
 
@@ -1977,3 +1989,98 @@ We meet Terrabella again
 Hollow reed can be used to make weapons and breathe underwater.
 
 Tokas identifies the wand. He has a vision of a mechanical workshop filled with things he's never heard of. A gnome, bent over a looking glass, looking at the wand. It is a lipstick. This lipstick holds enough juice to be applied ten times to one's lips. When you kiss a creature after applying it they must succeed on a dc14 wis saving through or be charmed by you for an hour. If one kisses on the lips it fails automatically. 
+
+## 29
+
+tour guide is a halfling who visits Koloss' boots along with the guards.
+
+We visit larsane
+
+Abraxas gives him a flower for apology, heavily implying that he should do that with Terrabella.
+
+### Purple bookworm
+
+We enter the Purple Bookworm, a large book shop
+
+There's a purlple tiefling overseeing, he's elegant, he asks if he can help. 
+
+<img src="../Etharis/The_Purple_Bookworm.png">
+
+<img src="../Etharis/Ransdir.jpg" class="circle " style="margin-top: -26em; margin-left: 25%; margin-right: 35%; ">
+
+> Alin talks to the tiefling 
+
+Alin asks if the tiefling can show them around. They inquire about some books about the makeup of the world. Do they have something about the doomsday gazetteers? They only have gazetteers of different graffendam 
+
+>Masq finds a book 
+
+A very glossy starry book cover covered in stars, there is a skeleton depicted on it and a red dragon. "The Great Malzdreziret the Scaled Imposter" tale about a red dragon tyrant that lay siege to graddendam in its infancy for decades. The golden swords of gildraeth, lay old marks of the dragon's breath. Masq notices themselfes sit on a cushioned seat on the second floor, given tea by the tiefling.
+
+> Abraxas looks for a book on half elves in graffendam. 
+
+He finds A very small autobiography, pocket sized. It is marked, not for sale and is called. "Of the seven sisters".
+
+This book is about a high elf from Charneault. At a young age she was sold to the local nobility. It was commonplace for human nobles to extort or otherwise pressure elven families to sell their maidens. For as much as humans hated and were disgusted by elves, they envied them more. To have an elven maiden as a wife for your son meant beautiful or handsome offspring with an ethereal grace, all that was required was mutilation at a young age and an absence of the mother in their lives and you would have a lineage full of beauty and virility. 
+She was bought up by a nobleman for his young son, only for her husband-to-be to perish in the Charneault - Castinella war. Her family in law, stricken with grief, sent her away. Not to her own family or even her own people, but they instead locked her in a tower and cursed her name for the misfortune she had brought upon their household. 
+Here she would wither away for decades as those who had cursed her would perish and the servants who would bring her supplies grew old, had children and were subsequently replaced by those very children. Many of time she had imagined throwing herself from the tower in her grief, and many times she had stepped back inside, too proud and perhaps too hopeful to give in.
+The people of the town began to forget who she was, and it was several decades later still when a young boy saw the elven lady from the tower and to him, it looked just like a fairytale. When he asked her what she did up there, she answered him in her own tongue, and the boy grew frightened and ran away. 
+He told the town of the lady who dwelled in the overgrown tower, of the lady who might be a living dead.
+When the townsfolk came upon her and heard her words, they too saw that she was not human; she was clearly a demon straight from the hells.They set her long hair on fire, and in the end it would burn her as well. 
+And she wept and cried, in that language of hers, but none would understand, nor show mercy. She wept until her tongue and eyes were no more, and then only her soul cried out. 
+It wasn’t until much later that she woke up in the arms of someone kind and caring, and her new eyes were still tender and blurry but she saw momentarily a glowing, antlered visage of his elven face.
+
+abraxas recalls this as the skinwalker, father of elves. He's well over 25k years old, he crafts new bodies to enhabit over and over and over again. At night the skinwaslker will go looking for the impure. Weather wearing a male or female guize, you know them coming with the clinking of throusands of neclases from elves who can no longer be revived for eons to come.
+
+<img src="../Etharis/skinwalker.png" class="circle"/>
+
+
+> Tokas looks for artifacts
+
+Aurelias respite, home to the saint who was god touched and pure. Held an item from doctor a robe of celestial grace.
+
+> Unit looks for books on tinkering and making golems
+
+He finds a cast iron cover book on the second floor. A thick book bound in chains within a dome. A manual of iron golems.
+
+How much is the book? This book is impermanent, if you read it it ceases to be, I find that sad. Usually the book simply sits and waits. "I think I will read fantacy and give you an epic quest, then i will give you this quest."
+
+"I'm Ransdir"
+
+> Alin tries to learn more about the domains of dread
+
+"I do not belive I know of such accounts or books. I have accounts on the incident at Ulmyr's gate. Oh, you are not familiar. It was some time ago that the city of Ulmyr's gate ( far nw of here) edge of burag and valikan. A sprawling city of magic. A collection of accounts that took place there, a rift torn into the fabric of reality. The entire city dissapeared. The people within sometimes re-appeared, trapped between worlds." 
+
+Alin learns more about the Disembodied, a race of people stuck between the real and etherial plane.
+
+!What me you to take care of these books? I inherited them and i was happy to stay here unlike my other siblings."
+
+> Abraxas writes notes about the book on parchment.
+
+### Coloss' boots
+
+We enter the tavern, fitted with huge equipment.
+
+There's two people of note sitting at the shield table: a halfling woman and a man with the head of a hyena.
+
+Abraxas goes to the bar, the barman is a human male with curly hare and a toothpic. 
+
+<img src="../Etharis/Jackie_daytona.png" class="halfSize"/>
+
+Abraxas buys everyone in the bar a drink, hes earned the people's favor.
+
+Unit looks through Puppies eyes.
+
+Masq wants to get close to the halfling and hyena, grabbing a drink to get closer.
+
+Annie(the tour guide) claps the hyena on the back, she's won again. 
+Masq challanges her to a drinking contest.
+
+THe river attached to teh well goes upstream to a tree.
+
+THe pump for the water is in the whitewater temple. Only the speaker can unlock the well anymore. But why would he do that when the well is broken.
+
+The wizard wasn't that good wirth words, he got a memo to make owlbears, he made owlboars. He loved animals and was vegan. 
+
+He wanted to make the perfect creation and he thought lycanthropy was scawy. Did you know he's a minotaur created by the scientist.
+
+The halfling passes out, alin tries to lesser restoration to get rid of masq's drunk but is counterspelled by jacky deytona.
